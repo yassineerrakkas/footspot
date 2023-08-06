@@ -9,15 +9,15 @@ const Navbar = () => {
 
       <form className="search-bar" action="">
         <input type="text" placeholder="Search"></input>
-        <button type="submit" class="material-symbols-rounded search-btn">
+        <button type="submit" className="material-symbols-rounded search-btn">
           search
         </button>
       </form>
 
       <div className="right-side">
-        <span class="material-symbols-rounded">favorite</span>
-        <span class="material-symbols-rounded">dark_mode</span>
-        <span class="material-symbols-rounded account">account_circle</span>
+        <span className="material-symbols-rounded">favorite</span>
+        <span className="material-symbols-rounded">dark_mode</span>
+        <span className="material-symbols-rounded account">account_circle</span>
       </div>
     </nav>
   );

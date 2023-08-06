@@ -1,7 +1,10 @@
 * {
   padding: 0;
   margin: 0;
+  font-family: "Inter", sans-serif;
+  font-family: "Varela Round", sans-serif;
 }
+
 .container {
   width: 100%;
   min-height: 100vh;
@@ -62,4 +65,13 @@ nav .material-symbols-rounded {
 }
 nav .account {
   font-size: 2.3rem;
+}
+.main-content{
+  display: flex;
+}
+.left-side{
+  background: #f6f6f4 ;
+  width: auto;
+  height: 100vh;
+  border-right: solid 1px #d3d3d3;
 }
