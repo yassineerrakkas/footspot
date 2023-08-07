@@ -7,7 +7,9 @@ function App() {
       <Navbar />
       <div className="main-content">
         <div className="left-side">
+          <h3 className="title">Calendar</h3>
           <Calender />
+          <h3 className="title">Top Leagues</h3>
         </div>
       </div>
     </div>

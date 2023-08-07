@@ -12,7 +12,24 @@
 }
 .left-side {
   background: #f6f6f4;
-  width: auto;
+  width: 20 rem;
   height: 100vh;
+  display: flex;
+  padding: 1.5rem 1rem 1.75rem 1rem;
   border-right: solid 1px #d3d3d3;
+
+  flex-direction: column;
+  align-items: center;
+  gap: 1rem;
+  flex-shrink: 0;
+}
+.main-content .left-side .title {
+  align-self: stretch;
+  font-family: Inter;
+  font-size: 0.875rem;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  text-transform: uppercase;
+  color: rgb(104, 104, 104);
 }
