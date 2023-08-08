@@ -13,7 +13,7 @@
 .left-side {
   background: #f6f6f4;
   width: 20 rem;
-  height: 100vh;
+  height: auto;
   display: flex;
   padding: 1.5rem 1rem 1.75rem 1rem;
   border-right: solid 1px #d3d3d3;

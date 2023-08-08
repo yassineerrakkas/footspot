@@ -30,7 +30,8 @@ header .icons span {
   margin-right: -10px;
 }
 header .icons span:hover {
-  background: #f2f2f2;
+  background: #e2e2e2;
+  transition: 0.4s;
 }
 header .current-date {
   font-size: 1.2rem;
@@ -86,8 +87,10 @@ header .current-date {
 }
 
 .days li.active::before {
-  background: #9b59b6;
+  background: #ffb007;
 }
-.days li:not(.active, .selected):hover::before {
-  background: #c5c5c5;
+.days li:not(.active, .selected, .inactive):hover::before {
+  background: #ffb00723;
+  transition: 0.4s;
 }
+/* tk7OJIQmsOuTZq3iN530xLseoP8aFJYUQBX0JY8LbnWS3hEL5oHWimK602uX */

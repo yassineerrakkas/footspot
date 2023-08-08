@@ -1,6 +1,7 @@
 import "./App.css";
 import Calender from "./Components/Calendar";
 import Navbar from "./Components/Navbar";
+import TopLeagues from "./Components/TopLeagues";
 function App() {
   return (
     <div className="container">
@@ -10,6 +11,8 @@ function App() {
           <h3 className="title">Calendar</h3>
           <Calender />
           <h3 className="title">Top Leagues</h3>
+          <TopLeagues></TopLeagues>
+          <h3 className="title">favorite clubs</h3>
         </div>
       </div>
     </div>
