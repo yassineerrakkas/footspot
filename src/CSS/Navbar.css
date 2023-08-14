@@ -1,23 +1,26 @@
 nav.Navbar {
   height: 4rem;
   background-color: #f6f6f4;
-  border: solid 1px #d3d3d3;
+  border-bottom: solid 1px #5107ff34;
   display: flex;
   justify-content: space-between;
-  justify-items: center;
   align-items: center;
+  position: fixed;
+  width: 100%;
+  z-index: 10;
 }
 nav .logo {
   cursor: pointer;
-  font-family: "Inter", sans-serif;
   font-family: "Varela Round", sans-serif;
 }
 nav .search-bar {
   display: flex;
   align-items: center;
-  width: 100%;
+  width: auto;
   height: 50%;
+  min-width: 12rem;
   max-width: 17rem;
+  width: auto;
   background-color: rgba(0, 0, 0, 0.05);
   border-radius: 15px;
   padding: 0 10px;
@@ -45,9 +48,10 @@ nav .logo {
   display: flex;
   justify-content: space-around;
   align-items: center;
-  width: 13%;
+  min-width: 13%;
 }
 nav .material-symbols-rounded {
+  margin: 10px;
   cursor: pointer;
   color: #636363;
 }

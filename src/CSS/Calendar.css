@@ -87,10 +87,10 @@ header .current-date {
 }
 
 .days li.active::before {
-  background: #ffb007;
+  background: #5107ff62;
 }
 .days li:not(.active, .selected, .inactive):hover::before {
-  background: #ffb00723;
+  background: #61616123;
   transition: 0.4s;
 }
 /* tk7OJIQmsOuTZq3iN530xLseoP8aFJYUQBX0JY8LbnWS3hEL5oHWimK602uX */

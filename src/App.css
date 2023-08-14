@@ -10,18 +10,22 @@
   min-height: 100vh;
   background-color: #ffffff;
 }
+.main-content {
+  display: flex;
+  justify-content: space-between;
+  padding-top: 4rem;
+}
 .left-side {
   background: #f6f6f4;
-  width: 20 rem;
   height: auto;
   display: flex;
   padding: 1.5rem 1rem 1.75rem 1rem;
-  border-right: solid 1px #d3d3d3;
-
+  border-right: solid 1px #5107ff34;
+  flex: 1;
+  width: 20%;
   flex-direction: column;
   align-items: center;
   gap: 1rem;
-  flex-shrink: 0;
 }
 .main-content .left-side .title {
   align-self: stretch;
@@ -32,4 +36,13 @@
   line-height: normal;
   text-transform: uppercase;
   color: rgb(104, 104, 104);
+}
+.main-side {
+  flex: 3;
+  width: 80%;
+  display: flex;
+  padding: 1.5rem;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 3rem;
 }

@@ -4,7 +4,7 @@ const Navbar = () => {
   return (
     <nav className="Navbar">
       <div className="logo">
-        <h2>Foot Spot</h2>
+        <h2>⚽️ Foot Spot</h2>
       </div>
 
       <form className="search-bar" action="">

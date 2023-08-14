@@ -1,6 +1,6 @@
 import React from "react";
 import "../CSS/TopLeagues.css";
-import Records from "../topleagues.json";
+import Records from "../Json/topleagues.json";
 
 const TopLeagues = () => {
   return (

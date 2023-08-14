@@ -1,0 +1,132 @@
+.footballmatches {
+  width: 100%;
+}
+.footballmatches main {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+.standings {
+  display: flex;
+  flex-direction: column;
+  font-family: Inter;
+  gap: 1rem;
+}
+
+.options {
+  display: flex;
+  justify-content: left;
+  align-items: center;
+  gap: 2em;
+}
+.container-title {
+  font-family: Inter;
+  font-size: 1.2rem;
+  font-style: normal;
+  line-height: normal;
+}
+.options li {
+  position: relative;
+  list-style: none;
+  color: rgb(104, 104, 104);
+  font-family: Inter;
+  font-size: 1rem;
+  font-style: normal;
+  line-height: normal;
+  cursor: pointer;
+}
+.line {
+  width: 100%;
+  height: 2px;
+  background-color: rgba(0, 0, 0, 0.158);
+}
+.options li:after {
+  content: "";
+  position: absolute;
+  width: 0;
+  height: 2px;
+  left: 0;
+  bottom: -1.12rem;
+}
+.options li.active:after {
+  width: 100%;
+  background-color: #5107ff62;
+}
+.options li:not(.active):hover:after {
+  width: 100%;
+  background-color: rgba(107, 107, 107, 0.626);
+}
+.match-row {
+  background-color: #5107ff1d;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-family: "Varela Round", sans-serif;
+  color: rgb(67, 67, 67);
+  padding: 10px;
+  border-radius: 10px;
+}
+.match-row:hover {
+  background-color: #5107ff4d;
+  transition: 1s;
+}
+.match-row:hover::before {
+  background-color: #5107ff1d;
+  transition: 1s;
+}
+
+.team-img {
+  width: 2.5rem;
+}
+.score,
+.state {
+  font-family: "Varela Round", sans-serif;
+  background-color: #8b07ff45;
+  padding: 2px 10px;
+  border-radius: 15px;
+}
+.selected-league {
+  color: rgb(104, 104, 104);
+  display: flex;
+  align-items: center;
+  gap: 0.3rem;
+}
+
+.selected-league img {
+  height: 1.5rem;
+}
+.stable {
+  border-collapse: collapse;
+  width: auto;
+  font-size: 0.9rem;
+  font-family: Inter;
+  min-width: 100%;
+  border-radius: 0.7rem 0.7rem 0 0;
+  overflow: hidden;
+}
+
+.stable thead tr {
+  background-color: #5107ff33;
+  height: 2rem;
+  text-align: left;
+  font-weight: bold;
+}
+.stable td,
+th {
+  padding: 12px 15px;
+}
+.stable tbody tr {
+  border: 1px solid #5107ff33;
+}
+.stable tbody tr:last-of-type {
+  border-bottom: 10px solid #5107ff33;
+}
+
+.standingRow .team img {
+  width: 2rem;
+}
+tr .team {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}

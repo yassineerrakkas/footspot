@@ -1,0 +1,162 @@
+[
+  {
+    "rank": 1,
+    "team": "Manchester City",
+    "points": 89,
+    "games_played": 38,
+    "goal_difference": 61,
+    "logo": "https://icons.whatsthescore.com/team/s/83.png"
+  },
+  {
+    "rank": 2,
+    "team": "Arsenal",
+    "points": 84,
+    "games_played": 38,
+    "goal_difference": 45,
+    "logo": "https://icons.whatsthescore.com/team/s/10.png"
+  },
+  {
+    "rank": 3,
+    "team": "Manchester United",
+    "points": 75,
+    "games_played": 38,
+    "goal_difference": 15,
+    "logo": "https://icons.whatsthescore.com/team/s/84.png"
+  },
+  {
+    "rank": 4,
+    "team": "Newcastle",
+    "points": 71,
+    "games_played": 38,
+    "goal_difference": 35,
+    "logo": "https://icons.whatsthescore.com/team/s/87.png"
+  },
+  {
+    "rank": 5,
+    "team": "Liverpool",
+    "points": 67,
+    "games_played": 38,
+    "goal_difference": 28,
+    "logo": "https://icons.whatsthescore.com/team/s/81.png"
+  },
+  {
+    "rank": 6,
+    "team": "Brighton",
+    "points": 62,
+    "games_played": 38,
+    "goal_difference": 19,
+    "logo": "https://icons.whatsthescore.com/team/s/1065.png"
+  },
+  {
+    "rank": 7,
+    "team": "Aston Villa",
+    "points": 61,
+    "games_played": 38,
+    "goal_difference": 5,
+    "logo": "https://icons.whatsthescore.com/team/s/15.png"
+  },
+  {
+    "rank": 8,
+    "team": "Tottenham",
+    "points": 60,
+    "games_played": 38,
+    "goal_difference": 6,
+    "logo": "https://icons.whatsthescore.com/team/s/118.png"
+  },
+  {
+    "rank": 9,
+    "team": "Brentford",
+    "points": 59,
+    "games_played": 38,
+    "goal_difference": 12,
+    "logo": "https://icons.whatsthescore.com/team/s/635.png"
+  },
+  {
+    "rank": 10,
+    "team": "Fulham",
+    "points": 52,
+    "games_played": 38,
+    "goal_difference": 2,
+    "logo": "https://icons.whatsthescore.com/team/s/62.png"
+  },
+  {
+    "rank": 11,
+    "team": "Crystal Palace",
+    "points": 45,
+    "games_played": 38,
+    "goal_difference": -9,
+    "logo": "https://icons.whatsthescore.com/team/s/747.png"
+  },
+  {
+    "rank": 12,
+    "team": "Chelsea",
+    "points": 44,
+    "games_played": 38,
+    "goal_difference": -9,
+    "logo": "https://icons.whatsthescore.com/team/s/36.png"
+  },
+  {
+    "rank": 13,
+    "team": "Wolverhampton",
+    "points": 41,
+    "games_played": 38,
+    "goal_difference": -27,
+    "logo": "https://icons.whatsthescore.com/team/s/1091.png"
+  },
+  {
+    "rank": 14,
+    "team": "West Ham",
+    "points": 40,
+    "games_played": 38,
+    "goal_difference": -13,
+    "logo": "https://icons.whatsthescore.com/team/s/135.png"
+  },
+  {
+    "rank": 15,
+    "team": "Bournemouth",
+    "points": 39,
+    "games_played": 38,
+    "goal_difference": -34,
+    "logo": "https://icons.whatsthescore.com/team/s/627.png"
+  },
+  {
+    "rank": 16,
+    "team": "Nottingham",
+    "points": 38,
+    "games_played": 38,
+    "goal_difference": -30,
+    "logo": "https://icons.whatsthescore.com/team/s/2431.png"
+  },
+  {
+    "rank": 17,
+    "team": "Everton",
+    "points": 36,
+    "games_played": 38,
+    "goal_difference": -23,
+    "logo": "https://icons.whatsthescore.com/team/s/46.png"
+  },
+  {
+    "rank": 18,
+    "team": "Leicester",
+    "points": 34,
+    "games_played": 38,
+    "goal_difference": -17,
+    "logo": "https://icons.whatsthescore.com/team/s/175.png"
+  },
+  {
+    "rank": 19,
+    "team": "Leeds",
+    "points": 31,
+    "games_played": 38,
+    "goal_difference": -29,
+    "logo": "https://icons.whatsthescore.com/team/s/181.png"
+  },
+  {
+    "rank": 20,
+    "team": "Southampton",
+    "points": 25,
+    "games_played": 38,
+    "goal_difference": -37,
+    "logo": "https://icons.whatsthescore.com/team/s/108.png"
+  }
+]

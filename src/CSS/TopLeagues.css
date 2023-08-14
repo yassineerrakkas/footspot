@@ -17,10 +17,11 @@
   padding: 0 0.5rem;
   display: flex;
   width: 100%;
-  height: 2.8rem;
+  min-height: 2.8rem;
+  height: auto;
   justify-content: left;
   align-items: center;
-  background-color: #ffb00762;
+  background-color: #5107ff33;
   border-radius: 8px;
   gap: 0.3rem;
 }
@@ -30,7 +31,7 @@
   height: 1.6rem;
 }
 span.league-title {
-  color: rgb(104, 104, 104);
+  color: rgb(67, 67, 67);
 }
 .topleagues .leagues-container:hover {
   background-color: rgba(212, 212, 212, 0.452);
