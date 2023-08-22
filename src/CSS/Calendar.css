@@ -2,14 +2,14 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap");
 
 .wrapper {
-  width: 15rem;
+  width: auto;
+  max-width: 90%;
   background: transparent;
 }
 .wrapper header {
   display: flex;
   align-items: center;
   justify-content: space-around;
-  width: 100%;
 }
 header .icons {
   display: flex;
@@ -36,6 +36,7 @@ header .icons span:hover {
 header .current-date {
   font-size: 1.2rem;
   font-weight: 500;
+  color: var(--logocolor);
 }
 .calendar {
   padding-top: 20px;
@@ -50,7 +51,7 @@ header .current-date {
   margin-bottom: 20px;
 }
 .calendar li {
-  color: #333;
+  color: var(--activeday);
   width: calc(100% / 7);
   font-size: 1.07rem;
 }
@@ -66,7 +67,7 @@ header .current-date {
   font-size: 0.8rem;
 }
 .days li.inactive {
-  color: #aaa;
+  color: var(--inactiveday);
 }
 .days li.active {
   color: #fff;
@@ -93,4 +94,3 @@ header .current-date {
   background: #61616123;
   transition: 0.4s;
 }
-/* tk7OJIQmsOuTZq3iN530xLseoP8aFJYUQBX0JY8LbnWS3hEL5oHWimK602uX */

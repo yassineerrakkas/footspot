@@ -24,6 +24,7 @@
   font-size: 1.2rem;
   font-style: normal;
   line-height: normal;
+  color: var(--logocolor);
 }
 .options li {
   position: relative;
@@ -38,7 +39,7 @@
 .line {
   width: 100%;
   height: 2px;
-  background-color: rgba(0, 0, 0, 0.158);
+  background-color: var(--line);
 }
 .options li:after {
   content: "";
@@ -48,27 +49,30 @@
   left: 0;
   bottom: -1.12rem;
 }
+.options li.active {
+  color: var(--option);
+}
 .options li.active:after {
   width: 100%;
-  background-color: #5107ff62;
+  background-color: var(--underline);
 }
 .options li:not(.active):hover:after {
   width: 100%;
   background-color: rgba(107, 107, 107, 0.626);
 }
 .match-row {
-  background-color: #5107ff1d;
+  background-color: var(--bublecolor);
   display: flex;
   justify-content: space-between;
   align-items: center;
   font-family: "Varela Round", sans-serif;
-  color: rgb(67, 67, 67);
+  color: var(--row-color);
   padding: 10px;
   border-radius: 10px;
 }
 .match-row:hover {
-  background-color: #5107ff4d;
-  transition: 1s;
+  background-color: #4545454d;
+  transition: 0.3s;
 }
 .match-row:hover::before {
   background-color: #5107ff1d;
@@ -81,9 +85,15 @@
 .score,
 .state {
   font-family: "Varela Round", sans-serif;
-  background-color: #8b07ff45;
+  background-color: var(--score-background);
+  color: var(--score-color);
   padding: 2px 10px;
   border-radius: 15px;
+}
+.state {
+  background-color: var(--state-background);
+  color: var(--state-color);
+  border-radius: 8px;
 }
 .selected-league {
   color: rgb(104, 104, 104);
@@ -103,10 +113,11 @@
   min-width: 100%;
   border-radius: 0.7rem 0.7rem 0 0;
   overflow: hidden;
+  color: var(--table-content);
 }
 
 .stable thead tr {
-  background-color: #5107ff33;
+  background-color: var(--table-header);
   height: 2rem;
   text-align: left;
   font-weight: bold;
@@ -116,10 +127,10 @@ th {
   padding: 12px 15px;
 }
 .stable tbody tr {
-  border: 1px solid #5107ff33;
+  border-bottom: 2px solid var(--table-header);
 }
 .stable tbody tr:last-of-type {
-  border-bottom: 10px solid #5107ff33;
+  border-bottom: 10px solid var(--table-header);
 }
 
 .standingRow .team img {

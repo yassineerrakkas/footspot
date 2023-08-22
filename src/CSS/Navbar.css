@@ -1,7 +1,7 @@
 nav.Navbar {
   height: 4rem;
-  background-color: #f6f6f4;
-  border-bottom: solid 1px #5107ff34;
+  background-color: var(--nav-left-background);
+  border-bottom: solid 1px var(--borders);
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -21,7 +21,7 @@ nav .search-bar {
   min-width: 12rem;
   max-width: 17rem;
   width: auto;
-  background-color: rgba(0, 0, 0, 0.05);
+  background-color: var(--searchbar-background);
   border-radius: 15px;
   padding: 0 10px;
 }
@@ -32,10 +32,10 @@ nav .search-bar input {
   outline: none;
   padding: 24px 20px;
   font-size: 15px;
-  color: #636363;
+  color: var(--searchbar-input);
 }
 ::placeholder {
-  color: #cacaca;
+  color: var(--searchbar-placeholder);
 }
 nav .search-bar button {
   border: 0;
@@ -49,6 +49,7 @@ nav .logo {
   justify-content: space-around;
   align-items: center;
   min-width: 13%;
+  color: var(--logocolor);
 }
 nav .material-symbols-rounded {
   margin: 10px;

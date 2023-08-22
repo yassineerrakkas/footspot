@@ -1,3 +1,51 @@
+:root {
+  --container-background: white;
+  --nav-left-background: #f4f4f4;
+  --borders: #9b9b9b34;
+  --leftside-title: rgb(104, 104, 104);
+  --line: rgba(0, 0, 0, 0.158);
+  --underline: #5742a9;
+  --searchbar-background: rgba(0, 0, 0, 0.05);
+  --searchbar-input: #636363;
+  --searchbar-placeholder: #cacaca;
+  --logocolor: black;
+  --activeday: #333;
+  --inactiveday: #aaa;
+  --option: rgb(0, 0, 0);
+  --league-title: rgb(67, 67, 67);
+  --bublecolor: #c4aaff33;
+  --score-color: #5742a9;
+  --score-background: rgba(87, 66, 169, 0.1);
+  --state-color: #fa0e0e;
+  --state-background: rgba(250, 14, 14, 0.1);
+  --row-color: rgb(67, 67, 67);
+  --table-header: #5107ff33;
+  --table-content: black;
+}
+[data-theme="dark"] {
+  --container-background: #212227;
+  --nav-left-background: #1b1c21;
+  --borders: #9b9b9b34;
+  --leftside-title: rgb(104, 104, 104);
+  --line: rgba(168, 168, 168, 0.158);
+  --searchbar-background: rgba(255, 255, 255, 0.05);
+  --searchbar-input: #cacaca;
+  --searchbar-placeholder: #636363;
+  --logocolor: rgb(255, 255, 255);
+  --activeday: #aaa;
+  --inactiveday: #333;
+  --option: rgb(255, 255, 255);
+  --league-title: rgb(223, 223, 223);
+  --bublecolor: #1b1c21;
+  --score-color: #f5c451;
+  --score-background: rgba(245, 196, 81, 0.1);
+  --state-color: #fff;
+  --state-background: rgba(255, 255, 255, 0.1);
+  --row-color: rgb(230, 230, 230);
+  --table-header: #00000053;
+  --table-content: white;
+}
+
 * {
   padding: 0;
   margin: 0;
@@ -8,7 +56,7 @@
 .container {
   width: 100%;
   min-height: 100vh;
-  background-color: #ffffff;
+  background-color: var(--container-background);
 }
 .main-content {
   display: flex;
@@ -16,13 +64,12 @@
   padding-top: 4rem;
 }
 .left-side {
-  background: #f6f6f4;
+  background: var(--nav-left-background);
   height: auto;
   display: flex;
   padding: 1.5rem 1rem 1.75rem 1rem;
-  border-right: solid 1px #5107ff34;
-  flex: 1;
-  width: 20%;
+  border-right: solid 1px var(--borders);
+  flex: 1.2;
   flex-direction: column;
   align-items: center;
   gap: 1rem;
@@ -35,10 +82,11 @@
   font-weight: 400;
   line-height: normal;
   text-transform: uppercase;
-  color: rgb(104, 104, 104);
+  color: var(--leftside-title);
 }
+
 .main-side {
-  flex: 3;
+  flex: 4;
   width: 80%;
   display: flex;
   padding: 1.5rem;
