@@ -1,0 +1,40 @@
+team,id,city,english_name,name_without_numbers
+AC Milan,2692,Milan,Milan,Milan
+Hellas Verona,2701,Verona,Hellas Verona,Hellas Verona
+Fiorentina,2693,Florence,Fiorentina,Fiorentina
+Juventus,2687,Turin,Juventus,Juventus
+Napoli,2714,Naples,Napoli,Napoli
+Inter Milan,2697,Milan,Inter,Inter Milan
+Atalanta,2686,Bergamo,Atalanta **,Atalanta *
+Lecce,2689,Lecce,Lecce,Lecce
+Monza,2729,Monza,Monza,Monza
+Frosinone,2801,Frosinone,Frosinone,Frosinone
+Salernitana,2710,Salerno,Salernitana,Salernitana
+Cagliari,2719,Cagliari,Cagliari,Cagliari
+Roma,2702,Rome,Roma,Roma
+Torino,2696,Turin,Torino,Torino ***
+Lazio,2699,Rome,Lazio,Lazio
+Bologna,2685,Bologna,Bologna,Bologna *
+Sassuolo,2793,Sassuolo,Sassuolo,Sassuolo
+Genoa,2713,Genoa,Genoa,Genoa
+Empoli,2705,Empoli,Empoli,Empoli
+Udinese,2695,Udine,Udinese,Udinese
+Spezia,2735,La Spezia,Spezia,Spezia
+Cremonese,2761,Cremona,Cremonese,Cremonese
+Sampdoria,2711,Genoa,Sampdoria,Sampdoria
+Benevento,2759,Benevento,Benevento,Benevento
+Crotone,2718,Crotone,Crotone,Crotone
+Parma,2690,Parma,Parma,Parma *
+Brescia,2691,Brescia,Brescia,Brescia
+SPAL,113755,Ferrara,SPAL,Spal
+ChievoVerona,2694,Verona,ChievoVerona,Chievo
+Palermo,2715,Palermo,Palermo,Palermo
+Pescara,7935,Pescara,Pescara,Pescara
+Carpi,43685,Carpi,Carpi,Carpi
+Cesena,2742,Cesena,Cesena,Cesena
+Catania,2725,Catania,Catania,Catania
+Livorno,2726,Livorno,Livorno,Livorno
+Siena,170650,Siena,Siena,Siena
+Novara,2767,Novara,Novara,Novara
+Bari,2712,Bari,Bari,Bari
+Venezia,2688,Venezia,Venezia,Venezia,

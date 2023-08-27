@@ -1,9 +1,11 @@
+import { useState } from "react";
 import "./App.css";
 import Calender from "./Components/Calendar";
 import Footballmatch from "./Components/Footballmatch";
 import Navbar from "./Components/Navbar";
 import TopLeagues from "./Components/TopLeagues";
 function App() {
+  const [leagueId, setLeagueId] = useState(1);
   return (
     <div className="container">
       <Navbar />
@@ -12,11 +14,11 @@ function App() {
           <h3 className="title">Calendar</h3>
           <Calender />
           <h3 className="title">Top Leagues</h3>
-          <TopLeagues></TopLeagues>
+          <TopLeagues setLeagueId={setLeagueId}></TopLeagues>
           <h3 className="title">favorite clubs</h3>
         </div>
         <div className="main-side">
-          <Footballmatch></Footballmatch>
+          <Footballmatch leagueid={leagueId}></Footballmatch>
         </div>
       </div>
     </div>

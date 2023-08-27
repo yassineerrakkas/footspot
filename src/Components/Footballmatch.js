@@ -3,7 +3,8 @@ import "../CSS/Footballmatch.css";
 import Matchrow from "./Matchrow";
 import StandingRows from "./StandingRows";
 
-const Footballmatch = () => {
+const Footballmatch = ({ leagueid }) => {
+  const [selectedYear, setYear] = useState(new Date().getFullYear() - 1);
   const [cond, setCond] = useState(true);
 
   const handleAllMatchClick = () => {
@@ -52,7 +53,14 @@ const Footballmatch = () => {
       date: "18 December 2022",
     },
   ];
-
+  const options = [];
+  for (let year = 2022; year >= 2010; year--) {
+    options.push(
+      <option key={year} value={year}>
+        {year}/{year + 1}
+      </option>
+    );
+  }
   return (
     <div className="footballmatches">
       <main>
@@ -87,23 +95,37 @@ const Footballmatch = () => {
         <div className="line"></div>
         <div className="standings">
           <p className="container-title">🏆 Standings</p>
-          <div className="selected-league">
-            <img src="	https://api.sofascore.app/api/v1/unique-tournament/17/image/dark"></img>
-            <span>Premier League</span>
-          </div>
+          <span className="season">
+            season :{" "}
+            <select
+              value={selectedYear}
+              onChange={(e) => setYear(e.target.value)}
+            >
+              {options}
+            </select>
+          </span>
           <div className="standing-table">
             <table className="stable">
               <thead className="table-header">
                 <tr>
                   <th className="rank-header">#</th>
                   <th className="teams-header">Teams</th>
+                  <th className="played-header">Pl</th>
+                  <th className="w-header">W</th>
+                  <th className="d-header">D</th>
+                  <th className="l-header">L</th>
+                  <th className="f-header">F</th>
+                  <th className="a-header">A</th>
+                  <th className="gd-header">GD</th>
                   <th className="points-header">Pts</th>
-                  <th className="played-header">P</th>
-                  <th className="diff-header">+/-</th>
                 </tr>
               </thead>
               <tbody className="table-content">
-                <StandingRows />
+                <StandingRows
+                  id={leagueid}
+                  year={selectedYear}
+                  setYear={setYear}
+                />
               </tbody>
             </table>
           </div>

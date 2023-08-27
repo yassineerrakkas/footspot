@@ -95,7 +95,7 @@
   color: var(--state-color);
   border-radius: 8px;
 }
-.selected-league {
+/* .selected-league {
   color: rgb(104, 104, 104);
   display: flex;
   align-items: center;
@@ -104,7 +104,7 @@
 
 .selected-league img {
   height: 1.5rem;
-}
+} */
 .stable {
   border-collapse: collapse;
   width: auto;
@@ -134,10 +134,26 @@ th {
 }
 
 .standingRow .team img {
-  width: 2rem;
+  width: 1.8rem;
 }
 tr .team {
   display: flex;
   align-items: center;
   gap: 0.5rem;
+}
+.season {
+  color: var(--leftside-title);
+}
+select {
+  background-color: var(--table-header);
+  color: var(--table-content);
+  border: none;
+  padding: 5px;
+  border-radius: 5px;
+  cursor: pointer;
+  outline: none;
+}
+option {
+  background-color: var(--bublecolor);
+  border: none;
 }

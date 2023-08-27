@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "title": "Premier League",
+    "image_url": "https://api.sofascore.app/api/v1/unique-tournament/17/image/dark"
+  },
+  {
+    "id": 2,
+    "title": "LaLiga",
+    "image_url": "https://api.sofascore.app/api/v1/unique-tournament/8/image/dark"
+  },
+  {
+    "id": 3,
+    "title": "Bundesliga",
+    "image_url": "https://api.sofascore.app/api/v1/unique-tournament/35/image/dark"
+  },
+  {
+    "id": 4,
+    "title": "Serie A",
+    "image_url": "https://api.sofascore.app/api/v1/unique-tournament/23/image/dark"
+  },
+  {
+    "id": 5,
+    "title": "Ligue 1",
+    "image_url": "https://api.sofascore.app/api/v1/unique-tournament/34/image/dark"
+  }
+]

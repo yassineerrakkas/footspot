@@ -1,19 +1,48 @@
-import React from "react";
-import Records from "../Json/PremierLeague.json";
+import React, { useState, useEffect } from "react";
 
-const StandingRows = () => {
+const StandingRows = ({ id, year, setYear }) => {
+  const [data, setData] = useState([]);
+  useEffect(() => {
+    async function fetchData() {
+      try {
+        const response = await fetch(
+          "/standings/" + id.toString() + "/" + year.toString()
+        );
+        if (response.ok) {
+          const jsonData = await response.json();
+          setData(jsonData);
+        } else {
+          console.error("Request failed with status:", response.status);
+        }
+      } catch (error) {}
+    }
+    fetchData();
+  }, [id, year]);
+  useEffect(() => {
+    setYear(new Date().getFullYear() - 1);
+  }, [id]);
   return (
     <>
-      {Records.map((record) => (
+      {data.map((record) => (
         <tr key={record.rank} className="standingRow">
           <td className="rank">{record.rank}</td>
           <td className="team">
-            <img src={record.logo} className="teamimg"></img>
-            <p>{record.team}</p>
+            <img
+              src={
+                "https://api.sofascore.app/api/v1/team/" + record.id + "/image"
+              }
+              className="teamimg"
+            ></img>
+            <p>{record.Team}</p>
           </td>
-          <td className="points">{record.points}</td>
-          <td className="played">{record.games_played}</td>
-          <td className="diff">{record.goal_difference}</td>
+          <td className="played">{record.Pl}</td>
+          <td className="w">{record.W}</td>
+          <td className="d">{record.D}</td>
+          <td className="l">{record.L}</td>
+          <td className="f">{record.F}</td>
+          <td className="a">{record.A}</td>
+          <td className="gd">{record.GD}</td>
+          <td className="pts">{record.Pts}</td>
         </tr>
       ))}
     </>
