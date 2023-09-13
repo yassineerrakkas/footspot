@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 import "../CSS/TopLeagues.css";
 
-const TopLeagues = ({ setLeagueId }) => {
+const TopLeagues = ({ setLeagueId, select_league }) => {
   const [data, setData] = useState([]);
 
   useEffect(() => {
@@ -21,14 +21,18 @@ const TopLeagues = ({ setLeagueId }) => {
     fetchData();
   }, []);
 
-  const handleClick = (id) => {
+  const handleClick = (id, title, image) => {
     setLeagueId(id);
+    select_league([title, image]);
   };
 
   return (
     <div className="topleagues">
       {data.map((record) => (
-        <div key={record.id} onClick={() => handleClick(record.id)}>
+        <div
+          key={record.id}
+          onClick={() => handleClick(record.id, record.title, record.image_url)}
+        >
           <div className="leagues-container">
             <img src={record.image_url} alt={record.title} />
             <span className="league-title">{record.title}</span>

@@ -10,14 +10,18 @@ const Matchrow = ({
 }) => {
   return (
     <div className="match-row">
-      <img className="team-img" alt="team 1" src={team_img1} />
-      <span className="team-name">{name1}</span>
-      <span className="score">{score}</span>
-      <span className="team-name">{name2}</span>
-
-      <img className="team-img" alt="team 2" src={team_img2} />
-      <span className="state">{state}</span>
-      <span className="date">{date}</span>
+      <div className="team-section">
+        <div className="team1">
+          <img className="team-img row-item" alt="team 1" src={team_img1} />
+          <span className="team-name row-item">{name1}</span>
+        </div>
+        <span className="score row-item">{score}</span>
+        <div className="team2">
+          <span className="team-name row-item">{name2}</span>
+          <img className="team-img row-item" alt="team 2" src={team_img2} />
+        </div>
+      </div>
+      <span className={`state row-item ${state}`}>{state}</span>
     </div>
   );
 };

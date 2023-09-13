@@ -1,0 +1,2903 @@
+{
+  "05/29": [
+    {
+      "team1": "Saint-Étienne",
+      "ST": "1 - 1",
+      "team2": "Auxerre",
+      "team2_id": 1646,
+      "team1_id": 1678
+    }
+  ],
+  "05/26": [
+    {
+      "team1": "Auxerre",
+      "ST": "1 - 1",
+      "team2": "Saint-Étienne",
+      "team1_id": 1646,
+      "team2_id": 1678
+    }
+  ],
+  "05/21": [
+    {
+      "team1": "Angers",
+      "ST": "2 - 0",
+      "team2": "Montpellier",
+      "team2_id": 1642,
+      "team1_id": 1684
+    },
+    {
+      "team1": "Stade Brestois",
+      "ST": "2 - 4",
+      "team2": "Bordeaux",
+      "team1_id": 1715,
+      "team2_id": 1645
+    },
+    {
+      "team1": "Clermont Foot",
+      "ST": "1 - 2",
+      "team2": "Olympique Lyonnais",
+      "team1_id": 1680,
+      "team2_id": 1649
+    },
+    {
+      "team1": "Lille",
+      "ST": "2 - 2",
+      "team2": "Stade Rennais",
+      "team2_id": 1658,
+      "team1_id": 1643
+    },
+    {
+      "team1": "Lorient",
+      "ST": "1 - 1",
+      "team2": "Troyes",
+      "team1_id": 1656,
+      "team2_id": 1652
+    },
+    {
+      "team1": "Olympique de Marseille",
+      "ST": "4 - 0",
+      "team2": "Strasbourg",
+      "team1_id": 1641,
+      "team2_id": 1659
+    },
+    {
+      "team1": "Nantes",
+      "ST": "1 - 1",
+      "team2": "Saint-Étienne",
+      "team1_id": 1647,
+      "team2_id": 1678
+    },
+    {
+      "team1": "Paris Saint-Germain",
+      "ST": "5 - 0",
+      "team2": "Metz",
+      "team1_id": 1644,
+      "team2_id": 1651
+    },
+    {
+      "team1": "RC Lens",
+      "ST": "2 - 2",
+      "team2": "AS Monaco",
+      "team2_id": 1653,
+      "team1_id": 1648
+    },
+    {
+      "team1": "Stade de Reims",
+      "ST": "2 - 3",
+      "team2": "Nice",
+      "team1_id": 1682,
+      "team2_id": 1661
+    }
+  ],
+  "05/20": [
+    {
+      "team1": "Auxerre",
+      "ST": "0 - 0",
+      "team2": "Sochaux",
+      "team1_id": 1646,
+      "team2_id": 1657
+    }
+  ],
+  "05/17": [
+    {
+      "team1": "Paris FC",
+      "ST": "1 - 2",
+      "team2": "Sochaux",
+      "team2_id": 1657
+    }
+  ],
+  "05/14": [
+    {
+      "team1": "Bordeaux",
+      "ST": "0 - 0",
+      "team2": "Lorient",
+      "team2_id": 1656,
+      "team1_id": 1645
+    },
+    {
+      "team1": "Olympique Lyonnais",
+      "ST": "3 - 2",
+      "team2": "Nantes",
+      "team2_id": 1647,
+      "team1_id": 1649
+    },
+    {
+      "team1": "Metz",
+      "ST": "1 - 0",
+      "team2": "Angers",
+      "team1_id": 1651,
+      "team2_id": 1684
+    },
+    {
+      "team1": "AS Monaco",
+      "ST": "4 - 2",
+      "team2": "Stade Brestois",
+      "team1_id": 1653,
+      "team2_id": 1715
+    },
+    {
+      "team1": "Montpellier",
+      "ST": "0 - 4",
+      "team2": "Paris Saint-Germain",
+      "team2_id": 1644,
+      "team1_id": 1642
+    },
+    {
+      "team1": "Nice",
+      "ST": "1 - 3",
+      "team2": "Lille",
+      "team2_id": 1643,
+      "team1_id": 1661
+    },
+    {
+      "team1": "Stade Rennais",
+      "ST": "2 - 0",
+      "team2": "Olympique de Marseille",
+      "team2_id": 1641,
+      "team1_id": 1658
+    },
+    {
+      "team1": "Saint-Étienne",
+      "ST": "1 - 2",
+      "team2": "Stade de Reims",
+      "team2_id": 1682,
+      "team1_id": 1678
+    },
+    {
+      "team1": "Strasbourg",
+      "ST": "1 - 0",
+      "team2": "Clermont Foot",
+      "team1_id": 1659,
+      "team2_id": 1680
+    },
+    {
+      "team1": "Troyes",
+      "ST": "1 - 3",
+      "team2": "RC Lens",
+      "team2_id": 1648,
+      "team1_id": 1652
+    }
+  ],
+  "05/11": [
+    {
+      "team1": "Nice",
+      "ST": "4 - 2",
+      "team2": "Saint-Étienne",
+      "team1_id": 1661,
+      "team2_id": 1678
+    },
+    {
+      "team1": "Nantes",
+      "ST": "2 - 1",
+      "team2": "Stade Rennais",
+      "team2_id": 1658,
+      "team1_id": 1647
+    }
+  ],
+  "05/08": [
+    {
+      "team1": "Metz",
+      "ST": "3 - 2",
+      "team2": "Olympique Lyonnais",
+      "team1_id": 1651,
+      "team2_id": 1649
+    },
+    {
+      "team1": "Angers",
+      "ST": "4 - 1",
+      "team2": "Bordeaux",
+      "team1_id": 1684,
+      "team2_id": 1645
+    },
+    {
+      "team1": "Clermont Foot",
+      "ST": "2 - 1",
+      "team2": "Montpellier",
+      "team2_id": 1642,
+      "team1_id": 1680
+    },
+    {
+      "team1": "Stade de Reims",
+      "ST": "1 - 2",
+      "team2": "RC Lens",
+      "team1_id": 1682,
+      "team2_id": 1648
+    },
+    {
+      "team1": "Lorient",
+      "ST": "0 - 3",
+      "team2": "Olympique de Marseille",
+      "team2_id": 1641,
+      "team1_id": 1656
+    },
+    {
+      "team1": "Paris Saint-Germain",
+      "ST": "2 - 2",
+      "team2": "Troyes",
+      "team1_id": 1644,
+      "team2_id": 1652
+    }
+  ],
+  "05/07": [
+    {
+      "team1": "Stade Brestois",
+      "ST": "0 - 1",
+      "team2": "Strasbourg",
+      "team1_id": 1715,
+      "team2_id": 1659
+    }
+  ],
+  "05/06": [
+    {
+      "team1": "Lille",
+      "ST": "1 - 2",
+      "team2": "AS Monaco",
+      "team2_id": 1653,
+      "team1_id": 1643
+    }
+  ],
+  "05/01": [
+    {
+      "team1": "Troyes",
+      "ST": "3 - 0",
+      "team2": "Lille",
+      "team2_id": 1643,
+      "team1_id": 1652
+    },
+    {
+      "team1": "Stade Brestois",
+      "ST": "2 - 0",
+      "team2": "Clermont Foot",
+      "team1_id": 1715,
+      "team2_id": 1680
+    },
+    {
+      "team1": "Lorient",
+      "ST": "1 - 2",
+      "team2": "Stade de Reims",
+      "team2_id": 1682,
+      "team1_id": 1656
+    },
+    {
+      "team1": "AS Monaco",
+      "ST": "2 - 0",
+      "team2": "Angers",
+      "team1_id": 1653,
+      "team2_id": 1684
+    },
+    {
+      "team1": "Montpellier",
+      "ST": "2 - 2",
+      "team2": "Metz",
+      "team1_id": 1642,
+      "team2_id": 1651
+    },
+    {
+      "team1": "Bordeaux",
+      "ST": "0 - 1",
+      "team2": "Nice",
+      "team2_id": 1661,
+      "team1_id": 1645
+    },
+    {
+      "team1": "Olympique de Marseille",
+      "ST": "0 - 3",
+      "team2": "Olympique Lyonnais",
+      "team1_id": 1641,
+      "team2_id": 1649
+    }
+  ],
+  "04/30": [
+    {
+      "team1": "RC Lens",
+      "ST": "2 - 2",
+      "team2": "Nantes",
+      "team2_id": 1647,
+      "team1_id": 1648
+    },
+    {
+      "team1": "Stade Rennais",
+      "ST": "2 - 0",
+      "team2": "Saint-Étienne",
+      "team1_id": 1658,
+      "team2_id": 1678
+    }
+  ],
+  "04/29": [
+    {
+      "team1": "Strasbourg",
+      "ST": "3 - 3",
+      "team2": "Paris Saint-Germain",
+      "team2_id": 1644,
+      "team1_id": 1659
+    }
+  ],
+  "04/24": [
+    {
+      "team1": "Stade Rennais",
+      "ST": "5 - 0",
+      "team2": "Lorient",
+      "team1_id": 1658,
+      "team2_id": 1656
+    },
+    {
+      "team1": "Clermont Foot",
+      "ST": "2 - 2",
+      "team2": "Angers",
+      "team1_id": 1680,
+      "team2_id": 1684
+    },
+    {
+      "team1": "Metz",
+      "ST": "0 - 1",
+      "team2": "Stade Brestois",
+      "team2_id": 1715,
+      "team1_id": 1651
+    },
+    {
+      "team1": "Nantes",
+      "ST": "5 - 3",
+      "team2": "Bordeaux",
+      "team1_id": 1647,
+      "team2_id": 1645
+    },
+    {
+      "team1": "Nice",
+      "ST": "1 - 0",
+      "team2": "Troyes",
+      "team1_id": 1661,
+      "team2_id": 1652
+    },
+    {
+      "team1": "Lille",
+      "ST": "1 - 0",
+      "team2": "Strasbourg",
+      "team1_id": 1643,
+      "team2_id": 1659
+    },
+    {
+      "team1": "Stade de Reims",
+      "ST": "0 - 1",
+      "team2": "Olympique de Marseille",
+      "team2_id": 1641,
+      "team1_id": 1682
+    }
+  ],
+  "04/23": [
+    {
+      "team1": "Olympique Lyonnais",
+      "ST": "5 - 2",
+      "team2": "Montpellier",
+      "team2_id": 1642,
+      "team1_id": 1649
+    },
+    {
+      "team1": "Saint-Étienne",
+      "ST": "1 - 4",
+      "team2": "AS Monaco",
+      "team2_id": 1653,
+      "team1_id": 1678
+    },
+    {
+      "team1": "Paris Saint-Germain",
+      "ST": "1 - 1",
+      "team2": "RC Lens",
+      "team1_id": 1644,
+      "team2_id": 1648
+    }
+  ],
+  "04/20": [
+    {
+      "team1": "Bordeaux",
+      "ST": "2 - 2",
+      "team2": "Saint-Étienne",
+      "team2_id": 1678,
+      "team1_id": 1645
+    },
+    {
+      "team1": "Lorient",
+      "ST": "1 - 0",
+      "team2": "Metz",
+      "team1_id": 1656,
+      "team2_id": 1651
+    },
+    {
+      "team1": "AS Monaco",
+      "ST": "1 - 0",
+      "team2": "Nice",
+      "team1_id": 1653,
+      "team2_id": 1661
+    },
+    {
+      "team1": "Stade de Reims",
+      "ST": "2 - 1",
+      "team2": "Lille",
+      "team2_id": 1643,
+      "team1_id": 1682
+    },
+    {
+      "team1": "Troyes",
+      "ST": "0 - 1",
+      "team2": "Clermont Foot",
+      "team2_id": 1680,
+      "team1_id": 1652
+    },
+    {
+      "team1": "Angers",
+      "ST": "0 - 3",
+      "team2": "Paris Saint-Germain",
+      "team2_id": 1644,
+      "team1_id": 1684
+    },
+    {
+      "team1": "Stade Brestois",
+      "ST": "2 - 1",
+      "team2": "Olympique Lyonnais",
+      "team1_id": 1715,
+      "team2_id": 1649
+    },
+    {
+      "team1": "Olympique de Marseille",
+      "ST": "3 - 2",
+      "team2": "Nantes",
+      "team1_id": 1641,
+      "team2_id": 1647
+    },
+    {
+      "team1": "RC Lens",
+      "ST": "2 - 0",
+      "team2": "Montpellier",
+      "team2_id": 1642,
+      "team1_id": 1648
+    },
+    {
+      "team1": "Strasbourg",
+      "ST": "2 - 1",
+      "team2": "Stade Rennais",
+      "team2_id": 1658,
+      "team1_id": 1659
+    }
+  ],
+  "04/17": [
+    {
+      "team1": "Nice",
+      "ST": "2 - 1",
+      "team2": "Lorient",
+      "team1_id": 1661,
+      "team2_id": 1656
+    },
+    {
+      "team1": "Metz",
+      "ST": "1 - 1",
+      "team2": "Clermont Foot",
+      "team1_id": 1651,
+      "team2_id": 1680
+    },
+    {
+      "team1": "Montpellier",
+      "ST": "0 - 0",
+      "team2": "Stade de Reims",
+      "team1_id": 1642,
+      "team2_id": 1682
+    },
+    {
+      "team1": "Nantes",
+      "ST": "1 - 1",
+      "team2": "Angers",
+      "team1_id": 1647,
+      "team2_id": 1684
+    },
+    {
+      "team1": "Troyes",
+      "ST": "1 - 1",
+      "team2": "Strasbourg",
+      "team2_id": 1659,
+      "team1_id": 1652
+    },
+    {
+      "team1": "Olympique Lyonnais",
+      "ST": "6 - 1",
+      "team2": "Bordeaux",
+      "team1_id": 1649,
+      "team2_id": 1645
+    },
+    {
+      "team1": "Paris Saint-Germain",
+      "ST": "2 - 1",
+      "team2": "Olympique de Marseille",
+      "team2_id": 1641,
+      "team1_id": 1644
+    }
+  ],
+  "04/16": [
+    {
+      "team1": "Saint-Étienne",
+      "ST": "2 - 1",
+      "team2": "Stade Brestois",
+      "team2_id": 1715,
+      "team1_id": 1678
+    },
+    {
+      "team1": "Lille",
+      "ST": "1 - 2",
+      "team2": "RC Lens",
+      "team1_id": 1643,
+      "team2_id": 1648
+    }
+  ],
+  "04/15": [
+    {
+      "team1": "Stade Rennais",
+      "ST": "2 - 3",
+      "team2": "AS Monaco",
+      "team2_id": 1653,
+      "team1_id": 1658
+    }
+  ],
+  "04/10": [
+    {
+      "team1": "Bordeaux",
+      "ST": "3 - 1",
+      "team2": "Metz",
+      "team2_id": 1651,
+      "team1_id": 1645
+    },
+    {
+      "team1": "Angers",
+      "ST": "1 - 1",
+      "team2": "Lille",
+      "team2_id": 1643,
+      "team1_id": 1684
+    },
+    {
+      "team1": "Stade Brestois",
+      "ST": "1 - 1",
+      "team2": "Nantes",
+      "team1_id": 1715,
+      "team2_id": 1647
+    },
+    {
+      "team1": "AS Monaco",
+      "ST": "2 - 1",
+      "team2": "Troyes",
+      "team1_id": 1653,
+      "team2_id": 1652
+    },
+    {
+      "team1": "RC Lens",
+      "ST": "3 - 0",
+      "team2": "Nice",
+      "team2_id": 1661,
+      "team1_id": 1648
+    },
+    {
+      "team1": "Strasbourg",
+      "ST": "1 - 1",
+      "team2": "Olympique Lyonnais",
+      "team1_id": 1659,
+      "team2_id": 1649
+    },
+    {
+      "team1": "Olympique de Marseille",
+      "ST": "2 - 0",
+      "team2": "Montpellier",
+      "team1_id": 1641,
+      "team2_id": 1642
+    }
+  ],
+  "04/09": [
+    {
+      "team1": "Stade de Reims",
+      "ST": "2 - 3",
+      "team2": "Stade Rennais",
+      "team2_id": 1658,
+      "team1_id": 1682
+    },
+    {
+      "team1": "Clermont Foot",
+      "ST": "1 - 6",
+      "team2": "Paris Saint-Germain",
+      "team2_id": 1644,
+      "team1_id": 1680
+    }
+  ],
+  "04/08": [
+    {
+      "team1": "Lorient",
+      "ST": "6 - 2",
+      "team2": "Saint-Étienne",
+      "team1_id": 1656,
+      "team2_id": 1678
+    }
+  ],
+  "04/03": [
+    {
+      "team1": "Strasbourg",
+      "ST": "1 - 0",
+      "team2": "RC Lens",
+      "team1_id": 1659,
+      "team2_id": 1648
+    },
+    {
+      "team1": "Clermont Foot",
+      "ST": "2 - 3",
+      "team2": "Nantes",
+      "team2_id": 1647,
+      "team1_id": 1680
+    },
+    {
+      "team1": "Metz",
+      "ST": "1 - 2",
+      "team2": "AS Monaco",
+      "team2_id": 1653,
+      "team1_id": 1651
+    },
+    {
+      "team1": "Montpellier",
+      "ST": "1 - 2",
+      "team2": "Stade Brestois",
+      "team2_id": 1715,
+      "team1_id": 1642
+    },
+    {
+      "team1": "Saint-Étienne",
+      "ST": "2 - 4",
+      "team2": "Olympique de Marseille",
+      "team2_id": 1641,
+      "team1_id": 1678
+    },
+    {
+      "team1": "Troyes",
+      "ST": "1 - 0",
+      "team2": "Stade de Reims",
+      "team2_id": 1682,
+      "team1_id": 1652
+    },
+    {
+      "team1": "Olympique Lyonnais",
+      "ST": "3 - 2",
+      "team2": "Angers",
+      "team1_id": 1649,
+      "team2_id": 1684
+    },
+    {
+      "team1": "Paris Saint-Germain",
+      "ST": "5 - 1",
+      "team2": "Lorient",
+      "team1_id": 1644,
+      "team2_id": 1656
+    }
+  ],
+  "04/02": [
+    {
+      "team1": "Nice",
+      "ST": "1 - 1",
+      "team2": "Stade Rennais",
+      "team2_id": 1658,
+      "team1_id": 1661
+    },
+    {
+      "team1": "Lille",
+      "ST": "0 - 0",
+      "team2": "Bordeaux",
+      "team1_id": 1643,
+      "team2_id": 1645
+    }
+  ],
+  "03/20": [
+    {
+      "team1": "AS Monaco",
+      "ST": "3 - 0",
+      "team2": "Paris Saint-Germain",
+      "team1_id": 1653,
+      "team2_id": 1644
+    },
+    {
+      "team1": "Angers",
+      "ST": "1 - 0",
+      "team2": "Stade Brestois",
+      "team2_id": 1715,
+      "team1_id": 1684
+    },
+    {
+      "team1": "Bordeaux",
+      "ST": "0 - 2",
+      "team2": "Montpellier",
+      "team2_id": 1642,
+      "team1_id": 1645
+    },
+    {
+      "team1": "Lorient",
+      "ST": "0 - 0",
+      "team2": "Strasbourg",
+      "team2_id": 1659,
+      "team1_id": 1656
+    },
+    {
+      "team1": "Stade Rennais",
+      "ST": "6 - 1",
+      "team2": "Metz",
+      "team1_id": 1658,
+      "team2_id": 1651
+    },
+    {
+      "team1": "Stade de Reims",
+      "ST": "0 - 0",
+      "team2": "Olympique Lyonnais",
+      "team1_id": 1682,
+      "team2_id": 1649
+    },
+    {
+      "team1": "Olympique de Marseille",
+      "ST": "2 - 1",
+      "team2": "Nice",
+      "team1_id": 1641,
+      "team2_id": 1661
+    }
+  ],
+  "03/19": [
+    {
+      "team1": "RC Lens",
+      "ST": "3 - 1",
+      "team2": "Clermont Foot",
+      "team1_id": 1648,
+      "team2_id": 1680
+    },
+    {
+      "team1": "Nantes",
+      "ST": "0 - 1",
+      "team2": "Lille",
+      "team2_id": 1643,
+      "team1_id": 1647
+    }
+  ],
+  "03/18": [
+    {
+      "team1": "Saint-Étienne",
+      "ST": "1 - 1",
+      "team2": "Troyes",
+      "team2_id": 1652,
+      "team1_id": 1678
+    }
+  ],
+  "03/13": [
+    {
+      "team1": "Paris Saint-Germain",
+      "ST": "3 - 0",
+      "team2": "Bordeaux",
+      "team1_id": 1644,
+      "team2_id": 1645
+    },
+    {
+      "team1": "Angers",
+      "ST": "0 - 1",
+      "team2": "Stade de Reims",
+      "team2_id": 1682,
+      "team1_id": 1684
+    },
+    {
+      "team1": "Clermont Foot",
+      "ST": "0 - 2",
+      "team2": "Lorient",
+      "team2_id": 1656,
+      "team1_id": 1680
+    },
+    {
+      "team1": "Metz",
+      "ST": "0 - 0",
+      "team2": "RC Lens",
+      "team2_id": 1648,
+      "team1_id": 1651
+    },
+    {
+      "team1": "Strasbourg",
+      "ST": "1 - 0",
+      "team2": "AS Monaco",
+      "team2_id": 1653,
+      "team1_id": 1659
+    },
+    {
+      "team1": "Olympique Lyonnais",
+      "ST": "2 - 4",
+      "team2": "Stade Rennais",
+      "team2_id": 1658,
+      "team1_id": 1649
+    },
+    {
+      "team1": "Stade Brestois",
+      "ST": "1 - 4",
+      "team2": "Olympique de Marseille",
+      "team2_id": 1641,
+      "team1_id": 1715
+    }
+  ],
+  "03/12": [
+    {
+      "team1": "Montpellier",
+      "ST": "0 - 0",
+      "team2": "Nice",
+      "team1_id": 1642,
+      "team2_id": 1661
+    },
+    {
+      "team1": "Troyes",
+      "ST": "1 - 0",
+      "team2": "Nantes",
+      "team2_id": 1647,
+      "team1_id": 1652
+    }
+  ],
+  "03/11": [
+    {
+      "team1": "Lille",
+      "ST": "0 - 0",
+      "team2": "Saint-Étienne",
+      "team1_id": 1643,
+      "team2_id": 1678
+    }
+  ],
+  "03/06": [
+    {
+      "team1": "Saint-Étienne",
+      "ST": "1 - 0",
+      "team2": "Metz",
+      "team2_id": 1651,
+      "team1_id": 1678
+    },
+    {
+      "team1": "Bordeaux",
+      "ST": "0 - 2",
+      "team2": "Troyes",
+      "team2_id": 1652,
+      "team1_id": 1645
+    },
+    {
+      "team1": "Nantes",
+      "ST": "2 - 0",
+      "team2": "Montpellier",
+      "team2_id": 1642,
+      "team1_id": 1647
+    },
+    {
+      "team1": "Stade de Reims",
+      "ST": "1 - 1",
+      "team2": "Strasbourg",
+      "team1_id": 1682,
+      "team2_id": 1659
+    },
+    {
+      "team1": "Stade Rennais",
+      "ST": "2 - 0",
+      "team2": "Angers",
+      "team1_id": 1658,
+      "team2_id": 1684
+    },
+    {
+      "team1": "Lille",
+      "ST": "4 - 0",
+      "team2": "Clermont Foot",
+      "team1_id": 1643,
+      "team2_id": 1680
+    },
+    {
+      "team1": "Olympique de Marseille",
+      "ST": "0 - 1",
+      "team2": "AS Monaco",
+      "team2_id": 1653,
+      "team1_id": 1641
+    }
+  ],
+  "03/05": [
+    {
+      "team1": "RC Lens",
+      "ST": "0 - 1",
+      "team2": "Stade Brestois",
+      "team2_id": 1715,
+      "team1_id": 1648
+    },
+    {
+      "team1": "Nice",
+      "ST": "1 - 0",
+      "team2": "Paris Saint-Germain",
+      "team2_id": 1644,
+      "team1_id": 1661
+    }
+  ],
+  "03/04": [
+    {
+      "team1": "Lorient",
+      "ST": "1 - 4",
+      "team2": "Olympique Lyonnais",
+      "team1_id": 1656,
+      "team2_id": 1649
+    }
+  ],
+  "02/27": [
+    {
+      "team1": "AS Monaco",
+      "ST": "1 - 2",
+      "team2": "Stade de Reims",
+      "team1_id": 1653,
+      "team2_id": 1682
+    },
+    {
+      "team1": "Angers",
+      "ST": "1 - 2",
+      "team2": "RC Lens",
+      "team2_id": 1648,
+      "team1_id": 1684
+    },
+    {
+      "team1": "Stade Brestois",
+      "ST": "0 - 1",
+      "team2": "Lorient",
+      "team1_id": 1715,
+      "team2_id": 1656
+    },
+    {
+      "team1": "Clermont Foot",
+      "ST": "1 - 1",
+      "team2": "Bordeaux",
+      "team1_id": 1680,
+      "team2_id": 1645
+    },
+    {
+      "team1": "Metz",
+      "ST": "0 - 0",
+      "team2": "Nantes",
+      "team2_id": 1647,
+      "team1_id": 1651
+    },
+    {
+      "team1": "Troyes",
+      "ST": "1 - 1",
+      "team2": "Olympique de Marseille",
+      "team2_id": 1641,
+      "team1_id": 1652
+    },
+    {
+      "team1": "Olympique Lyonnais",
+      "ST": "0 - 1",
+      "team2": "Lille",
+      "team2_id": 1643,
+      "team1_id": 1649
+    }
+  ],
+  "02/26": [
+    {
+      "team1": "Strasbourg",
+      "ST": "0 - 0",
+      "team2": "Nice",
+      "team1_id": 1659,
+      "team2_id": 1661
+    },
+    {
+      "team1": "Paris Saint-Germain",
+      "ST": "3 - 1",
+      "team2": "Saint-Étienne",
+      "team1_id": 1644,
+      "team2_id": 1678
+    }
+  ],
+  "02/25": [
+    {
+      "team1": "Montpellier",
+      "ST": "2 - 4",
+      "team2": "Stade Rennais",
+      "team2_id": 1658,
+      "team1_id": 1642
+    }
+  ],
+  "02/20": [
+    {
+      "team1": "Nice",
+      "ST": "1 - 0",
+      "team2": "Angers",
+      "team1_id": 1661,
+      "team2_id": 1684
+    },
+    {
+      "team1": "Lorient",
+      "ST": "0 - 1",
+      "team2": "Montpellier",
+      "team2_id": 1642,
+      "team1_id": 1656
+    },
+    {
+      "team1": "Stade de Reims",
+      "ST": "1 - 1",
+      "team2": "Stade Brestois",
+      "team2_id": 1715,
+      "team1_id": 1682
+    },
+    {
+      "team1": "Stade Rennais",
+      "ST": "4 - 1",
+      "team2": "Troyes",
+      "team1_id": 1658,
+      "team2_id": 1652
+    },
+    {
+      "team1": "Saint-Étienne",
+      "ST": "2 - 2",
+      "team2": "Strasbourg",
+      "team2_id": 1659,
+      "team1_id": 1678
+    },
+    {
+      "team1": "Bordeaux",
+      "ST": "1 - 1",
+      "team2": "AS Monaco",
+      "team2_id": 1653,
+      "team1_id": 1645
+    },
+    {
+      "team1": "Olympique de Marseille",
+      "ST": "0 - 2",
+      "team2": "Clermont Foot",
+      "team1_id": 1641,
+      "team2_id": 1680
+    }
+  ],
+  "02/19": [
+    {
+      "team1": "RC Lens",
+      "ST": "1 - 1",
+      "team2": "Olympique Lyonnais",
+      "team1_id": 1648,
+      "team2_id": 1649
+    },
+    {
+      "team1": "Nantes",
+      "ST": "3 - 1",
+      "team2": "Paris Saint-Germain",
+      "team2_id": 1644,
+      "team1_id": 1647
+    }
+  ],
+  "02/18": [
+    {
+      "team1": "Lille",
+      "ST": "0 - 0",
+      "team2": "Metz",
+      "team1_id": 1643,
+      "team2_id": 1651
+    }
+  ],
+  "02/13": [
+    {
+      "team1": "AS Monaco",
+      "ST": "0 - 0",
+      "team2": "Lorient",
+      "team1_id": 1653,
+      "team2_id": 1656
+    },
+    {
+      "team1": "Angers",
+      "ST": "0 - 1",
+      "team2": "Strasbourg",
+      "team2_id": 1659,
+      "team1_id": 1684
+    },
+    {
+      "team1": "Stade Brestois",
+      "ST": "5 - 1",
+      "team2": "Troyes",
+      "team1_id": 1715,
+      "team2_id": 1652
+    },
+    {
+      "team1": "Clermont Foot",
+      "ST": "1 - 2",
+      "team2": "Saint-Étienne",
+      "team1_id": 1680,
+      "team2_id": 1678
+    },
+    {
+      "team1": "Nantes",
+      "ST": "1 - 0",
+      "team2": "Stade de Reims",
+      "team2_id": 1682,
+      "team1_id": 1647
+    },
+    {
+      "team1": "RC Lens",
+      "ST": "3 - 2",
+      "team2": "Bordeaux",
+      "team1_id": 1648,
+      "team2_id": 1645
+    },
+    {
+      "team1": "Metz",
+      "ST": "1 - 2",
+      "team2": "Olympique de Marseille",
+      "team2_id": 1641,
+      "team1_id": 1651
+    }
+  ],
+  "02/12": [
+    {
+      "team1": "Montpellier",
+      "ST": "0 - 1",
+      "team2": "Lille",
+      "team1_id": 1642,
+      "team2_id": 1643
+    },
+    {
+      "team1": "Olympique Lyonnais",
+      "ST": "2 - 0",
+      "team2": "Nice",
+      "team2_id": 1661,
+      "team1_id": 1649
+    }
+  ],
+  "02/11": [
+    {
+      "team1": "Paris Saint-Germain",
+      "ST": "1 - 0",
+      "team2": "Stade Rennais",
+      "team1_id": 1644,
+      "team2_id": 1658
+    }
+  ],
+  "02/06": [
+    {
+      "team1": "Lorient",
+      "ST": "2 - 0",
+      "team2": "RC Lens",
+      "team1_id": 1656,
+      "team2_id": 1648
+    },
+    {
+      "team1": "Nice",
+      "ST": "0 - 1",
+      "team2": "Clermont Foot",
+      "team1_id": 1661,
+      "team2_id": 1680
+    },
+    {
+      "team1": "Stade de Reims",
+      "ST": "5 - 0",
+      "team2": "Bordeaux",
+      "team1_id": 1682,
+      "team2_id": 1645
+    },
+    {
+      "team1": "Strasbourg",
+      "ST": "1 - 0",
+      "team2": "Nantes",
+      "team1_id": 1659,
+      "team2_id": 1647
+    },
+    {
+      "team1": "Troyes",
+      "ST": "0 - 0",
+      "team2": "Metz",
+      "team2_id": 1651,
+      "team1_id": 1652
+    },
+    {
+      "team1": "Stade Rennais",
+      "ST": "2 - 0",
+      "team2": "Stade Brestois",
+      "team2_id": 1715,
+      "team1_id": 1658
+    },
+    {
+      "team1": "Lille",
+      "ST": "1 - 5",
+      "team2": "Paris Saint-Germain",
+      "team2_id": 1644,
+      "team1_id": 1643
+    }
+  ],
+  "02/05": [
+    {
+      "team1": "Saint-Étienne",
+      "ST": "3 - 1",
+      "team2": "Montpellier",
+      "team2_id": 1642,
+      "team1_id": 1678
+    },
+    {
+      "team1": "AS Monaco",
+      "ST": "2 - 0",
+      "team2": "Olympique Lyonnais",
+      "team1_id": 1653,
+      "team2_id": 1649
+    }
+  ],
+  "02/04": [
+    {
+      "team1": "Olympique de Marseille",
+      "ST": "5 - 2",
+      "team2": "Angers",
+      "team1_id": 1641,
+      "team2_id": 1684
+    }
+  ],
+  "02/01": [
+    {
+      "team1": "Olympique Lyonnais",
+      "ST": "2 - 1",
+      "team2": "Olympique de Marseille",
+      "team2_id": 1641,
+      "team1_id": 1649
+    }
+  ],
+  "01/26": [
+    {
+      "team1": "Angers",
+      "ST": "0 - 1",
+      "team2": "Saint-Étienne",
+      "team1_id": 1684,
+      "team2_id": 1678
+    }
+  ],
+  "01/23": [
+    {
+      "team1": "Metz",
+      "ST": "0 - 2",
+      "team2": "Nice",
+      "team2_id": 1661,
+      "team1_id": 1651
+    },
+    {
+      "team1": "Angers",
+      "ST": "2 - 1",
+      "team2": "Troyes",
+      "team2_id": 1652,
+      "team1_id": 1684
+    },
+    {
+      "team1": "Bordeaux",
+      "ST": "4 - 3",
+      "team2": "Strasbourg",
+      "team2_id": 1659,
+      "team1_id": 1645
+    },
+    {
+      "team1": "Clermont Foot",
+      "ST": "2 - 1",
+      "team2": "Stade Rennais",
+      "team2_id": 1658,
+      "team1_id": 1680
+    },
+    {
+      "team1": "Nantes",
+      "ST": "4 - 2",
+      "team2": "Lorient",
+      "team2_id": 1656,
+      "team1_id": 1647
+    },
+    {
+      "team1": "Montpellier",
+      "ST": "3 - 2",
+      "team2": "AS Monaco",
+      "team2_id": 1653,
+      "team1_id": 1642
+    },
+    {
+      "team1": "Paris Saint-Germain",
+      "ST": "4 - 0",
+      "team2": "Stade de Reims",
+      "team1_id": 1644,
+      "team2_id": 1682
+    }
+  ],
+  "01/22": [
+    {
+      "team1": "Stade Brestois",
+      "ST": "2 - 0",
+      "team2": "Lille",
+      "team1_id": 1715,
+      "team2_id": 1643
+    },
+    {
+      "team1": "RC Lens",
+      "ST": "0 - 2",
+      "team2": "Olympique de Marseille",
+      "team2_id": 1641,
+      "team1_id": 1648
+    }
+  ],
+  "01/21": [
+    {
+      "team1": "Olympique Lyonnais",
+      "ST": "1 - 0",
+      "team2": "Saint-Étienne",
+      "team1_id": 1649,
+      "team2_id": 1678
+    }
+  ],
+  "01/19": [
+    {
+      "team1": "Clermont Foot",
+      "ST": "0 - 2",
+      "team2": "Strasbourg",
+      "team2_id": 1659,
+      "team1_id": 1680
+    },
+    {
+      "team1": "Lille",
+      "ST": "3 - 1",
+      "team2": "Lorient",
+      "team1_id": 1643,
+      "team2_id": 1656
+    },
+    {
+      "team1": "Montpellier",
+      "ST": "0 - 1",
+      "team2": "Troyes",
+      "team1_id": 1642,
+      "team2_id": 1652
+    }
+  ],
+  "01/16": [
+    {
+      "team1": "Stade Rennais",
+      "ST": "6 - 0",
+      "team2": "Bordeaux",
+      "team1_id": 1658,
+      "team2_id": 1645
+    },
+    {
+      "team1": "Lorient",
+      "ST": "0 - 0",
+      "team2": "Angers",
+      "team1_id": 1656,
+      "team2_id": 1684
+    },
+    {
+      "team1": "AS Monaco",
+      "ST": "4 - 0",
+      "team2": "Clermont Foot",
+      "team1_id": 1653,
+      "team2_id": 1680
+    },
+    {
+      "team1": "Stade de Reims",
+      "ST": "0 - 1",
+      "team2": "Metz",
+      "team1_id": 1682,
+      "team2_id": 1651
+    },
+    {
+      "team1": "Strasbourg",
+      "ST": "3 - 1",
+      "team2": "Montpellier",
+      "team2_id": 1642,
+      "team1_id": 1659
+    },
+    {
+      "team1": "Troyes",
+      "ST": "0 - 1",
+      "team2": "Olympique Lyonnais",
+      "team2_id": 1649,
+      "team1_id": 1652
+    },
+    {
+      "team1": "Olympique de Marseille",
+      "ST": "1 - 1",
+      "team2": "Lille",
+      "team1_id": 1641,
+      "team2_id": 1643
+    }
+  ],
+  "01/15": [
+    {
+      "team1": "Saint-Étienne",
+      "ST": "1 - 2",
+      "team2": "RC Lens",
+      "team2_id": 1648,
+      "team1_id": 1678
+    },
+    {
+      "team1": "Paris Saint-Germain",
+      "ST": "2 - 0",
+      "team2": "Stade Brestois",
+      "team2_id": 1715,
+      "team1_id": 1644
+    }
+  ],
+  "01/14": [
+    {
+      "team1": "Nice",
+      "ST": "2 - 1",
+      "team2": "Nantes",
+      "team1_id": 1661,
+      "team2_id": 1647
+    }
+  ],
+  "01/09": [
+    {
+      "team1": "Stade Brestois",
+      "ST": "0 - 3",
+      "team2": "Nice",
+      "team1_id": 1715,
+      "team2_id": 1661
+    },
+    {
+      "team1": "Clermont Foot",
+      "ST": "0 - 0",
+      "team2": "Stade de Reims",
+      "team2_id": 1682,
+      "team1_id": 1680
+    },
+    {
+      "team1": "Metz",
+      "ST": "0 - 2",
+      "team2": "Strasbourg",
+      "team2_id": 1659,
+      "team1_id": 1651
+    },
+    {
+      "team1": "Nantes",
+      "ST": "0 - 0",
+      "team2": "AS Monaco",
+      "team2_id": 1653,
+      "team1_id": 1647
+    },
+    {
+      "team1": "Olympique Lyonnais",
+      "ST": "1 - 1",
+      "team2": "Paris Saint-Germain",
+      "team2_id": 1644,
+      "team1_id": 1649
+    }
+  ],
+  "01/08": [
+    {
+      "team1": "RC Lens",
+      "ST": "1 - 0",
+      "team2": "Stade Rennais",
+      "team2_id": 1658,
+      "team1_id": 1648
+    }
+  ],
+  "01/07": [
+    {
+      "team1": "Bordeaux",
+      "ST": "0 - 1",
+      "team2": "Olympique de Marseille",
+      "team2_id": 1641,
+      "team1_id": 1645
+    }
+  ],
+  "12/22": [
+    {
+      "team1": "Bordeaux",
+      "ST": "2 - 3",
+      "team2": "Lille",
+      "team2_id": 1643,
+      "team1_id": 1645
+    },
+    {
+      "team1": "Lorient",
+      "ST": "1 - 1",
+      "team2": "Paris Saint-Germain",
+      "team2_id": 1644,
+      "team1_id": 1656
+    },
+    {
+      "team1": "Olympique Lyonnais",
+      "ST": "1 - 1",
+      "team2": "Metz",
+      "team2_id": 1651,
+      "team1_id": 1649
+    },
+    {
+      "team1": "Olympique de Marseille",
+      "ST": "1 - 1",
+      "team2": "Stade de Reims",
+      "team1_id": 1641,
+      "team2_id": 1682
+    },
+    {
+      "team1": "AS Monaco",
+      "ST": "2 - 1",
+      "team2": "Stade Rennais",
+      "team1_id": 1653,
+      "team2_id": 1658
+    },
+    {
+      "team1": "Montpellier",
+      "ST": "4 - 1",
+      "team2": "Angers",
+      "team1_id": 1642,
+      "team2_id": 1684
+    },
+    {
+      "team1": "Nice",
+      "ST": "2 - 1",
+      "team2": "RC Lens",
+      "team1_id": 1661,
+      "team2_id": 1648
+    },
+    {
+      "team1": "Saint-Étienne",
+      "ST": "0 - 1",
+      "team2": "Nantes",
+      "team2_id": 1647,
+      "team1_id": 1678
+    },
+    {
+      "team1": "Troyes",
+      "ST": "1 - 1",
+      "team2": "Stade Brestois",
+      "team2_id": 1715,
+      "team1_id": 1652
+    }
+  ],
+  "12/12": [
+    {
+      "team1": "Lille",
+      "ST": "0 - 0",
+      "team2": "Olympique Lyonnais",
+      "team1_id": 1643,
+      "team2_id": 1649
+    },
+    {
+      "team1": "Angers",
+      "ST": "0 - 1",
+      "team2": "Clermont Foot",
+      "team2_id": 1680,
+      "team1_id": 1684
+    },
+    {
+      "team1": "Metz",
+      "ST": "4 - 1",
+      "team2": "Lorient",
+      "team2_id": 1656,
+      "team1_id": 1651
+    },
+    {
+      "team1": "Stade Rennais",
+      "ST": "1 - 2",
+      "team2": "Nice",
+      "team1_id": 1658,
+      "team2_id": 1661
+    },
+    {
+      "team1": "Troyes",
+      "ST": "1 - 2",
+      "team2": "Bordeaux",
+      "team1_id": 1652,
+      "team2_id": 1645
+    },
+    {
+      "team1": "Strasbourg",
+      "ST": "0 - 2",
+      "team2": "Olympique de Marseille",
+      "team2_id": 1641,
+      "team1_id": 1659
+    },
+    {
+      "team1": "Paris Saint-Germain",
+      "ST": "2 - 0",
+      "team2": "AS Monaco",
+      "team2_id": 1653,
+      "team1_id": 1644
+    }
+  ],
+  "12/11": [
+    {
+      "team1": "Stade Brestois",
+      "ST": "0 - 4",
+      "team2": "Montpellier",
+      "team1_id": 1715,
+      "team2_id": 1642
+    },
+    {
+      "team1": "Stade de Reims",
+      "ST": "2 - 0",
+      "team2": "Saint-Étienne",
+      "team1_id": 1682,
+      "team2_id": 1678
+    }
+  ],
+  "12/10": [
+    {
+      "team1": "Nantes",
+      "ST": "3 - 2",
+      "team2": "RC Lens",
+      "team1_id": 1647,
+      "team2_id": 1648
+    }
+  ],
+  "12/05": [
+    {
+      "team1": "Saint-Étienne",
+      "ST": "0 - 5",
+      "team2": "Stade Rennais",
+      "team2_id": 1658,
+      "team1_id": 1678
+    },
+    {
+      "team1": "Lorient",
+      "ST": "0 - 1",
+      "team2": "Nantes",
+      "team1_id": 1656,
+      "team2_id": 1647
+    },
+    {
+      "team1": "AS Monaco",
+      "ST": "4 - 0",
+      "team2": "Metz",
+      "team1_id": 1653,
+      "team2_id": 1651
+    },
+    {
+      "team1": "Montpellier",
+      "ST": "1 - 0",
+      "team2": "Clermont Foot",
+      "team1_id": 1642,
+      "team2_id": 1680
+    },
+    {
+      "team1": "Stade de Reims",
+      "ST": "1 - 2",
+      "team2": "Angers",
+      "team1_id": 1682,
+      "team2_id": 1684
+    },
+    {
+      "team1": "Nice",
+      "ST": "0 - 3",
+      "team2": "Strasbourg",
+      "team2_id": 1659,
+      "team1_id": 1661
+    },
+    {
+      "team1": "Bordeaux",
+      "ST": "2 - 2",
+      "team2": "Olympique Lyonnais",
+      "team2_id": 1649,
+      "team1_id": 1645
+    }
+  ],
+  "12/04": [
+    {
+      "team1": "Olympique de Marseille",
+      "ST": "1 - 2",
+      "team2": "Stade Brestois",
+      "team1_id": 1641,
+      "team2_id": 1715
+    },
+    {
+      "team1": "Lille",
+      "ST": "2 - 1",
+      "team2": "Troyes",
+      "team1_id": 1643,
+      "team2_id": 1652
+    },
+    {
+      "team1": "RC Lens",
+      "ST": "1 - 1",
+      "team2": "Paris Saint-Germain",
+      "team2_id": 1644,
+      "team1_id": 1648
+    }
+  ],
+  "12/01": [
+    {
+      "team1": "Angers",
+      "ST": "1 - 3",
+      "team2": "AS Monaco",
+      "team2_id": 1653,
+      "team1_id": 1684
+    },
+    {
+      "team1": "Stade Brestois",
+      "ST": "1 - 0",
+      "team2": "Saint-Étienne",
+      "team1_id": 1715,
+      "team2_id": 1678
+    },
+    {
+      "team1": "Metz",
+      "ST": "1 - 3",
+      "team2": "Montpellier",
+      "team2_id": 1642,
+      "team1_id": 1651
+    },
+    {
+      "team1": "Strasbourg",
+      "ST": "5 - 2",
+      "team2": "Bordeaux",
+      "team1_id": 1659,
+      "team2_id": 1645
+    },
+    {
+      "team1": "Troyes",
+      "ST": "2 - 0",
+      "team2": "Lorient",
+      "team2_id": 1656,
+      "team1_id": 1652
+    },
+    {
+      "team1": "Clermont Foot",
+      "ST": "2 - 2",
+      "team2": "RC Lens",
+      "team2_id": 1648,
+      "team1_id": 1680
+    },
+    {
+      "team1": "Olympique Lyonnais",
+      "ST": "1 - 2",
+      "team2": "Stade de Reims",
+      "team2_id": 1682,
+      "team1_id": 1649
+    },
+    {
+      "team1": "Nantes",
+      "ST": "0 - 1",
+      "team2": "Olympique de Marseille",
+      "team2_id": 1641,
+      "team1_id": 1647
+    },
+    {
+      "team1": "Stade Rennais",
+      "ST": "1 - 2",
+      "team2": "Lille",
+      "team1_id": 1658,
+      "team2_id": 1643
+    },
+    {
+      "team1": "Paris Saint-Germain",
+      "ST": "0 - 0",
+      "team2": "Nice",
+      "team1_id": 1644,
+      "team2_id": 1661
+    }
+  ],
+  "11/28": [
+    {
+      "team1": "Saint-Étienne",
+      "ST": "1 - 3",
+      "team2": "Paris Saint-Germain",
+      "team2_id": 1644,
+      "team1_id": 1678
+    },
+    {
+      "team1": "Bordeaux",
+      "ST": "1 - 2",
+      "team2": "Stade Brestois",
+      "team2_id": 1715,
+      "team1_id": 1645
+    },
+    {
+      "team1": "Lorient",
+      "ST": "0 - 2",
+      "team2": "Stade Rennais",
+      "team2_id": 1658,
+      "team1_id": 1656
+    },
+    {
+      "team1": "AS Monaco",
+      "ST": "1 - 1",
+      "team2": "Strasbourg",
+      "team1_id": 1653,
+      "team2_id": 1659
+    },
+    {
+      "team1": "Stade de Reims",
+      "ST": "1 - 0",
+      "team2": "Clermont Foot",
+      "team1_id": 1682,
+      "team2_id": 1680
+    },
+    {
+      "team1": "Montpellier",
+      "ST": "0 - 1",
+      "team2": "Olympique Lyonnais",
+      "team1_id": 1642,
+      "team2_id": 1649
+    },
+    {
+      "team1": "Olympique de Marseille",
+      "ST": "1 - 0",
+      "team2": "Troyes",
+      "team1_id": 1641,
+      "team2_id": 1652
+    }
+  ],
+  "11/27": [
+    {
+      "team1": "Lille",
+      "ST": "1 - 1",
+      "team2": "Nantes",
+      "team1_id": 1643,
+      "team2_id": 1647
+    },
+    {
+      "team1": "Nice",
+      "ST": "0 - 1",
+      "team2": "Metz",
+      "team1_id": 1661,
+      "team2_id": 1651
+    }
+  ],
+  "11/26": [
+    {
+      "team1": "RC Lens",
+      "ST": "2 - 2",
+      "team2": "Angers",
+      "team1_id": 1648,
+      "team2_id": 1684
+    }
+  ],
+  "11/21": [
+    {
+      "team1": "Stade Brestois",
+      "ST": "4 - 0",
+      "team2": "RC Lens",
+      "team1_id": 1715,
+      "team2_id": 1648
+    },
+    {
+      "team1": "Angers",
+      "ST": "1 - 0",
+      "team2": "Lorient",
+      "team2_id": 1656,
+      "team1_id": 1684
+    },
+    {
+      "team1": "Metz",
+      "ST": "3 - 3",
+      "team2": "Bordeaux",
+      "team1_id": 1651,
+      "team2_id": 1645
+    },
+    {
+      "team1": "Strasbourg",
+      "ST": "1 - 1",
+      "team2": "Stade de Reims",
+      "team2_id": 1682,
+      "team1_id": 1659
+    },
+    {
+      "team1": "Troyes",
+      "ST": "0 - 1",
+      "team2": "Saint-Étienne",
+      "team1_id": 1652,
+      "team2_id": 1678
+    },
+    {
+      "team1": "Clermont Foot",
+      "ST": "1 - 2",
+      "team2": "Nice",
+      "team2_id": 1661,
+      "team1_id": 1680
+    }
+  ],
+  "11/20": [
+    {
+      "team1": "Paris Saint-Germain",
+      "ST": "3 - 1",
+      "team2": "Nantes",
+      "team1_id": 1644,
+      "team2_id": 1647
+    },
+    {
+      "team1": "Stade Rennais",
+      "ST": "2 - 0",
+      "team2": "Montpellier",
+      "team1_id": 1658,
+      "team2_id": 1642
+    }
+  ],
+  "11/19": [
+    {
+      "team1": "AS Monaco",
+      "ST": "2 - 2",
+      "team2": "Lille",
+      "team1_id": 1653,
+      "team2_id": 1643
+    }
+  ],
+  "11/07": [
+    {
+      "team1": "Olympique de Marseille",
+      "ST": "0 - 0",
+      "team2": "Metz",
+      "team1_id": 1641,
+      "team2_id": 1651
+    },
+    {
+      "team1": "Lorient",
+      "ST": "1 - 2",
+      "team2": "Stade Brestois",
+      "team2_id": 1715,
+      "team1_id": 1656
+    },
+    {
+      "team1": "Nantes",
+      "ST": "2 - 2",
+      "team2": "Strasbourg",
+      "team2_id": 1659,
+      "team1_id": 1647
+    },
+    {
+      "team1": "Stade de Reims",
+      "ST": "0 - 0",
+      "team2": "AS Monaco",
+      "team2_id": 1653,
+      "team1_id": 1682
+    },
+    {
+      "team1": "Saint-Étienne",
+      "ST": "3 - 2",
+      "team2": "Clermont Foot",
+      "team2_id": 1680,
+      "team1_id": 1678
+    },
+    {
+      "team1": "Nice",
+      "ST": "0 - 1",
+      "team2": "Montpellier",
+      "team2_id": 1642,
+      "team1_id": 1661
+    },
+    {
+      "team1": "Stade Rennais",
+      "ST": "4 - 1",
+      "team2": "Olympique Lyonnais",
+      "team1_id": 1658,
+      "team2_id": 1649
+    }
+  ],
+  "11/06": [
+    {
+      "team1": "Lille",
+      "ST": "1 - 1",
+      "team2": "Angers",
+      "team1_id": 1643,
+      "team2_id": 1684
+    },
+    {
+      "team1": "Bordeaux",
+      "ST": "2 - 3",
+      "team2": "Paris Saint-Germain",
+      "team2_id": 1644,
+      "team1_id": 1645
+    }
+  ],
+  "11/05": [
+    {
+      "team1": "RC Lens",
+      "ST": "4 - 0",
+      "team2": "Troyes",
+      "team1_id": 1648,
+      "team2_id": 1652
+    }
+  ],
+  "10/31": [
+    {
+      "team1": "Angers",
+      "ST": "1 - 2",
+      "team2": "Nice",
+      "team2_id": 1661,
+      "team1_id": 1684
+    },
+    {
+      "team1": "Bordeaux",
+      "ST": "3 - 2",
+      "team2": "Stade de Reims",
+      "team2_id": 1682,
+      "team1_id": 1645
+    },
+    {
+      "team1": "Montpellier",
+      "ST": "2 - 0",
+      "team2": "Nantes",
+      "team1_id": 1642,
+      "team2_id": 1647
+    },
+    {
+      "team1": "Strasbourg",
+      "ST": "4 - 0",
+      "team2": "Lorient",
+      "team1_id": 1659,
+      "team2_id": 1656
+    },
+    {
+      "team1": "Troyes",
+      "ST": "2 - 2",
+      "team2": "Stade Rennais",
+      "team2_id": 1658,
+      "team1_id": 1652
+    },
+    {
+      "team1": "Stade Brestois",
+      "ST": "2 - 0",
+      "team2": "AS Monaco",
+      "team2_id": 1653,
+      "team1_id": 1715
+    },
+    {
+      "team1": "Clermont Foot",
+      "ST": "0 - 1",
+      "team2": "Olympique de Marseille",
+      "team2_id": 1641,
+      "team1_id": 1680
+    }
+  ],
+  "10/30": [
+    {
+      "team1": "Metz",
+      "ST": "1 - 1",
+      "team2": "Saint-Étienne",
+      "team1_id": 1651,
+      "team2_id": 1678
+    },
+    {
+      "team1": "Olympique Lyonnais",
+      "ST": "2 - 1",
+      "team2": "RC Lens",
+      "team2_id": 1648,
+      "team1_id": 1649
+    }
+  ],
+  "10/29": [
+    {
+      "team1": "Paris Saint-Germain",
+      "ST": "2 - 1",
+      "team2": "Lille",
+      "team1_id": 1644,
+      "team2_id": 1643
+    }
+  ],
+  "10/27": [
+    {
+      "team1": "Nice",
+      "ST": "1 - 1",
+      "team2": "Olympique de Marseille",
+      "team2_id": 1641,
+      "team1_id": 1661
+    }
+  ],
+  "10/24": [
+    {
+      "team1": "Nice",
+      "ST": "3 - 2",
+      "team2": "Olympique Lyonnais",
+      "team1_id": 1661,
+      "team2_id": 1649
+    },
+    {
+      "team1": "Lorient",
+      "ST": "1 - 1",
+      "team2": "Bordeaux",
+      "team1_id": 1656,
+      "team2_id": 1645
+    },
+    {
+      "team1": "RC Lens",
+      "ST": "4 - 1",
+      "team2": "Metz",
+      "team1_id": 1648,
+      "team2_id": 1651
+    },
+    {
+      "team1": "Stade de Reims",
+      "ST": "1 - 2",
+      "team2": "Troyes",
+      "team1_id": 1682,
+      "team2_id": 1652
+    },
+    {
+      "team1": "Stade Rennais",
+      "ST": "1 - 0",
+      "team2": "Strasbourg",
+      "team1_id": 1658,
+      "team2_id": 1659
+    },
+    {
+      "team1": "AS Monaco",
+      "ST": "3 - 1",
+      "team2": "Montpellier",
+      "team1_id": 1653,
+      "team2_id": 1642
+    },
+    {
+      "team1": "Olympique de Marseille",
+      "ST": "0 - 0",
+      "team2": "Paris Saint-Germain",
+      "team1_id": 1641,
+      "team2_id": 1644
+    }
+  ],
+  "10/23": [
+    {
+      "team1": "Nantes",
+      "ST": "2 - 1",
+      "team2": "Clermont Foot",
+      "team1_id": 1647,
+      "team2_id": 1680
+    },
+    {
+      "team1": "Lille",
+      "ST": "1 - 1",
+      "team2": "Stade Brestois",
+      "team2_id": 1715,
+      "team1_id": 1643
+    }
+  ],
+  "10/22": [
+    {
+      "team1": "Saint-Étienne",
+      "ST": "2 - 2",
+      "team2": "Angers",
+      "team2_id": 1684,
+      "team1_id": 1678
+    }
+  ],
+  "10/17": [
+    {
+      "team1": "Troyes",
+      "ST": "1 - 0",
+      "team2": "Nice",
+      "team2_id": 1661,
+      "team1_id": 1652
+    },
+    {
+      "team1": "Bordeaux",
+      "ST": "1 - 1",
+      "team2": "Nantes",
+      "team2_id": 1647,
+      "team1_id": 1645
+    },
+    {
+      "team1": "Stade Brestois",
+      "ST": "1 - 1",
+      "team2": "Stade de Reims",
+      "team1_id": 1715,
+      "team2_id": 1682
+    },
+    {
+      "team1": "Metz",
+      "ST": "0 - 3",
+      "team2": "Stade Rennais",
+      "team2_id": 1658,
+      "team1_id": 1651
+    },
+    {
+      "team1": "Strasbourg",
+      "ST": "5 - 1",
+      "team2": "Saint-Étienne",
+      "team1_id": 1659,
+      "team2_id": 1678
+    },
+    {
+      "team1": "Montpellier",
+      "ST": "1 - 0",
+      "team2": "RC Lens",
+      "team1_id": 1642,
+      "team2_id": 1648
+    },
+    {
+      "team1": "Olympique de Marseille",
+      "ST": "4 - 1",
+      "team2": "Lorient",
+      "team1_id": 1641,
+      "team2_id": 1656
+    }
+  ],
+  "10/16": [
+    {
+      "team1": "Clermont Foot",
+      "ST": "1 - 0",
+      "team2": "Lille",
+      "team2_id": 1643,
+      "team1_id": 1680
+    },
+    {
+      "team1": "Olympique Lyonnais",
+      "ST": "2 - 0",
+      "team2": "AS Monaco",
+      "team2_id": 1653,
+      "team1_id": 1649
+    }
+  ],
+  "10/15": [
+    {
+      "team1": "Paris Saint-Germain",
+      "ST": "2 - 1",
+      "team2": "Angers",
+      "team1_id": 1644,
+      "team2_id": 1684
+    }
+  ],
+  "10/03": [
+    {
+      "team1": "Stade Rennais",
+      "ST": "2 - 0",
+      "team2": "Paris Saint-Germain",
+      "team2_id": 1644,
+      "team1_id": 1658
+    },
+    {
+      "team1": "Angers",
+      "ST": "3 - 2",
+      "team2": "Metz",
+      "team2_id": 1651,
+      "team1_id": 1684
+    },
+    {
+      "team1": "Lorient",
+      "ST": "1 - 1",
+      "team2": "Clermont Foot",
+      "team1_id": 1656,
+      "team2_id": 1680
+    },
+    {
+      "team1": "AS Monaco",
+      "ST": "3 - 0",
+      "team2": "Bordeaux",
+      "team1_id": 1653,
+      "team2_id": 1645
+    },
+    {
+      "team1": "Nantes",
+      "ST": "2 - 0",
+      "team2": "Troyes",
+      "team1_id": 1647,
+      "team2_id": 1652
+    },
+    {
+      "team1": "Lille",
+      "ST": "2 - 0",
+      "team2": "Olympique de Marseille",
+      "team2_id": 1641,
+      "team1_id": 1643
+    },
+    {
+      "team1": "Saint-Étienne",
+      "ST": "1 - 1",
+      "team2": "Olympique Lyonnais",
+      "team2_id": 1649,
+      "team1_id": 1678
+    }
+  ],
+  "10/02": [
+    {
+      "team1": "Montpellier",
+      "ST": "1 - 1",
+      "team2": "Strasbourg",
+      "team1_id": 1642,
+      "team2_id": 1659
+    },
+    {
+      "team1": "Nice",
+      "ST": "2 - 1",
+      "team2": "Stade Brestois",
+      "team2_id": 1715,
+      "team1_id": 1661
+    }
+  ],
+  "10/01": [
+    {
+      "team1": "RC Lens",
+      "ST": "2 - 0",
+      "team2": "Stade de Reims",
+      "team2_id": 1682,
+      "team1_id": 1648
+    }
+  ],
+  "09/26": [
+    {
+      "team1": "Bordeaux",
+      "ST": "1 - 1",
+      "team2": "Stade Rennais",
+      "team2_id": 1658,
+      "team1_id": 1645
+    },
+    {
+      "team1": "Stade Brestois",
+      "ST": "1 - 2",
+      "team2": "Metz",
+      "team1_id": 1715,
+      "team2_id": 1651
+    },
+    {
+      "team1": "Stade de Reims",
+      "ST": "3 - 1",
+      "team2": "Nantes",
+      "team1_id": 1682,
+      "team2_id": 1647
+    },
+    {
+      "team1": "Troyes",
+      "ST": "1 - 1",
+      "team2": "Angers",
+      "team1_id": 1652,
+      "team2_id": 1684
+    },
+    {
+      "team1": "Clermont Foot",
+      "ST": "1 - 3",
+      "team2": "AS Monaco",
+      "team2_id": 1653,
+      "team1_id": 1680
+    },
+    {
+      "team1": "Olympique de Marseille",
+      "ST": "2 - 3",
+      "team2": "RC Lens",
+      "team1_id": 1641,
+      "team2_id": 1648
+    }
+  ],
+  "09/25": [
+    {
+      "team1": "Saint-Étienne",
+      "ST": "0 - 3",
+      "team2": "Nice",
+      "team2_id": 1661,
+      "team1_id": 1678
+    },
+    {
+      "team1": "Strasbourg",
+      "ST": "1 - 2",
+      "team2": "Lille",
+      "team2_id": 1643,
+      "team1_id": 1659
+    },
+    {
+      "team1": "Olympique Lyonnais",
+      "ST": "1 - 1",
+      "team2": "Lorient",
+      "team2_id": 1656,
+      "team1_id": 1649
+    },
+    {
+      "team1": "Paris Saint-Germain",
+      "ST": "2 - 0",
+      "team2": "Montpellier",
+      "team1_id": 1644,
+      "team2_id": 1642
+    }
+  ],
+  "09/22": [
+    {
+      "team1": "Lille",
+      "ST": "2 - 1",
+      "team2": "Stade de Reims",
+      "team1_id": 1643,
+      "team2_id": 1682
+    },
+    {
+      "team1": "AS Monaco",
+      "ST": "3 - 1",
+      "team2": "Saint-Étienne",
+      "team1_id": 1653,
+      "team2_id": 1678
+    },
+    {
+      "team1": "Montpellier",
+      "ST": "3 - 3",
+      "team2": "Bordeaux",
+      "team1_id": 1642,
+      "team2_id": 1645
+    },
+    {
+      "team1": "Nantes",
+      "ST": "3 - 1",
+      "team2": "Stade Brestois",
+      "team2_id": 1715,
+      "team1_id": 1647
+    },
+    {
+      "team1": "Stade Rennais",
+      "ST": "6 - 0",
+      "team2": "Clermont Foot",
+      "team1_id": 1658,
+      "team2_id": 1680
+    },
+    {
+      "team1": "Angers",
+      "ST": "0 - 0",
+      "team2": "Olympique de Marseille",
+      "team2_id": 1641,
+      "team1_id": 1684
+    },
+    {
+      "team1": "Lorient",
+      "ST": "1 - 0",
+      "team2": "Nice",
+      "team2_id": 1661,
+      "team1_id": 1656
+    },
+    {
+      "team1": "Olympique Lyonnais",
+      "ST": "3 - 1",
+      "team2": "Troyes",
+      "team1_id": 1649,
+      "team2_id": 1652
+    },
+    {
+      "team1": "Metz",
+      "ST": "1 - 2",
+      "team2": "Paris Saint-Germain",
+      "team2_id": 1644,
+      "team1_id": 1651
+    },
+    {
+      "team1": "RC Lens",
+      "ST": "0 - 1",
+      "team2": "Strasbourg",
+      "team2_id": 1659,
+      "team1_id": 1648
+    }
+  ],
+  "09/19": [
+    {
+      "team1": "Nice",
+      "ST": "2 - 2",
+      "team2": "AS Monaco",
+      "team2_id": 1653,
+      "team1_id": 1661
+    },
+    {
+      "team1": "Angers",
+      "ST": "1 - 4",
+      "team2": "Nantes",
+      "team2_id": 1647,
+      "team1_id": 1684
+    },
+    {
+      "team1": "Clermont Foot",
+      "ST": "1 - 1",
+      "team2": "Stade Brestois",
+      "team2_id": 1715,
+      "team1_id": 1680
+    },
+    {
+      "team1": "Stade de Reims",
+      "ST": "0 - 0",
+      "team2": "Lorient",
+      "team1_id": 1682,
+      "team2_id": 1656
+    },
+    {
+      "team1": "Troyes",
+      "ST": "1 - 1",
+      "team2": "Montpellier",
+      "team2_id": 1642,
+      "team1_id": 1652
+    },
+    {
+      "team1": "Olympique de Marseille",
+      "ST": "2 - 0",
+      "team2": "Stade Rennais",
+      "team1_id": 1641,
+      "team2_id": 1658
+    },
+    {
+      "team1": "Paris Saint-Germain",
+      "ST": "2 - 1",
+      "team2": "Olympique Lyonnais",
+      "team1_id": 1644,
+      "team2_id": 1649
+    }
+  ],
+  "09/18": [
+    {
+      "team1": "RC Lens",
+      "ST": "1 - 0",
+      "team2": "Lille",
+      "team2_id": 1643,
+      "team1_id": 1648
+    },
+    {
+      "team1": "Saint-Étienne",
+      "ST": "1 - 2",
+      "team2": "Bordeaux",
+      "team1_id": 1678,
+      "team2_id": 1645
+    }
+  ],
+  "09/17": [
+    {
+      "team1": "Strasbourg",
+      "ST": "3 - 0",
+      "team2": "Metz",
+      "team1_id": 1659,
+      "team2_id": 1651
+    }
+  ],
+  "09/12": [
+    {
+      "team1": "Montpellier",
+      "ST": "2 - 0",
+      "team2": "Saint-Étienne",
+      "team1_id": 1642,
+      "team2_id": 1678
+    },
+    {
+      "team1": "Bordeaux",
+      "ST": "2 - 3",
+      "team2": "RC Lens",
+      "team2_id": 1648,
+      "team1_id": 1645
+    },
+    {
+      "team1": "Stade Brestois",
+      "ST": "1 - 1",
+      "team2": "Angers",
+      "team1_id": 1715,
+      "team2_id": 1684
+    },
+    {
+      "team1": "Metz",
+      "ST": "0 - 2",
+      "team2": "Troyes",
+      "team1_id": 1651,
+      "team2_id": 1652
+    },
+    {
+      "team1": "Stade Rennais",
+      "ST": "0 - 2",
+      "team2": "Stade de Reims",
+      "team1_id": 1658,
+      "team2_id": 1682
+    },
+    {
+      "team1": "Nantes",
+      "ST": "0 - 2",
+      "team2": "Nice",
+      "team2_id": 1661,
+      "team1_id": 1647
+    },
+    {
+      "team1": "Olympique Lyonnais",
+      "ST": "3 - 1",
+      "team2": "Strasbourg",
+      "team2_id": 1659,
+      "team1_id": 1649
+    }
+  ],
+  "09/11": [
+    {
+      "team1": "Paris Saint-Germain",
+      "ST": "4 - 0",
+      "team2": "Clermont Foot",
+      "team1_id": 1644,
+      "team2_id": 1680
+    },
+    {
+      "team1": "AS Monaco",
+      "ST": "0 - 2",
+      "team2": "Olympique de Marseille",
+      "team1_id": 1653,
+      "team2_id": 1641
+    }
+  ],
+  "09/10": [
+    {
+      "team1": "Lorient",
+      "ST": "2 - 1",
+      "team2": "Lille",
+      "team2_id": 1643,
+      "team1_id": 1656
+    }
+  ],
+  "08/29": [
+    {
+      "team1": "Troyes",
+      "ST": "1 - 2",
+      "team2": "AS Monaco",
+      "team2_id": 1653,
+      "team1_id": 1652
+    },
+    {
+      "team1": "Angers",
+      "ST": "2 - 0",
+      "team2": "Stade Rennais",
+      "team2_id": 1658,
+      "team1_id": 1684
+    },
+    {
+      "team1": "Clermont Foot",
+      "ST": "2 - 2",
+      "team2": "Metz",
+      "team2_id": 1651,
+      "team1_id": 1680
+    },
+    {
+      "team1": "RC Lens",
+      "ST": "2 - 2",
+      "team2": "Lorient",
+      "team2_id": 1656,
+      "team1_id": 1648
+    },
+    {
+      "team1": "Strasbourg",
+      "ST": "3 - 1",
+      "team2": "Stade Brestois",
+      "team2_id": 1715,
+      "team1_id": 1659
+    },
+    {
+      "team1": "Lille",
+      "ST": "2 - 1",
+      "team2": "Montpellier",
+      "team2_id": 1642,
+      "team1_id": 1643
+    },
+    {
+      "team1": "Stade de Reims",
+      "ST": "0 - 2",
+      "team2": "Paris Saint-Germain",
+      "team2_id": 1644,
+      "team1_id": 1682
+    }
+  ],
+  "08/28": [
+    {
+      "team1": "Nice",
+      "ST": "4 - 0",
+      "team2": "Bordeaux",
+      "team1_id": 1661,
+      "team2_id": 1645
+    },
+    {
+      "team1": "Olympique de Marseille",
+      "ST": "3 - 1",
+      "team2": "Saint-Étienne",
+      "team1_id": 1641,
+      "team2_id": 1678
+    }
+  ],
+  "08/27": [
+    {
+      "team1": "Nantes",
+      "ST": "0 - 1",
+      "team2": "Olympique Lyonnais",
+      "team1_id": 1647,
+      "team2_id": 1649
+    }
+  ],
+  "08/22": [
+    {
+      "team1": "Olympique Lyonnais",
+      "ST": "3 - 3",
+      "team2": "Clermont Foot",
+      "team2_id": 1680,
+      "team1_id": 1649
+    },
+    {
+      "team1": "Bordeaux",
+      "ST": "1 - 1",
+      "team2": "Angers",
+      "team2_id": 1684,
+      "team1_id": 1645
+    },
+    {
+      "team1": "Metz",
+      "ST": "1 - 1",
+      "team2": "Stade de Reims",
+      "team2_id": 1682,
+      "team1_id": 1651
+    },
+    {
+      "team1": "Montpellier",
+      "ST": "3 - 1",
+      "team2": "Lorient",
+      "team1_id": 1642,
+      "team2_id": 1656
+    },
+    {
+      "team1": "Strasbourg",
+      "ST": "1 - 1",
+      "team2": "Troyes",
+      "team1_id": 1659,
+      "team2_id": 1652
+    },
+    {
+      "team1": "Stade Rennais",
+      "ST": "1 - 0",
+      "team2": "Nantes",
+      "team1_id": 1658,
+      "team2_id": 1647
+    }
+  ],
+  "08/21": [
+    {
+      "team1": "AS Monaco",
+      "ST": "0 - 2",
+      "team2": "RC Lens",
+      "team1_id": 1653,
+      "team2_id": 1648
+    },
+    {
+      "team1": "Saint-Étienne",
+      "ST": "1 - 1",
+      "team2": "Lille",
+      "team2_id": 1643,
+      "team1_id": 1678
+    }
+  ],
+  "08/20": [
+    {
+      "team1": "Stade Brestois",
+      "ST": "2 - 4",
+      "team2": "Paris Saint-Germain",
+      "team1_id": 1715,
+      "team2_id": 1644
+    }
+  ],
+  "08/15": [
+    {
+      "team1": "Angers",
+      "ST": "3 - 0",
+      "team2": "Olympique Lyonnais",
+      "team2_id": 1649,
+      "team1_id": 1684
+    },
+    {
+      "team1": "Stade Brestois",
+      "ST": "1 - 1",
+      "team2": "Stade Rennais",
+      "team1_id": 1715,
+      "team2_id": 1658
+    },
+    {
+      "team1": "Clermont Foot",
+      "ST": "2 - 0",
+      "team2": "Troyes",
+      "team1_id": 1680,
+      "team2_id": 1652
+    },
+    {
+      "team1": "Nantes",
+      "ST": "2 - 0",
+      "team2": "Metz",
+      "team1_id": 1647,
+      "team2_id": 1651
+    },
+    {
+      "team1": "Stade de Reims",
+      "ST": "3 - 3",
+      "team2": "Montpellier",
+      "team2_id": 1642,
+      "team1_id": 1682
+    },
+    {
+      "team1": "RC Lens",
+      "ST": "2 - 2",
+      "team2": "Saint-Étienne",
+      "team1_id": 1648,
+      "team2_id": 1678
+    },
+    {
+      "team1": "Olympique de Marseille",
+      "ST": "2 - 2",
+      "team2": "Bordeaux",
+      "team1_id": 1641,
+      "team2_id": 1645
+    }
+  ],
+  "08/14": [
+    {
+      "team1": "Lille",
+      "ST": "0 - 4",
+      "team2": "Nice",
+      "team1_id": 1643,
+      "team2_id": 1661
+    },
+    {
+      "team1": "Paris Saint-Germain",
+      "ST": "4 - 2",
+      "team2": "Strasbourg",
+      "team1_id": 1644,
+      "team2_id": 1659
+    }
+  ],
+  "08/13": [
+    {
+      "team1": "Lorient",
+      "ST": "1 - 0",
+      "team2": "AS Monaco",
+      "team2_id": 1653,
+      "team1_id": 1656
+    }
+  ],
+  "08/08": [
+    {
+      "team1": "Stade Rennais",
+      "ST": "1 - 1",
+      "team2": "RC Lens",
+      "team1_id": 1658,
+      "team2_id": 1648
+    },
+    {
+      "team1": "Bordeaux",
+      "ST": "0 - 2",
+      "team2": "Clermont Foot",
+      "team2_id": 1680,
+      "team1_id": 1645
+    },
+    {
+      "team1": "Nice",
+      "ST": "0 - 0",
+      "team2": "Stade de Reims",
+      "team2_id": 1682,
+      "team1_id": 1661
+    },
+    {
+      "team1": "Saint-Étienne",
+      "ST": "1 - 1",
+      "team2": "Lorient",
+      "team2_id": 1656,
+      "team1_id": 1678
+    },
+    {
+      "team1": "Strasbourg",
+      "ST": "0 - 2",
+      "team2": "Angers",
+      "team1_id": 1659,
+      "team2_id": 1684
+    },
+    {
+      "team1": "Metz",
+      "ST": "3 - 3",
+      "team2": "Lille",
+      "team2_id": 1643,
+      "team1_id": 1651
+    },
+    {
+      "team1": "Montpellier",
+      "ST": "2 - 3",
+      "team2": "Olympique de Marseille",
+      "team2_id": 1641,
+      "team1_id": 1642
+    }
+  ],
+  "08/07": [
+    {
+      "team1": "Olympique Lyonnais",
+      "ST": "1 - 1",
+      "team2": "Stade Brestois",
+      "team2_id": 1715,
+      "team1_id": 1649
+    },
+    {
+      "team1": "Troyes",
+      "ST": "1 - 2",
+      "team2": "Paris Saint-Germain",
+      "team2_id": 1644,
+      "team1_id": 1652
+    }
+  ],
+  "08/06": [
+    {
+      "team1": "AS Monaco",
+      "ST": "1 - 1",
+      "team2": "Nantes",
+      "team1_id": 1653,
+      "team2_id": 1647
+    }
+  ]
+}

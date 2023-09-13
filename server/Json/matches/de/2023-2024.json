@@ -1,0 +1,2244 @@
+{
+  "08/27": [
+    {
+      "team1": "1. FSV Mainz 05",
+      "team2": "Eintracht Frankfurt",
+      "team2_id": 2674,
+      "team1_id": 2556,
+      "ST": "1 - 1"
+    },
+    {
+      "team1": "FC Bayern München",
+      "team2": "FC Augsburg",
+      "team1_id": 2672,
+      "team2_id": 2600,
+      "ST": "3 - 1"
+    }
+  ],
+  "09/01": [
+    {
+      "team1": "Borussia Dortmund",
+      "team2": "1. FC Heidenheim",
+      "team1_id": 2673,
+      "ST": "19:30",
+      "team2_id": 5885
+    }
+  ],
+  "09/02": [
+    {
+      "team1": "Bayer 04 Leverkusen",
+      "team2": "SV Darmstadt 98",
+      "team1_id": 2681,
+      "team2_id": 2576,
+      "ST": "14:30"
+    },
+    {
+      "team1": "FC Augsburg",
+      "team2": "VfL Bochum 1848",
+      "team1_id": 2600,
+      "team2_id": 2542,
+      "ST": "14:30"
+    },
+    {
+      "team1": "TSG Hoffenheim",
+      "team2": "VfL Wolfsburg",
+      "team2_id": 2524,
+      "team1_id": 2569,
+      "ST": "14:30"
+    },
+    {
+      "team1": "VfB Stuttgart",
+      "team2": "SC Freiburg",
+      "team2_id": 2538,
+      "team1_id": 2677,
+      "ST": "14:30"
+    },
+    {
+      "team1": "SV Werder Bremen",
+      "team2": "1. FSV Mainz 05",
+      "team2_id": 2556,
+      "team1_id": 2534,
+      "ST": "14:30"
+    },
+    {
+      "team1": "Borussia Mönchengladbach",
+      "team2": "FC Bayern München",
+      "team2_id": 2672,
+      "team1_id": 2527,
+      "ST": "17:30"
+    }
+  ],
+  "09/03": [
+    {
+      "team1": "Eintracht Frankfurt",
+      "team2": "1. FC Köln",
+      "team1_id": 2674,
+      "team2_id": 2671,
+      "ST": "14:30"
+    },
+    {
+      "team1": "1. FC Union Berlin",
+      "team2": "RB Leipzig",
+      "team1_id": 2547,
+      "team2_id": 36360,
+      "ST": "16:30"
+    }
+  ],
+  "09/15": [
+    {
+      "team1": "FC Bayern München",
+      "team2": "Bayer 04 Leverkusen",
+      "team2_id": 2681,
+      "team1_id": 2672,
+      "ST": "19:30"
+    }
+  ],
+  "09/16": [
+    {
+      "team1": "1. FC Köln",
+      "team2": "TSG Hoffenheim",
+      "team2_id": 2569,
+      "team1_id": 2671,
+      "ST": "14:30"
+    },
+    {
+      "team1": "1. FSV Mainz 05",
+      "team2": "VfB Stuttgart",
+      "team2_id": 2677,
+      "team1_id": 2556,
+      "ST": "14:30"
+    },
+    {
+      "team1": "RB Leipzig",
+      "team2": "FC Augsburg",
+      "team1_id": 36360,
+      "team2_id": 2600,
+      "ST": "14:30"
+    },
+    {
+      "team1": "SC Freiburg",
+      "team2": "Borussia Dortmund",
+      "team1_id": 2538,
+      "team2_id": 2673,
+      "ST": "14:30"
+    },
+    {
+      "team1": "VfL Wolfsburg",
+      "team2": "1. FC Union Berlin",
+      "team2_id": 2547,
+      "team1_id": 2524,
+      "ST": "14:30"
+    },
+    {
+      "team1": "VfL Bochum 1848",
+      "team2": "Eintracht Frankfurt",
+      "team2_id": 2674,
+      "team1_id": 2542,
+      "ST": "17:30"
+    }
+  ],
+  "09/17": [
+    {
+      "team1": "1. FC Heidenheim",
+      "team2": "SV Werder Bremen",
+      "team2_id": 2534,
+      "ST": "14:30",
+      "team1_id": 5885
+    },
+    {
+      "team1": "SV Darmstadt 98",
+      "team2": "Borussia Mönchengladbach",
+      "team2_id": 2527,
+      "team1_id": 2576,
+      "ST": "16:30"
+    }
+  ],
+  "09/22": [
+    {
+      "team1": "VfB Stuttgart",
+      "team2": "SV Darmstadt 98",
+      "team1_id": 2677,
+      "team2_id": 2576,
+      "ST": "19:30"
+    }
+  ],
+  "09/23": [
+    {
+      "team1": "1. FC Union Berlin",
+      "team2": "TSG Hoffenheim",
+      "team1_id": 2547,
+      "team2_id": 2569,
+      "ST": "14:30"
+    },
+    {
+      "team1": "FC Bayern München",
+      "team2": "VfL Bochum 1848",
+      "team1_id": 2672,
+      "team2_id": 2542,
+      "ST": "14:30"
+    },
+    {
+      "team1": "Borussia Dortmund",
+      "team2": "VfL Wolfsburg",
+      "team2_id": 2524,
+      "team1_id": 2673,
+      "ST": "14:30"
+    },
+    {
+      "team1": "FC Augsburg",
+      "team2": "1. FSV Mainz 05",
+      "team1_id": 2600,
+      "team2_id": 2556,
+      "ST": "14:30"
+    },
+    {
+      "team1": "Borussia Mönchengladbach",
+      "team2": "RB Leipzig",
+      "team2_id": 36360,
+      "team1_id": 2527,
+      "ST": "14:30"
+    },
+    {
+      "team1": "SV Werder Bremen",
+      "team2": "1. FC Köln",
+      "team2_id": 2671,
+      "team1_id": 2534,
+      "ST": "17:30"
+    }
+  ],
+  "09/24": [
+    {
+      "team1": "Bayer 04 Leverkusen",
+      "team2": "1. FC Heidenheim",
+      "team1_id": 2681,
+      "ST": "14:30",
+      "team2_id": 5885
+    },
+    {
+      "team1": "Eintracht Frankfurt",
+      "team2": "SC Freiburg",
+      "team2_id": 2538,
+      "team1_id": 2674,
+      "ST": "16:30"
+    }
+  ],
+  "09/29": [
+    {
+      "team1": "TSG Hoffenheim",
+      "team2": "Borussia Dortmund",
+      "team2_id": 2673,
+      "team1_id": 2569,
+      "ST": "19:30"
+    }
+  ],
+  "09/30": [
+    {
+      "team1": "1. FC Heidenheim",
+      "team2": "1. FC Union Berlin",
+      "team2_id": 2547,
+      "ST": "14:30",
+      "team1_id": 5885
+    },
+    {
+      "team1": "VfL Bochum 1848",
+      "team2": "Borussia Mönchengladbach",
+      "team2_id": 2527,
+      "team1_id": 2542,
+      "ST": "14:30"
+    },
+    {
+      "team1": "1. FC Köln",
+      "team2": "VfB Stuttgart",
+      "team2_id": 2677,
+      "team1_id": 2671,
+      "ST": "14:30"
+    },
+    {
+      "team1": "1. FSV Mainz 05",
+      "team2": "Bayer 04 Leverkusen",
+      "team2_id": 2681,
+      "team1_id": 2556,
+      "ST": "14:30"
+    },
+    {
+      "team1": "VfL Wolfsburg",
+      "team2": "Eintracht Frankfurt",
+      "team1_id": 2524,
+      "team2_id": 2674,
+      "ST": "14:30"
+    },
+    {
+      "team1": "RB Leipzig",
+      "team2": "FC Bayern München",
+      "team2_id": 2672,
+      "team1_id": 36360,
+      "ST": "17:30"
+    }
+  ],
+  "10/01": [
+    {
+      "team1": "SV Darmstadt 98",
+      "team2": "SV Werder Bremen",
+      "team1_id": 2576,
+      "team2_id": 2534,
+      "ST": "14:30"
+    },
+    {
+      "team1": "SC Freiburg",
+      "team2": "FC Augsburg",
+      "team1_id": 2538,
+      "team2_id": 2600,
+      "ST": "16:30"
+    }
+  ],
+  "10/06": [
+    {
+      "team1": "Borussia Mönchengladbach",
+      "team2": "1. FSV Mainz 05",
+      "team1_id": 2527,
+      "team2_id": 2556,
+      "ST": "19:30"
+    }
+  ],
+  "10/07": [
+    {
+      "team1": "Borussia Dortmund",
+      "team2": "1. FC Union Berlin",
+      "team2_id": 2547,
+      "team1_id": 2673,
+      "ST": "14:30"
+    },
+    {
+      "team1": "FC Augsburg",
+      "team2": "SV Darmstadt 98",
+      "team1_id": 2600,
+      "team2_id": 2576,
+      "ST": "14:30"
+    },
+    {
+      "team1": "RB Leipzig",
+      "team2": "VfL Bochum 1848",
+      "team1_id": 36360,
+      "team2_id": 2542,
+      "ST": "14:30"
+    },
+    {
+      "team1": "VfB Stuttgart",
+      "team2": "VfL Wolfsburg",
+      "team2_id": 2524,
+      "team1_id": 2677,
+      "ST": "14:30"
+    },
+    {
+      "team1": "SV Werder Bremen",
+      "team2": "TSG Hoffenheim",
+      "team2_id": 2569,
+      "team1_id": 2534,
+      "ST": "17:30"
+    }
+  ],
+  "10/08": [
+    {
+      "team1": "Bayer 04 Leverkusen",
+      "team2": "1. FC Köln",
+      "team1_id": 2681,
+      "team2_id": 2671,
+      "ST": "14:30"
+    },
+    {
+      "team1": "FC Bayern München",
+      "team2": "SC Freiburg",
+      "team2_id": 2538,
+      "team1_id": 2672,
+      "ST": "16:30"
+    },
+    {
+      "team1": "Eintracht Frankfurt",
+      "team2": "1. FC Heidenheim",
+      "team1_id": 2674,
+      "ST": "18:30",
+      "team2_id": 5885
+    }
+  ],
+  "10/20": [
+    {
+      "team1": "Borussia Dortmund",
+      "team2": "SV Werder Bremen",
+      "team1_id": 2673,
+      "team2_id": 2534,
+      "ST": "19:30"
+    }
+  ],
+  "10/21": [
+    {
+      "team1": "1. FC Union Berlin",
+      "team2": "VfB Stuttgart",
+      "team1_id": 2547,
+      "team2_id": 2677,
+      "ST": "14:30"
+    },
+    {
+      "team1": "TSG Hoffenheim",
+      "team2": "Eintracht Frankfurt",
+      "team2_id": 2674,
+      "team1_id": 2569,
+      "ST": "14:30"
+    },
+    {
+      "team1": "SC Freiburg",
+      "team2": "VfL Bochum 1848",
+      "team1_id": 2538,
+      "team2_id": 2542,
+      "ST": "14:30"
+    },
+    {
+      "team1": "SV Darmstadt 98",
+      "team2": "RB Leipzig",
+      "team2_id": 36360,
+      "team1_id": 2576,
+      "ST": "14:30"
+    },
+    {
+      "team1": "VfL Wolfsburg",
+      "team2": "Bayer 04 Leverkusen",
+      "team2_id": 2681,
+      "team1_id": 2524,
+      "ST": "14:30"
+    },
+    {
+      "team1": "1. FSV Mainz 05",
+      "team2": "FC Bayern München",
+      "team2_id": 2672,
+      "team1_id": 2556,
+      "ST": "17:30"
+    }
+  ],
+  "10/22": [
+    {
+      "team1": "1. FC Köln",
+      "team2": "Borussia Mönchengladbach",
+      "team2_id": 2527,
+      "team1_id": 2671,
+      "ST": "14:30"
+    },
+    {
+      "team1": "1. FC Heidenheim",
+      "team2": "FC Augsburg",
+      "team2_id": 2600,
+      "ST": "16:30",
+      "team1_id": 5885
+    }
+  ],
+  "10/28": [
+    {
+      "team1": "Bayer 04 Leverkusen",
+      "team2": "SC Freiburg",
+      "team1_id": 2681,
+      "team2_id": 2538,
+      "ST": "12:30"
+    },
+    {
+      "team1": "FC Bayern München",
+      "team2": "SV Darmstadt 98",
+      "team1_id": 2672,
+      "team2_id": 2576,
+      "ST": "12:30"
+    },
+    {
+      "team1": "VfL Bochum 1848",
+      "team2": "1. FSV Mainz 05",
+      "team1_id": 2542,
+      "team2_id": 2556,
+      "ST": "12:30"
+    },
+    {
+      "team1": "Eintracht Frankfurt",
+      "team2": "Borussia Dortmund",
+      "team2_id": 2673,
+      "team1_id": 2674,
+      "ST": "12:30"
+    },
+    {
+      "team1": "FC Augsburg",
+      "team2": "VfL Wolfsburg",
+      "team2_id": 2524,
+      "team1_id": 2600,
+      "ST": "12:30"
+    },
+    {
+      "team1": "Borussia Mönchengladbach",
+      "team2": "1. FC Heidenheim",
+      "team1_id": 2527,
+      "ST": "12:30",
+      "team2_id": 5885
+    },
+    {
+      "team1": "RB Leipzig",
+      "team2": "1. FC Köln",
+      "team1_id": 36360,
+      "team2_id": 2671,
+      "ST": "12:30"
+    },
+    {
+      "team1": "VfB Stuttgart",
+      "team2": "TSG Hoffenheim",
+      "team1_id": 2677,
+      "team2_id": 2569,
+      "ST": "12:30"
+    },
+    {
+      "team1": "SV Werder Bremen",
+      "team2": "1. FC Union Berlin",
+      "team2_id": 2547,
+      "team1_id": 2534,
+      "ST": "12:30"
+    }
+  ],
+  "11/04": [
+    {
+      "team1": "1. FC Heidenheim",
+      "team2": "VfB Stuttgart",
+      "team2_id": 2677,
+      "ST": "12:30",
+      "team1_id": 5885
+    },
+    {
+      "team1": "1. FC Union Berlin",
+      "team2": "Eintracht Frankfurt",
+      "team1_id": 2547,
+      "team2_id": 2674,
+      "ST": "12:30"
+    },
+    {
+      "team1": "Borussia Dortmund",
+      "team2": "FC Bayern München",
+      "team1_id": 2673,
+      "team2_id": 2672,
+      "ST": "12:30"
+    },
+    {
+      "team1": "1. FC Köln",
+      "team2": "FC Augsburg",
+      "team2_id": 2600,
+      "team1_id": 2671,
+      "ST": "12:30"
+    },
+    {
+      "team1": "TSG Hoffenheim",
+      "team2": "Bayer 04 Leverkusen",
+      "team2_id": 2681,
+      "team1_id": 2569,
+      "ST": "12:30"
+    },
+    {
+      "team1": "1. FSV Mainz 05",
+      "team2": "RB Leipzig",
+      "team2_id": 36360,
+      "team1_id": 2556,
+      "ST": "12:30"
+    },
+    {
+      "team1": "SC Freiburg",
+      "team2": "Borussia Mönchengladbach",
+      "team1_id": 2538,
+      "team2_id": 2527,
+      "ST": "12:30"
+    },
+    {
+      "team1": "SV Darmstadt 98",
+      "team2": "VfL Bochum 1848",
+      "team2_id": 2542,
+      "team1_id": 2576,
+      "ST": "12:30"
+    },
+    {
+      "team1": "VfL Wolfsburg",
+      "team2": "SV Werder Bremen",
+      "team1_id": 2524,
+      "team2_id": 2534,
+      "ST": "12:30"
+    }
+  ],
+  "11/11": [
+    {
+      "team1": "Bayer 04 Leverkusen",
+      "team2": "1. FC Union Berlin",
+      "team2_id": 2547,
+      "team1_id": 2681,
+      "ST": "12:30"
+    },
+    {
+      "team1": "FC Bayern München",
+      "team2": "1. FC Heidenheim",
+      "team1_id": 2672,
+      "ST": "12:30",
+      "team2_id": 5885
+    },
+    {
+      "team1": "VfL Bochum 1848",
+      "team2": "1. FC Köln",
+      "team1_id": 2542,
+      "team2_id": 2671,
+      "ST": "12:30"
+    },
+    {
+      "team1": "FC Augsburg",
+      "team2": "TSG Hoffenheim",
+      "team2_id": 2569,
+      "team1_id": 2600,
+      "ST": "12:30"
+    },
+    {
+      "team1": "Borussia Mönchengladbach",
+      "team2": "VfL Wolfsburg",
+      "team2_id": 2524,
+      "team1_id": 2527,
+      "ST": "12:30"
+    },
+    {
+      "team1": "RB Leipzig",
+      "team2": "SC Freiburg",
+      "team2_id": 2538,
+      "team1_id": 36360,
+      "ST": "12:30"
+    },
+    {
+      "team1": "SV Darmstadt 98",
+      "team2": "1. FSV Mainz 05",
+      "team2_id": 2556,
+      "team1_id": 2576,
+      "ST": "12:30"
+    },
+    {
+      "team1": "VfB Stuttgart",
+      "team2": "Borussia Dortmund",
+      "team2_id": 2673,
+      "team1_id": 2677,
+      "ST": "12:30"
+    },
+    {
+      "team1": "SV Werder Bremen",
+      "team2": "Eintracht Frankfurt",
+      "team2_id": 2674,
+      "team1_id": 2534,
+      "ST": "12:30"
+    }
+  ],
+  "11/25": [
+    {
+      "team1": "1. FC Heidenheim",
+      "team2": "VfL Bochum 1848",
+      "team2_id": 2542,
+      "ST": "12:30",
+      "team1_id": 5885
+    },
+    {
+      "team1": "1. FC Union Berlin",
+      "team2": "FC Augsburg",
+      "team1_id": 2547,
+      "team2_id": 2600,
+      "ST": "12:30"
+    },
+    {
+      "team1": "Borussia Dortmund",
+      "team2": "Borussia Mönchengladbach",
+      "team1_id": 2673,
+      "team2_id": 2527,
+      "ST": "12:30"
+    },
+    {
+      "team1": "1. FC Köln",
+      "team2": "FC Bayern München",
+      "team2_id": 2672,
+      "team1_id": 2671,
+      "ST": "12:30"
+    },
+    {
+      "team1": "Eintracht Frankfurt",
+      "team2": "VfB Stuttgart",
+      "team2_id": 2677,
+      "team1_id": 2674,
+      "ST": "12:30"
+    },
+    {
+      "team1": "TSG Hoffenheim",
+      "team2": "1. FSV Mainz 05",
+      "team1_id": 2569,
+      "team2_id": 2556,
+      "ST": "12:30"
+    },
+    {
+      "team1": "SC Freiburg",
+      "team2": "SV Darmstadt 98",
+      "team1_id": 2538,
+      "team2_id": 2576,
+      "ST": "12:30"
+    },
+    {
+      "team1": "SV Werder Bremen",
+      "team2": "Bayer 04 Leverkusen",
+      "team2_id": 2681,
+      "team1_id": 2534,
+      "ST": "12:30"
+    },
+    {
+      "team1": "VfL Wolfsburg",
+      "team2": "RB Leipzig",
+      "team1_id": 2524,
+      "team2_id": 36360,
+      "ST": "12:30"
+    }
+  ],
+  "12/02": [
+    {
+      "team1": "Bayer 04 Leverkusen",
+      "team2": "Borussia Dortmund",
+      "team1_id": 2681,
+      "team2_id": 2673,
+      "ST": "12:30"
+    },
+    {
+      "team1": "FC Bayern München",
+      "team2": "1. FC Union Berlin",
+      "team2_id": 2547,
+      "team1_id": 2672,
+      "ST": "12:30"
+    },
+    {
+      "team1": "VfL Bochum 1848",
+      "team2": "VfL Wolfsburg",
+      "team2_id": 2524,
+      "team1_id": 2542,
+      "ST": "12:30"
+    },
+    {
+      "team1": "FC Augsburg",
+      "team2": "Eintracht Frankfurt",
+      "team2_id": 2674,
+      "team1_id": 2600,
+      "ST": "12:30"
+    },
+    {
+      "team1": "Borussia Mönchengladbach",
+      "team2": "TSG Hoffenheim",
+      "team2_id": 2569,
+      "team1_id": 2527,
+      "ST": "12:30"
+    },
+    {
+      "team1": "1. FSV Mainz 05",
+      "team2": "SC Freiburg",
+      "team2_id": 2538,
+      "team1_id": 2556,
+      "ST": "12:30"
+    },
+    {
+      "team1": "RB Leipzig",
+      "team2": "1. FC Heidenheim",
+      "team1_id": 36360,
+      "ST": "12:30",
+      "team2_id": 5885
+    },
+    {
+      "team1": "SV Darmstadt 98",
+      "team2": "1. FC Köln",
+      "team2_id": 2671,
+      "team1_id": 2576,
+      "ST": "12:30"
+    },
+    {
+      "team1": "VfB Stuttgart",
+      "team2": "SV Werder Bremen",
+      "team1_id": 2677,
+      "team2_id": 2534,
+      "ST": "12:30"
+    }
+  ],
+  "12/09": [
+    {
+      "team1": "1. FC Heidenheim",
+      "team2": "SV Darmstadt 98",
+      "team2_id": 2576,
+      "ST": "12:30",
+      "team1_id": 5885
+    },
+    {
+      "team1": "1. FC Union Berlin",
+      "team2": "Borussia Mönchengladbach",
+      "team1_id": 2547,
+      "team2_id": 2527,
+      "ST": "12:30"
+    },
+    {
+      "team1": "Borussia Dortmund",
+      "team2": "RB Leipzig",
+      "team1_id": 2673,
+      "team2_id": 36360,
+      "ST": "12:30"
+    },
+    {
+      "team1": "1. FC Köln",
+      "team2": "1. FSV Mainz 05",
+      "team1_id": 2671,
+      "team2_id": 2556,
+      "ST": "12:30"
+    },
+    {
+      "team1": "Eintracht Frankfurt",
+      "team2": "FC Bayern München",
+      "team2_id": 2672,
+      "team1_id": 2674,
+      "ST": "12:30"
+    },
+    {
+      "team1": "TSG Hoffenheim",
+      "team2": "VfL Bochum 1848",
+      "team1_id": 2569,
+      "team2_id": 2542,
+      "ST": "12:30"
+    },
+    {
+      "team1": "VfB Stuttgart",
+      "team2": "Bayer 04 Leverkusen",
+      "team2_id": 2681,
+      "team1_id": 2677,
+      "ST": "12:30"
+    },
+    {
+      "team1": "SV Werder Bremen",
+      "team2": "FC Augsburg",
+      "team2_id": 2600,
+      "team1_id": 2534,
+      "ST": "12:30"
+    },
+    {
+      "team1": "VfL Wolfsburg",
+      "team2": "SC Freiburg",
+      "team1_id": 2524,
+      "team2_id": 2538,
+      "ST": "12:30"
+    }
+  ],
+  "12/16": [
+    {
+      "team1": "Bayer 04 Leverkusen",
+      "team2": "Eintracht Frankfurt",
+      "team1_id": 2681,
+      "team2_id": 2674,
+      "ST": "12:30"
+    },
+    {
+      "team1": "FC Bayern München",
+      "team2": "VfB Stuttgart",
+      "team1_id": 2672,
+      "team2_id": 2677,
+      "ST": "12:30"
+    },
+    {
+      "team1": "VfL Bochum 1848",
+      "team2": "1. FC Union Berlin",
+      "team2_id": 2547,
+      "team1_id": 2542,
+      "ST": "12:30"
+    },
+    {
+      "team1": "FC Augsburg",
+      "team2": "Borussia Dortmund",
+      "team2_id": 2673,
+      "team1_id": 2600,
+      "ST": "12:30"
+    },
+    {
+      "team1": "Borussia Mönchengladbach",
+      "team2": "SV Werder Bremen",
+      "team1_id": 2527,
+      "team2_id": 2534,
+      "ST": "12:30"
+    },
+    {
+      "team1": "1. FSV Mainz 05",
+      "team2": "1. FC Heidenheim",
+      "team1_id": 2556,
+      "ST": "12:30",
+      "team2_id": 5885
+    },
+    {
+      "team1": "RB Leipzig",
+      "team2": "TSG Hoffenheim",
+      "team1_id": 36360,
+      "team2_id": 2569,
+      "ST": "12:30"
+    },
+    {
+      "team1": "SC Freiburg",
+      "team2": "1. FC Köln",
+      "team1_id": 2538,
+      "team2_id": 2671,
+      "ST": "12:30"
+    },
+    {
+      "team1": "SV Darmstadt 98",
+      "team2": "VfL Wolfsburg",
+      "team2_id": 2524,
+      "team1_id": 2576,
+      "ST": "12:30"
+    }
+  ],
+  "12/20": [
+    {
+      "team1": "1. FC Heidenheim",
+      "team2": "SC Freiburg",
+      "team2_id": 2538,
+      "ST": "12:30",
+      "team1_id": 5885
+    },
+    {
+      "team1": "1. FC Union Berlin",
+      "team2": "1. FC Köln",
+      "team1_id": 2547,
+      "team2_id": 2671,
+      "ST": "12:30"
+    },
+    {
+      "team1": "Bayer 04 Leverkusen",
+      "team2": "VfL Bochum 1848",
+      "team1_id": 2681,
+      "team2_id": 2542,
+      "ST": "12:30"
+    },
+    {
+      "team1": "Borussia Dortmund",
+      "team2": "1. FSV Mainz 05",
+      "team1_id": 2673,
+      "team2_id": 2556,
+      "ST": "12:30"
+    },
+    {
+      "team1": "Eintracht Frankfurt",
+      "team2": "Borussia Mönchengladbach",
+      "team1_id": 2674,
+      "team2_id": 2527,
+      "ST": "12:30"
+    },
+    {
+      "team1": "TSG Hoffenheim",
+      "team2": "SV Darmstadt 98",
+      "team1_id": 2569,
+      "team2_id": 2576,
+      "ST": "12:30"
+    },
+    {
+      "team1": "VfB Stuttgart",
+      "team2": "FC Augsburg",
+      "team1_id": 2677,
+      "team2_id": 2600,
+      "ST": "12:30"
+    },
+    {
+      "team1": "SV Werder Bremen",
+      "team2": "RB Leipzig",
+      "team2_id": 36360,
+      "team1_id": 2534,
+      "ST": "12:30"
+    },
+    {
+      "team1": "VfL Wolfsburg",
+      "team2": "FC Bayern München",
+      "team1_id": 2524,
+      "team2_id": 2672,
+      "ST": "12:30"
+    }
+  ],
+  "01/13": [
+    {
+      "team1": "FC Bayern München",
+      "team2": "TSG Hoffenheim",
+      "team1_id": 2672,
+      "team2_id": 2569,
+      "ST": "12:30"
+    },
+    {
+      "team1": "VfL Bochum 1848",
+      "team2": "SV Werder Bremen",
+      "team1_id": 2542,
+      "team2_id": 2534,
+      "ST": "12:30"
+    },
+    {
+      "team1": "1. FC Köln",
+      "team2": "1. FC Heidenheim",
+      "team1_id": 2671,
+      "ST": "12:30",
+      "team2_id": 5885
+    },
+    {
+      "team1": "FC Augsburg",
+      "team2": "Bayer 04 Leverkusen",
+      "team2_id": 2681,
+      "team1_id": 2600,
+      "ST": "12:30"
+    },
+    {
+      "team1": "Borussia Mönchengladbach",
+      "team2": "VfB Stuttgart",
+      "team2_id": 2677,
+      "team1_id": 2527,
+      "ST": "12:30"
+    },
+    {
+      "team1": "1. FSV Mainz 05",
+      "team2": "VfL Wolfsburg",
+      "team2_id": 2524,
+      "team1_id": 2556,
+      "ST": "12:30"
+    },
+    {
+      "team1": "RB Leipzig",
+      "team2": "Eintracht Frankfurt",
+      "team1_id": 36360,
+      "team2_id": 2674,
+      "ST": "12:30"
+    },
+    {
+      "team1": "SC Freiburg",
+      "team2": "1. FC Union Berlin",
+      "team2_id": 2547,
+      "team1_id": 2538,
+      "ST": "12:30"
+    },
+    {
+      "team1": "SV Darmstadt 98",
+      "team2": "Borussia Dortmund",
+      "team2_id": 2673,
+      "team1_id": 2576,
+      "ST": "12:30"
+    }
+  ],
+  "01/20": [
+    {
+      "team1": "1. FC Heidenheim",
+      "team2": "VfL Wolfsburg",
+      "team2_id": 2524,
+      "ST": "12:30",
+      "team1_id": 5885
+    },
+    {
+      "team1": "FC Bayern München",
+      "team2": "SV Werder Bremen",
+      "team1_id": 2672,
+      "team2_id": 2534,
+      "ST": "12:30"
+    },
+    {
+      "team1": "VfL Bochum 1848",
+      "team2": "VfB Stuttgart",
+      "team2_id": 2677,
+      "team1_id": 2542,
+      "ST": "12:30"
+    },
+    {
+      "team1": "1. FC Köln",
+      "team2": "Borussia Dortmund",
+      "team2_id": 2673,
+      "team1_id": 2671,
+      "ST": "12:30"
+    },
+    {
+      "team1": "Borussia Mönchengladbach",
+      "team2": "FC Augsburg",
+      "team2_id": 2600,
+      "team1_id": 2527,
+      "ST": "12:30"
+    },
+    {
+      "team1": "1. FSV Mainz 05",
+      "team2": "1. FC Union Berlin",
+      "team2_id": 2547,
+      "team1_id": 2556,
+      "ST": "12:30"
+    },
+    {
+      "team1": "RB Leipzig",
+      "team2": "Bayer 04 Leverkusen",
+      "team2_id": 2681,
+      "team1_id": 36360,
+      "ST": "12:30"
+    },
+    {
+      "team1": "SC Freiburg",
+      "team2": "TSG Hoffenheim",
+      "team1_id": 2538,
+      "team2_id": 2569,
+      "ST": "12:30"
+    },
+    {
+      "team1": "SV Darmstadt 98",
+      "team2": "Eintracht Frankfurt",
+      "team2_id": 2674,
+      "team1_id": 2576,
+      "ST": "12:30"
+    }
+  ],
+  "01/27": [
+    {
+      "team1": "1. FC Union Berlin",
+      "team2": "SV Darmstadt 98",
+      "team1_id": 2547,
+      "team2_id": 2576,
+      "ST": "12:30"
+    },
+    {
+      "team1": "Bayer 04 Leverkusen",
+      "team2": "Borussia Mönchengladbach",
+      "team1_id": 2681,
+      "team2_id": 2527,
+      "ST": "12:30"
+    },
+    {
+      "team1": "Borussia Dortmund",
+      "team2": "VfL Bochum 1848",
+      "team1_id": 2673,
+      "team2_id": 2542,
+      "ST": "12:30"
+    },
+    {
+      "team1": "Eintracht Frankfurt",
+      "team2": "1. FSV Mainz 05",
+      "team1_id": 2674,
+      "team2_id": 2556,
+      "ST": "12:30"
+    },
+    {
+      "team1": "FC Augsburg",
+      "team2": "FC Bayern München",
+      "team2_id": 2672,
+      "team1_id": 2600,
+      "ST": "12:30"
+    },
+    {
+      "team1": "TSG Hoffenheim",
+      "team2": "1. FC Heidenheim",
+      "team1_id": 2569,
+      "ST": "12:30",
+      "team2_id": 5885
+    },
+    {
+      "team1": "VfB Stuttgart",
+      "team2": "RB Leipzig",
+      "team2_id": 36360,
+      "team1_id": 2677,
+      "ST": "12:30"
+    },
+    {
+      "team1": "SV Werder Bremen",
+      "team2": "SC Freiburg",
+      "team2_id": 2538,
+      "team1_id": 2534,
+      "ST": "12:30"
+    },
+    {
+      "team1": "VfL Wolfsburg",
+      "team2": "1. FC Köln",
+      "team1_id": 2524,
+      "team2_id": 2671,
+      "ST": "12:30"
+    }
+  ],
+  "02/03": [
+    {
+      "team1": "1. FC Heidenheim",
+      "team2": "Borussia Dortmund",
+      "team2_id": 2673,
+      "ST": "12:30",
+      "team1_id": 5885
+    },
+    {
+      "team1": "FC Bayern München",
+      "team2": "Borussia Mönchengladbach",
+      "team1_id": 2672,
+      "team2_id": 2527,
+      "ST": "12:30"
+    },
+    {
+      "team1": "VfL Bochum 1848",
+      "team2": "FC Augsburg",
+      "team2_id": 2600,
+      "team1_id": 2542,
+      "ST": "12:30"
+    },
+    {
+      "team1": "1. FC Köln",
+      "team2": "Eintracht Frankfurt",
+      "team2_id": 2674,
+      "team1_id": 2671,
+      "ST": "12:30"
+    },
+    {
+      "team1": "1. FSV Mainz 05",
+      "team2": "SV Werder Bremen",
+      "team1_id": 2556,
+      "team2_id": 2534,
+      "ST": "12:30"
+    },
+    {
+      "team1": "RB Leipzig",
+      "team2": "1. FC Union Berlin",
+      "team2_id": 2547,
+      "team1_id": 36360,
+      "ST": "12:30"
+    },
+    {
+      "team1": "SC Freiburg",
+      "team2": "VfB Stuttgart",
+      "team1_id": 2538,
+      "team2_id": 2677,
+      "ST": "12:30"
+    },
+    {
+      "team1": "SV Darmstadt 98",
+      "team2": "Bayer 04 Leverkusen",
+      "team2_id": 2681,
+      "team1_id": 2576,
+      "ST": "12:30"
+    },
+    {
+      "team1": "VfL Wolfsburg",
+      "team2": "TSG Hoffenheim",
+      "team1_id": 2524,
+      "team2_id": 2569,
+      "ST": "12:30"
+    }
+  ],
+  "02/10": [
+    {
+      "team1": "1. FC Union Berlin",
+      "team2": "VfL Wolfsburg",
+      "team1_id": 2547,
+      "team2_id": 2524,
+      "ST": "12:30"
+    },
+    {
+      "team1": "Bayer 04 Leverkusen",
+      "team2": "FC Bayern München",
+      "team1_id": 2681,
+      "team2_id": 2672,
+      "ST": "12:30"
+    },
+    {
+      "team1": "Borussia Dortmund",
+      "team2": "SC Freiburg",
+      "team2_id": 2538,
+      "team1_id": 2673,
+      "ST": "12:30"
+    },
+    {
+      "team1": "Eintracht Frankfurt",
+      "team2": "VfL Bochum 1848",
+      "team1_id": 2674,
+      "team2_id": 2542,
+      "ST": "12:30"
+    },
+    {
+      "team1": "FC Augsburg",
+      "team2": "RB Leipzig",
+      "team2_id": 36360,
+      "team1_id": 2600,
+      "ST": "12:30"
+    },
+    {
+      "team1": "TSG Hoffenheim",
+      "team2": "1. FC Köln",
+      "team1_id": 2569,
+      "team2_id": 2671,
+      "ST": "12:30"
+    },
+    {
+      "team1": "Borussia Mönchengladbach",
+      "team2": "SV Darmstadt 98",
+      "team1_id": 2527,
+      "team2_id": 2576,
+      "ST": "12:30"
+    },
+    {
+      "team1": "VfB Stuttgart",
+      "team2": "1. FSV Mainz 05",
+      "team1_id": 2677,
+      "team2_id": 2556,
+      "ST": "12:30"
+    },
+    {
+      "team1": "SV Werder Bremen",
+      "team2": "1. FC Heidenheim",
+      "team1_id": 2534,
+      "ST": "12:30",
+      "team2_id": 5885
+    }
+  ],
+  "02/17": [
+    {
+      "team1": "1. FC Heidenheim",
+      "team2": "Bayer 04 Leverkusen",
+      "team2_id": 2681,
+      "ST": "12:30",
+      "team1_id": 5885
+    },
+    {
+      "team1": "VfL Bochum 1848",
+      "team2": "FC Bayern München",
+      "team2_id": 2672,
+      "team1_id": 2542,
+      "ST": "12:30"
+    },
+    {
+      "team1": "1. FC Köln",
+      "team2": "SV Werder Bremen",
+      "team1_id": 2671,
+      "team2_id": 2534,
+      "ST": "12:30"
+    },
+    {
+      "team1": "TSG Hoffenheim",
+      "team2": "1. FC Union Berlin",
+      "team2_id": 2547,
+      "team1_id": 2569,
+      "ST": "12:30"
+    },
+    {
+      "team1": "1. FSV Mainz 05",
+      "team2": "FC Augsburg",
+      "team2_id": 2600,
+      "team1_id": 2556,
+      "ST": "12:30"
+    },
+    {
+      "team1": "RB Leipzig",
+      "team2": "Borussia Mönchengladbach",
+      "team1_id": 36360,
+      "team2_id": 2527,
+      "ST": "12:30"
+    },
+    {
+      "team1": "SC Freiburg",
+      "team2": "Eintracht Frankfurt",
+      "team1_id": 2538,
+      "team2_id": 2674,
+      "ST": "12:30"
+    },
+    {
+      "team1": "SV Darmstadt 98",
+      "team2": "VfB Stuttgart",
+      "team2_id": 2677,
+      "team1_id": 2576,
+      "ST": "12:30"
+    },
+    {
+      "team1": "VfL Wolfsburg",
+      "team2": "Borussia Dortmund",
+      "team1_id": 2524,
+      "team2_id": 2673,
+      "ST": "12:30"
+    }
+  ],
+  "02/24": [
+    {
+      "team1": "1. FC Union Berlin",
+      "team2": "1. FC Heidenheim",
+      "team1_id": 2547,
+      "ST": "12:30",
+      "team2_id": 5885
+    },
+    {
+      "team1": "Bayer 04 Leverkusen",
+      "team2": "1. FSV Mainz 05",
+      "team1_id": 2681,
+      "team2_id": 2556,
+      "ST": "12:30"
+    },
+    {
+      "team1": "FC Bayern München",
+      "team2": "RB Leipzig",
+      "team1_id": 2672,
+      "team2_id": 36360,
+      "ST": "12:30"
+    },
+    {
+      "team1": "Borussia Dortmund",
+      "team2": "TSG Hoffenheim",
+      "team1_id": 2673,
+      "team2_id": 2569,
+      "ST": "12:30"
+    },
+    {
+      "team1": "Eintracht Frankfurt",
+      "team2": "VfL Wolfsburg",
+      "team2_id": 2524,
+      "team1_id": 2674,
+      "ST": "12:30"
+    },
+    {
+      "team1": "FC Augsburg",
+      "team2": "SC Freiburg",
+      "team2_id": 2538,
+      "team1_id": 2600,
+      "ST": "12:30"
+    },
+    {
+      "team1": "Borussia Mönchengladbach",
+      "team2": "VfL Bochum 1848",
+      "team1_id": 2527,
+      "team2_id": 2542,
+      "ST": "12:30"
+    },
+    {
+      "team1": "VfB Stuttgart",
+      "team2": "1. FC Köln",
+      "team1_id": 2677,
+      "team2_id": 2671,
+      "ST": "12:30"
+    },
+    {
+      "team1": "SV Werder Bremen",
+      "team2": "SV Darmstadt 98",
+      "team2_id": 2576,
+      "team1_id": 2534,
+      "ST": "12:30"
+    }
+  ],
+  "03/02": [
+    {
+      "team1": "1. FC Heidenheim",
+      "team2": "Eintracht Frankfurt",
+      "team2_id": 2674,
+      "ST": "12:30",
+      "team1_id": 5885
+    },
+    {
+      "team1": "1. FC Union Berlin",
+      "team2": "Borussia Dortmund",
+      "team1_id": 2547,
+      "team2_id": 2673,
+      "ST": "12:30"
+    },
+    {
+      "team1": "VfL Bochum 1848",
+      "team2": "RB Leipzig",
+      "team2_id": 36360,
+      "team1_id": 2542,
+      "ST": "12:30"
+    },
+    {
+      "team1": "1. FC Köln",
+      "team2": "Bayer 04 Leverkusen",
+      "team2_id": 2681,
+      "team1_id": 2671,
+      "ST": "12:30"
+    },
+    {
+      "team1": "TSG Hoffenheim",
+      "team2": "SV Werder Bremen",
+      "team1_id": 2569,
+      "team2_id": 2534,
+      "ST": "12:30"
+    },
+    {
+      "team1": "1. FSV Mainz 05",
+      "team2": "Borussia Mönchengladbach",
+      "team2_id": 2527,
+      "team1_id": 2556,
+      "ST": "12:30"
+    },
+    {
+      "team1": "SC Freiburg",
+      "team2": "FC Bayern München",
+      "team1_id": 2538,
+      "team2_id": 2672,
+      "ST": "12:30"
+    },
+    {
+      "team1": "SV Darmstadt 98",
+      "team2": "FC Augsburg",
+      "team2_id": 2600,
+      "team1_id": 2576,
+      "ST": "12:30"
+    },
+    {
+      "team1": "VfL Wolfsburg",
+      "team2": "VfB Stuttgart",
+      "team1_id": 2524,
+      "team2_id": 2677,
+      "ST": "12:30"
+    }
+  ],
+  "03/09": [
+    {
+      "team1": "Bayer 04 Leverkusen",
+      "team2": "VfL Wolfsburg",
+      "team1_id": 2681,
+      "team2_id": 2524,
+      "ST": "12:30"
+    },
+    {
+      "team1": "FC Bayern München",
+      "team2": "1. FSV Mainz 05",
+      "team1_id": 2672,
+      "team2_id": 2556,
+      "ST": "12:30"
+    },
+    {
+      "team1": "VfL Bochum 1848",
+      "team2": "SC Freiburg",
+      "team2_id": 2538,
+      "team1_id": 2542,
+      "ST": "12:30"
+    },
+    {
+      "team1": "Eintracht Frankfurt",
+      "team2": "TSG Hoffenheim",
+      "team1_id": 2674,
+      "team2_id": 2569,
+      "ST": "12:30"
+    },
+    {
+      "team1": "FC Augsburg",
+      "team2": "1. FC Heidenheim",
+      "team1_id": 2600,
+      "ST": "12:30",
+      "team2_id": 5885
+    },
+    {
+      "team1": "Borussia Mönchengladbach",
+      "team2": "1. FC Köln",
+      "team1_id": 2527,
+      "team2_id": 2671,
+      "ST": "12:30"
+    },
+    {
+      "team1": "RB Leipzig",
+      "team2": "SV Darmstadt 98",
+      "team1_id": 36360,
+      "team2_id": 2576,
+      "ST": "12:30"
+    },
+    {
+      "team1": "VfB Stuttgart",
+      "team2": "1. FC Union Berlin",
+      "team2_id": 2547,
+      "team1_id": 2677,
+      "ST": "12:30"
+    },
+    {
+      "team1": "SV Werder Bremen",
+      "team2": "Borussia Dortmund",
+      "team2_id": 2673,
+      "team1_id": 2534,
+      "ST": "12:30"
+    }
+  ],
+  "03/16": [
+    {
+      "team1": "1. FC Heidenheim",
+      "team2": "Borussia Mönchengladbach",
+      "team2_id": 2527,
+      "ST": "12:30",
+      "team1_id": 5885
+    },
+    {
+      "team1": "1. FC Union Berlin",
+      "team2": "SV Werder Bremen",
+      "team1_id": 2547,
+      "team2_id": 2534,
+      "ST": "12:30"
+    },
+    {
+      "team1": "Borussia Dortmund",
+      "team2": "Eintracht Frankfurt",
+      "team1_id": 2673,
+      "team2_id": 2674,
+      "ST": "12:30"
+    },
+    {
+      "team1": "1. FC Köln",
+      "team2": "RB Leipzig",
+      "team2_id": 36360,
+      "team1_id": 2671,
+      "ST": "12:30"
+    },
+    {
+      "team1": "TSG Hoffenheim",
+      "team2": "VfB Stuttgart",
+      "team2_id": 2677,
+      "team1_id": 2569,
+      "ST": "12:30"
+    },
+    {
+      "team1": "1. FSV Mainz 05",
+      "team2": "VfL Bochum 1848",
+      "team2_id": 2542,
+      "team1_id": 2556,
+      "ST": "12:30"
+    },
+    {
+      "team1": "SC Freiburg",
+      "team2": "Bayer 04 Leverkusen",
+      "team2_id": 2681,
+      "team1_id": 2538,
+      "ST": "12:30"
+    },
+    {
+      "team1": "SV Darmstadt 98",
+      "team2": "FC Bayern München",
+      "team2_id": 2672,
+      "team1_id": 2576,
+      "ST": "12:30"
+    },
+    {
+      "team1": "VfL Wolfsburg",
+      "team2": "FC Augsburg",
+      "team1_id": 2524,
+      "team2_id": 2600,
+      "ST": "12:30"
+    }
+  ],
+  "03/30": [
+    {
+      "team1": "Bayer 04 Leverkusen",
+      "team2": "TSG Hoffenheim",
+      "team1_id": 2681,
+      "team2_id": 2569,
+      "ST": "12:30"
+    },
+    {
+      "team1": "FC Bayern München",
+      "team2": "Borussia Dortmund",
+      "team2_id": 2673,
+      "team1_id": 2672,
+      "ST": "12:30"
+    },
+    {
+      "team1": "VfL Bochum 1848",
+      "team2": "SV Darmstadt 98",
+      "team1_id": 2542,
+      "team2_id": 2576,
+      "ST": "12:30"
+    },
+    {
+      "team1": "Eintracht Frankfurt",
+      "team2": "1. FC Union Berlin",
+      "team2_id": 2547,
+      "team1_id": 2674,
+      "ST": "12:30"
+    },
+    {
+      "team1": "FC Augsburg",
+      "team2": "1. FC Köln",
+      "team1_id": 2600,
+      "team2_id": 2671,
+      "ST": "12:30"
+    },
+    {
+      "team1": "Borussia Mönchengladbach",
+      "team2": "SC Freiburg",
+      "team2_id": 2538,
+      "team1_id": 2527,
+      "ST": "12:30"
+    },
+    {
+      "team1": "RB Leipzig",
+      "team2": "1. FSV Mainz 05",
+      "team1_id": 36360,
+      "team2_id": 2556,
+      "ST": "12:30"
+    },
+    {
+      "team1": "VfB Stuttgart",
+      "team2": "1. FC Heidenheim",
+      "team1_id": 2677,
+      "ST": "12:30",
+      "team2_id": 5885
+    },
+    {
+      "team1": "SV Werder Bremen",
+      "team2": "VfL Wolfsburg",
+      "team2_id": 2524,
+      "team1_id": 2534,
+      "ST": "12:30"
+    }
+  ],
+  "04/06": [
+    {
+      "team1": "1. FC Heidenheim",
+      "team2": "FC Bayern München",
+      "team2_id": 2672,
+      "ST": "12:30",
+      "team1_id": 5885
+    },
+    {
+      "team1": "1. FC Union Berlin",
+      "team2": "Bayer 04 Leverkusen",
+      "team1_id": 2547,
+      "team2_id": 2681,
+      "ST": "12:30"
+    },
+    {
+      "team1": "Borussia Dortmund",
+      "team2": "VfB Stuttgart",
+      "team1_id": 2673,
+      "team2_id": 2677,
+      "ST": "12:30"
+    },
+    {
+      "team1": "1. FC Köln",
+      "team2": "VfL Bochum 1848",
+      "team2_id": 2542,
+      "team1_id": 2671,
+      "ST": "12:30"
+    },
+    {
+      "team1": "Eintracht Frankfurt",
+      "team2": "SV Werder Bremen",
+      "team1_id": 2674,
+      "team2_id": 2534,
+      "ST": "12:30"
+    },
+    {
+      "team1": "TSG Hoffenheim",
+      "team2": "FC Augsburg",
+      "team1_id": 2569,
+      "team2_id": 2600,
+      "ST": "12:30"
+    },
+    {
+      "team1": "1. FSV Mainz 05",
+      "team2": "SV Darmstadt 98",
+      "team1_id": 2556,
+      "team2_id": 2576,
+      "ST": "12:30"
+    },
+    {
+      "team1": "SC Freiburg",
+      "team2": "RB Leipzig",
+      "team1_id": 2538,
+      "team2_id": 36360,
+      "ST": "12:30"
+    },
+    {
+      "team1": "VfL Wolfsburg",
+      "team2": "Borussia Mönchengladbach",
+      "team1_id": 2524,
+      "team2_id": 2527,
+      "ST": "12:30"
+    }
+  ],
+  "04/13": [
+    {
+      "team1": "Bayer 04 Leverkusen",
+      "team2": "SV Werder Bremen",
+      "team1_id": 2681,
+      "team2_id": 2534,
+      "ST": "12:30"
+    },
+    {
+      "team1": "FC Bayern München",
+      "team2": "1. FC Köln",
+      "team1_id": 2672,
+      "team2_id": 2671,
+      "ST": "12:30"
+    },
+    {
+      "team1": "VfL Bochum 1848",
+      "team2": "1. FC Heidenheim",
+      "team1_id": 2542,
+      "ST": "12:30",
+      "team2_id": 5885
+    },
+    {
+      "team1": "FC Augsburg",
+      "team2": "1. FC Union Berlin",
+      "team2_id": 2547,
+      "team1_id": 2600,
+      "ST": "12:30"
+    },
+    {
+      "team1": "Borussia Mönchengladbach",
+      "team2": "Borussia Dortmund",
+      "team2_id": 2673,
+      "team1_id": 2527,
+      "ST": "12:30"
+    },
+    {
+      "team1": "1. FSV Mainz 05",
+      "team2": "TSG Hoffenheim",
+      "team2_id": 2569,
+      "team1_id": 2556,
+      "ST": "12:30"
+    },
+    {
+      "team1": "RB Leipzig",
+      "team2": "VfL Wolfsburg",
+      "team2_id": 2524,
+      "team1_id": 36360,
+      "ST": "12:30"
+    },
+    {
+      "team1": "SV Darmstadt 98",
+      "team2": "SC Freiburg",
+      "team2_id": 2538,
+      "team1_id": 2576,
+      "ST": "12:30"
+    },
+    {
+      "team1": "VfB Stuttgart",
+      "team2": "Eintracht Frankfurt",
+      "team1_id": 2677,
+      "team2_id": 2674,
+      "ST": "12:30"
+    }
+  ],
+  "04/20": [
+    {
+      "team1": "1. FC Heidenheim",
+      "team2": "RB Leipzig",
+      "team2_id": 36360,
+      "ST": "12:30",
+      "team1_id": 5885
+    },
+    {
+      "team1": "1. FC Union Berlin",
+      "team2": "FC Bayern München",
+      "team1_id": 2547,
+      "team2_id": 2672,
+      "ST": "12:30"
+    },
+    {
+      "team1": "Borussia Dortmund",
+      "team2": "Bayer 04 Leverkusen",
+      "team2_id": 2681,
+      "team1_id": 2673,
+      "ST": "12:30"
+    },
+    {
+      "team1": "1. FC Köln",
+      "team2": "SV Darmstadt 98",
+      "team1_id": 2671,
+      "team2_id": 2576,
+      "ST": "12:30"
+    },
+    {
+      "team1": "Eintracht Frankfurt",
+      "team2": "FC Augsburg",
+      "team1_id": 2674,
+      "team2_id": 2600,
+      "ST": "12:30"
+    },
+    {
+      "team1": "TSG Hoffenheim",
+      "team2": "Borussia Mönchengladbach",
+      "team1_id": 2569,
+      "team2_id": 2527,
+      "ST": "12:30"
+    },
+    {
+      "team1": "SC Freiburg",
+      "team2": "1. FSV Mainz 05",
+      "team1_id": 2538,
+      "team2_id": 2556,
+      "ST": "12:30"
+    },
+    {
+      "team1": "SV Werder Bremen",
+      "team2": "VfB Stuttgart",
+      "team2_id": 2677,
+      "team1_id": 2534,
+      "ST": "12:30"
+    },
+    {
+      "team1": "VfL Wolfsburg",
+      "team2": "VfL Bochum 1848",
+      "team1_id": 2524,
+      "team2_id": 2542,
+      "ST": "12:30"
+    }
+  ],
+  "04/27": [
+    {
+      "team1": "Bayer 04 Leverkusen",
+      "team2": "VfB Stuttgart",
+      "team1_id": 2681,
+      "team2_id": 2677,
+      "ST": "12:30"
+    },
+    {
+      "team1": "FC Bayern München",
+      "team2": "Eintracht Frankfurt",
+      "team1_id": 2672,
+      "team2_id": 2674,
+      "ST": "12:30"
+    },
+    {
+      "team1": "VfL Bochum 1848",
+      "team2": "TSG Hoffenheim",
+      "team2_id": 2569,
+      "team1_id": 2542,
+      "ST": "12:30"
+    },
+    {
+      "team1": "FC Augsburg",
+      "team2": "SV Werder Bremen",
+      "team1_id": 2600,
+      "team2_id": 2534,
+      "ST": "12:30"
+    },
+    {
+      "team1": "Borussia Mönchengladbach",
+      "team2": "1. FC Union Berlin",
+      "team2_id": 2547,
+      "team1_id": 2527,
+      "ST": "12:30"
+    },
+    {
+      "team1": "1. FSV Mainz 05",
+      "team2": "1. FC Köln",
+      "team2_id": 2671,
+      "team1_id": 2556,
+      "ST": "12:30"
+    },
+    {
+      "team1": "RB Leipzig",
+      "team2": "Borussia Dortmund",
+      "team2_id": 2673,
+      "team1_id": 36360,
+      "ST": "12:30"
+    },
+    {
+      "team1": "SC Freiburg",
+      "team2": "VfL Wolfsburg",
+      "team2_id": 2524,
+      "team1_id": 2538,
+      "ST": "12:30"
+    },
+    {
+      "team1": "SV Darmstadt 98",
+      "team2": "1. FC Heidenheim",
+      "team1_id": 2576,
+      "ST": "12:30",
+      "team2_id": 5885
+    }
+  ],
+  "05/04": [
+    {
+      "team1": "1. FC Heidenheim",
+      "team2": "1. FSV Mainz 05",
+      "team2_id": 2556,
+      "ST": "12:30",
+      "team1_id": 5885
+    },
+    {
+      "team1": "1. FC Union Berlin",
+      "team2": "VfL Bochum 1848",
+      "team1_id": 2547,
+      "team2_id": 2542,
+      "ST": "12:30"
+    },
+    {
+      "team1": "Borussia Dortmund",
+      "team2": "FC Augsburg",
+      "team1_id": 2673,
+      "team2_id": 2600,
+      "ST": "12:30"
+    },
+    {
+      "team1": "1. FC Köln",
+      "team2": "SC Freiburg",
+      "team2_id": 2538,
+      "team1_id": 2671,
+      "ST": "12:30"
+    },
+    {
+      "team1": "Eintracht Frankfurt",
+      "team2": "Bayer 04 Leverkusen",
+      "team2_id": 2681,
+      "team1_id": 2674,
+      "ST": "12:30"
+    },
+    {
+      "team1": "TSG Hoffenheim",
+      "team2": "RB Leipzig",
+      "team2_id": 36360,
+      "team1_id": 2569,
+      "ST": "12:30"
+    },
+    {
+      "team1": "VfB Stuttgart",
+      "team2": "FC Bayern München",
+      "team2_id": 2672,
+      "team1_id": 2677,
+      "ST": "12:30"
+    },
+    {
+      "team1": "SV Werder Bremen",
+      "team2": "Borussia Mönchengladbach",
+      "team2_id": 2527,
+      "team1_id": 2534,
+      "ST": "12:30"
+    },
+    {
+      "team1": "VfL Wolfsburg",
+      "team2": "SV Darmstadt 98",
+      "team1_id": 2524,
+      "team2_id": 2576,
+      "ST": "12:30"
+    }
+  ],
+  "05/11": [
+    {
+      "team1": "FC Bayern München",
+      "team2": "VfL Wolfsburg",
+      "team2_id": 2524,
+      "team1_id": 2672,
+      "ST": "12:30"
+    },
+    {
+      "team1": "VfL Bochum 1848",
+      "team2": "Bayer 04 Leverkusen",
+      "team2_id": 2681,
+      "team1_id": 2542,
+      "ST": "12:30"
+    },
+    {
+      "team1": "1. FC Köln",
+      "team2": "1. FC Union Berlin",
+      "team2_id": 2547,
+      "team1_id": 2671,
+      "ST": "12:30"
+    },
+    {
+      "team1": "FC Augsburg",
+      "team2": "VfB Stuttgart",
+      "team2_id": 2677,
+      "team1_id": 2600,
+      "ST": "12:30"
+    },
+    {
+      "team1": "Borussia Mönchengladbach",
+      "team2": "Eintracht Frankfurt",
+      "team2_id": 2674,
+      "team1_id": 2527,
+      "ST": "12:30"
+    },
+    {
+      "team1": "1. FSV Mainz 05",
+      "team2": "Borussia Dortmund",
+      "team2_id": 2673,
+      "team1_id": 2556,
+      "ST": "12:30"
+    },
+    {
+      "team1": "RB Leipzig",
+      "team2": "SV Werder Bremen",
+      "team1_id": 36360,
+      "team2_id": 2534,
+      "ST": "12:30"
+    },
+    {
+      "team1": "SC Freiburg",
+      "team2": "1. FC Heidenheim",
+      "team1_id": 2538,
+      "ST": "12:30",
+      "team2_id": 5885
+    },
+    {
+      "team1": "SV Darmstadt 98",
+      "team2": "TSG Hoffenheim",
+      "team2_id": 2569,
+      "team1_id": 2576,
+      "ST": "12:30"
+    }
+  ],
+  "05/18": [
+    {
+      "team1": "1. FC Heidenheim",
+      "team2": "1. FC Köln",
+      "team2_id": 2671,
+      "ST": "14:30",
+      "team1_id": 5885
+    },
+    {
+      "team1": "1. FC Union Berlin",
+      "team2": "SC Freiburg",
+      "team1_id": 2547,
+      "team2_id": 2538,
+      "ST": "14:30"
+    },
+    {
+      "team1": "Bayer 04 Leverkusen",
+      "team2": "FC Augsburg",
+      "team1_id": 2681,
+      "team2_id": 2600,
+      "ST": "14:30"
+    },
+    {
+      "team1": "Borussia Dortmund",
+      "team2": "SV Darmstadt 98",
+      "team1_id": 2673,
+      "team2_id": 2576,
+      "ST": "14:30"
+    },
+    {
+      "team1": "Eintracht Frankfurt",
+      "team2": "RB Leipzig",
+      "team2_id": 36360,
+      "team1_id": 2674,
+      "ST": "14:30"
+    },
+    {
+      "team1": "TSG Hoffenheim",
+      "team2": "FC Bayern München",
+      "team2_id": 2672,
+      "team1_id": 2569,
+      "ST": "14:30"
+    },
+    {
+      "team1": "VfB Stuttgart",
+      "team2": "Borussia Mönchengladbach",
+      "team1_id": 2677,
+      "team2_id": 2527,
+      "ST": "14:30"
+    },
+    {
+      "team1": "SV Werder Bremen",
+      "team2": "VfL Bochum 1848",
+      "team2_id": 2542,
+      "team1_id": 2534,
+      "ST": "14:30"
+    },
+    {
+      "team1": "VfL Wolfsburg",
+      "team2": "1. FSV Mainz 05",
+      "team1_id": 2524,
+      "team2_id": 2556,
+      "ST": "14:30"
+    }
+  ],
+  "08/26": [
+    {
+      "team1": "1. FC Heidenheim",
+      "team2": "TSG Hoffenheim",
+      "team2_id": 2569,
+      "ST": "2 - 3",
+      "team1_id": 5885
+    },
+    {
+      "team1": "VfL Bochum 1848",
+      "team2": "Borussia Dortmund",
+      "team2_id": 2673,
+      "team1_id": 2542,
+      "ST": "1 - 1"
+    },
+    {
+      "team1": "1. FC Köln",
+      "team2": "VfL Wolfsburg",
+      "team2_id": 2524,
+      "team1_id": 2671,
+      "ST": "1 - 2"
+    },
+    {
+      "team1": "SC Freiburg",
+      "team2": "SV Werder Bremen",
+      "team1_id": 2538,
+      "team2_id": 2534,
+      "ST": "1 - 0"
+    },
+    {
+      "team1": "SV Darmstadt 98",
+      "team2": "1. FC Union Berlin",
+      "team2_id": 2547,
+      "team1_id": 2576,
+      "ST": "1 - 4"
+    },
+    {
+      "team1": "Borussia Mönchengladbach",
+      "team2": "Bayer 04 Leverkusen",
+      "team2_id": 2681,
+      "team1_id": 2527,
+      "ST": "0 - 3"
+    }
+  ],
+  "08/25": [
+    {
+      "team1": "RB Leipzig",
+      "team2": "VfB Stuttgart",
+      "team1_id": 36360,
+      "team2_id": 2677,
+      "ST": "5 - 1"
+    }
+  ],
+  "08/20": [
+    {
+      "team1": "1. FC Union Berlin",
+      "team2": "1. FSV Mainz 05",
+      "team1_id": 2547,
+      "team2_id": 2556,
+      "ST": "4 - 1"
+    },
+    {
+      "team1": "Eintracht Frankfurt",
+      "team2": "SV Darmstadt 98",
+      "team1_id": 2674,
+      "team2_id": 2576,
+      "ST": "1 - 0"
+    }
+  ],
+  "08/19": [
+    {
+      "team1": "Bayer 04 Leverkusen",
+      "team2": "RB Leipzig",
+      "team1_id": 2681,
+      "team2_id": 36360,
+      "ST": "3 - 2"
+    },
+    {
+      "team1": "FC Augsburg",
+      "team2": "Borussia Mönchengladbach",
+      "team1_id": 2600,
+      "team2_id": 2527,
+      "ST": "4 - 4"
+    },
+    {
+      "team1": "TSG Hoffenheim",
+      "team2": "SC Freiburg",
+      "team2_id": 2538,
+      "team1_id": 2569,
+      "ST": "1 - 2"
+    },
+    {
+      "team1": "VfB Stuttgart",
+      "team2": "VfL Bochum 1848",
+      "team1_id": 2677,
+      "team2_id": 2542,
+      "ST": "5 - 0"
+    },
+    {
+      "team1": "VfL Wolfsburg",
+      "team2": "1. FC Heidenheim",
+      "team1_id": 2524,
+      "ST": "2 - 0",
+      "team2_id": 5885
+    },
+    {
+      "team1": "Borussia Dortmund",
+      "team2": "1. FC Köln",
+      "team1_id": 2673,
+      "team2_id": 2671,
+      "ST": "1 - 0"
+    }
+  ],
+  "08/18": [
+    {
+      "team1": "SV Werder Bremen",
+      "team2": "FC Bayern München",
+      "team2_id": 2672,
+      "team1_id": 2534,
+      "ST": "0 - 4"
+    }
+  ]
+}

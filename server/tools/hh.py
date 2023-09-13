@@ -1,32 +1,65 @@
 import json
-import csv
+from datetime import datetime,timedelta
+LEAGUES = ['en/', 'es/', 'de/', 'it/', 'fr/']
+JSON_DIRECTORY = '../Json/'
+def read_json(file_path):
+    with open(file_path, 'r', encoding='utf-8') as f:
+        data = json.load(f)
+    return data
 
-def addid(dir, year):
-    csv_filename = dir + '-teams.csv'
-    csv_data = []
-    with open(csv_filename, 'r', encoding='utf-8') as csv_file:
-        csv_reader = csv.DictReader(csv_file)
-        for row in csv_reader:
-            csv_data.append(row)
+today = '0902'
+league = 1 
+year = 2023
 
-    # Read and parse JSON data
-    json_filename = '../Json/' + dir + '/' + year + '.json'
-    with open(json_filename, 'r', encoding='utf-8') as json_file:
-        json_data = json.load(json_file)
+today_month = int(today[:2])
+today_day = int(today[2:])
+today = f"{today[:2]}/{today[2:]}"
+data = None
+if today_month < 8:
+    file_path = f'{JSON_DIRECTORY}matches/{LEAGUES[league-1]}{year-1}-{year}.json'
+else:
+    file_path = f'{JSON_DIRECTORY}matches/{LEAGUES[league-1]}{year}-{year+1}.json'
+data = read_json(file_path)
 
-    # Update JSON data with correct team names and IDs
-    for json_team in json_data:
-        for csv_team in csv_data:
-            if json_team['Team'] in [csv_team['english_name'], csv_team['city'], csv_team['team'], csv_team['name_without_numbers']]:
-                json_team['Team'] = csv_team['team']
-                json_team['id'] = int(csv_team['id'])
-                break
-
-    # Save the updated JSON data
-    updated_json_filename = json_filename
-    with open(updated_json_filename, 'w', encoding='utf-8') as updated_json_file:
-        json.dump(json_data, updated_json_file, indent=2, ensure_ascii=False)
-
-for dir in ['fr']:
-    for i in range(2010, 2023):
-        addid(dir, str(i))
+if today in data.keys():
+    today_data = data.get(today, [])
+    for match in today_data:
+        print(match)
+        if '-' in match.get('ST', ''):
+            match['state'] = 'Full Time'
+            continue
+        match_time = datetime.strptime(match.get('ST', ''), '%H:%M').time()
+        # Create a datetime object for the match using the provided year, month, and day
+        match_datetime = datetime(year, today_month, today_day, match_time.hour, match_time.minute)
+        
+        # if match_datetime < datetime.now() :
+        #     match['state'] = 'Full Time'
+        #     print(datetime.now(),"  ",match_datetime)
+        # else:
+        #     if match_datetime > datetime.now():
+        #         diff = match_datetime -datetime.now()
+        #         match['state'] = "Upcoming"
+        #         match['ST'] = match['ST'] + ' GMT'
+        #     else:
+        #         time_since_start = datetime.now() - match_datetime
+        #         if time_since_start >= timedelta(minutes=105):
+        #             match['state'] = 'Full Time'
+        #             print('FT')
+                    
+        #         else:
+        #             print('time_since_start')
+        #             match['state'] = 'Live'
+        #             match['ST'] = '* - *'
+                    
+        if match_datetime > datetime.now():
+            diff = match_datetime -datetime.now()
+            match['state'] = "Upcoming"
+            match['ST'] = match['ST'] + ' GMT'
+        else :
+            time_since_start = datetime.now() - match_datetime
+            if time_since_start >= timedelta(minutes=105):
+                match['state'] = 'Full Time'
+                
+            else:
+                match['state'] = 'Live'
+                match['ST'] = '   -   '

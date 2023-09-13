@@ -1,6 +1,6 @@
 :root {
   --container-background: white;
-  --nav-left-background: #f4f4f4;
+  --nav-left-background: #f1ebff;
   --borders: #9b9b9b34;
   --leftside-title: rgb(104, 104, 104);
   --line: rgba(0, 0, 0, 0.158);
@@ -16,8 +16,6 @@
   --bublecolor: #c4aaff33;
   --score-color: #5742a9;
   --score-background: rgba(87, 66, 169, 0.1);
-  --state-color: #fa0e0e;
-  --state-background: rgba(250, 14, 14, 0.1);
   --row-color: rgb(67, 67, 67);
   --table-header: #5107ff33;
   --table-content: black;
@@ -39,8 +37,6 @@
   --bublecolor: #1b1c21;
   --score-color: #f5c451;
   --score-background: rgba(245, 196, 81, 0.1);
-  --state-color: #fff;
-  --state-background: rgba(255, 255, 255, 0.1);
   --row-color: rgb(230, 230, 230);
   --table-header: #00000053;
   --table-content: white;
@@ -73,6 +69,7 @@
   flex-direction: column;
   align-items: center;
   gap: 1rem;
+  flex-shrink: 0;
 }
 .main-content .left-side .title {
   align-self: stretch;

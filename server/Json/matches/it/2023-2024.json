@@ -1,0 +1,2754 @@
+{
+  "08/27": [
+    {
+      "team1": "Fiorentina",
+      "team2": "Lecce",
+      "team1_id": 2693,
+      "team2_id": 2689,
+      "ST": "2 - 2"
+    },
+    {
+      "team1": "Juventus",
+      "team2": "Bologna",
+      "team1_id": 2687,
+      "team2_id": 2685,
+      "ST": "1 - 1"
+    },
+    {
+      "team1": "Lazio",
+      "team2": "Sampdoria",
+      "team1_id": 2699,
+      "team2_id": 2711,
+      "ST": "0 - 1"
+    },
+    {
+      "team1": "Napoli",
+      "team2": "Sassuolo",
+      "team1_id": 2714,
+      "team2_id": 2793,
+      "ST": "2 - 0"
+    }
+  ],
+  "08/28": [
+    {
+      "team1": "Salernitana",
+      "team2": "Udinese",
+      "team1_id": 2710,
+      "team2_id": 2695,
+      "ST": "1 - 1"
+    },
+    {
+      "team1": "Cagliari",
+      "team2": "Inter Milan",
+      "team2_id": 2697,
+      "team1_id": 2719,
+      "ST": "0 - 2"
+    }
+  ],
+  "09/01": [
+    {
+      "team1": "Sassuolo",
+      "team2": "Hellas Verona",
+      "team2_id": 2701,
+      "team1_id": 2793,
+      "ST": "17:30"
+    },
+    {
+      "team1": "Roma",
+      "team2": "AC Milan",
+      "team2_id": 2692,
+      "team1_id": 2702,
+      "ST": "19:45"
+    }
+  ],
+  "09/02": [
+    {
+      "team1": "Bologna",
+      "team2": "Cagliari",
+      "team2_id": 2719,
+      "team1_id": 2685,
+      "ST": "17:30"
+    },
+    {
+      "team1": "Udinese",
+      "team2": "Frosinone",
+      "team2_id": 2801,
+      "team1_id": 2695,
+      "ST": "17:30"
+    },
+    {
+      "team1": "Atalanta",
+      "team2": "Monza",
+      "team1_id": 2686,
+      "team2_id": 2729,
+      "ST": "19:45"
+    },
+    {
+      "team1": "Napoli",
+      "team2": "Lazio",
+      "team1_id": 2714,
+      "team2_id": 2699,
+      "ST": "19:45"
+    }
+  ],
+  "09/03": [
+    {
+      "team1": "Inter Milan",
+      "team2": "Fiorentina",
+      "team2_id": 2693,
+      "team1_id": 2697,
+      "ST": "17:30"
+    },
+    {
+      "team1": "Torino",
+      "team2": "Sampdoria",
+      "team1_id": 2696,
+      "team2_id": 2711,
+      "ST": "17:30"
+    },
+    {
+      "team1": "Empoli",
+      "team2": "Juventus",
+      "team2_id": 2687,
+      "team1_id": 2705,
+      "ST": "19:45"
+    },
+    {
+      "team1": "Lecce",
+      "team2": "Salernitana",
+      "team1_id": 2689,
+      "team2_id": 2710,
+      "ST": "19:45"
+    }
+  ],
+  "09/16": [
+    {
+      "team1": "Juventus",
+      "team2": "Lazio",
+      "team1_id": 2687,
+      "team2_id": 2699,
+      "ST": "14:00"
+    },
+    {
+      "team1": "Inter Milan",
+      "team2": "AC Milan",
+      "team2_id": 2692,
+      "team1_id": 2697,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Sampdoria",
+      "team2": "Napoli",
+      "team2_id": 2714,
+      "team1_id": 2711,
+      "ST": "19:45"
+    }
+  ],
+  "09/17": [
+    {
+      "team1": "Cagliari",
+      "team2": "Udinese",
+      "team1_id": 2719,
+      "team2_id": 2695,
+      "ST": "11:30"
+    },
+    {
+      "team1": "Frosinone",
+      "team2": "Sassuolo",
+      "team1_id": 2801,
+      "team2_id": 2793,
+      "ST": "14:00"
+    },
+    {
+      "team1": "Monza",
+      "team2": "Lecce",
+      "team2_id": 2689,
+      "team1_id": 2729,
+      "ST": "14:00"
+    },
+    {
+      "team1": "Fiorentina",
+      "team2": "Atalanta",
+      "team1_id": 2693,
+      "team2_id": 2686,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Roma",
+      "team2": "Empoli",
+      "team1_id": 2702,
+      "team2_id": 2705,
+      "ST": "19:45"
+    }
+  ],
+  "09/18": [
+    {
+      "team1": "Salernitana",
+      "team2": "Torino",
+      "team1_id": 2710,
+      "team2_id": 2696,
+      "ST": "17:30"
+    },
+    {
+      "team1": "Hellas Verona",
+      "team2": "Bologna",
+      "team1_id": 2701,
+      "team2_id": 2685,
+      "ST": "19:45"
+    }
+  ],
+  "09/24": [
+    {
+      "team1": "AC Milan",
+      "team2": "Hellas Verona",
+      "team1_id": 2692,
+      "team2_id": 2701,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Atalanta",
+      "team2": "Cagliari",
+      "team1_id": 2686,
+      "team2_id": 2719,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Bologna",
+      "team2": "Napoli",
+      "team2_id": 2714,
+      "team1_id": 2685,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Empoli",
+      "team2": "Inter Milan",
+      "team2_id": 2697,
+      "team1_id": 2705,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Lazio",
+      "team2": "Monza",
+      "team2_id": 2729,
+      "team1_id": 2699,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Lecce",
+      "team2": "Sampdoria",
+      "team1_id": 2689,
+      "team2_id": 2711,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Salernitana",
+      "team2": "Frosinone",
+      "team2_id": 2801,
+      "team1_id": 2710,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Sassuolo",
+      "team2": "Juventus",
+      "team2_id": 2687,
+      "team1_id": 2793,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Torino",
+      "team2": "Roma",
+      "team2_id": 2702,
+      "team1_id": 2696,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Udinese",
+      "team2": "Fiorentina",
+      "team2_id": 2693,
+      "team1_id": 2695,
+      "ST": "17:00"
+    }
+  ],
+  "09/27": [
+    {
+      "team1": "Cagliari",
+      "team2": "AC Milan",
+      "team2_id": 2692,
+      "team1_id": 2719,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Empoli",
+      "team2": "Salernitana",
+      "team2_id": 2710,
+      "team1_id": 2705,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Frosinone",
+      "team2": "Fiorentina",
+      "team2_id": 2693,
+      "team1_id": 2801,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Sampdoria",
+      "team2": "Roma",
+      "team2_id": 2702,
+      "team1_id": 2711,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Inter Milan",
+      "team2": "Sassuolo",
+      "team1_id": 2697,
+      "team2_id": 2793,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Juventus",
+      "team2": "Lecce",
+      "team1_id": 2687,
+      "team2_id": 2689,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Lazio",
+      "team2": "Torino",
+      "team2_id": 2696,
+      "team1_id": 2699,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Monza",
+      "team2": "Bologna",
+      "team1_id": 2729,
+      "team2_id": 2685,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Napoli",
+      "team2": "Udinese",
+      "team1_id": 2714,
+      "team2_id": 2695,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Hellas Verona",
+      "team2": "Atalanta",
+      "team1_id": 2701,
+      "team2_id": 2686,
+      "ST": "17:00"
+    }
+  ],
+  "10/01": [
+    {
+      "team1": "AC Milan",
+      "team2": "Lazio",
+      "team1_id": 2692,
+      "team2_id": 2699,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Atalanta",
+      "team2": "Juventus",
+      "team2_id": 2687,
+      "team1_id": 2686,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Bologna",
+      "team2": "Empoli",
+      "team1_id": 2685,
+      "team2_id": 2705,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Fiorentina",
+      "team2": "Cagliari",
+      "team1_id": 2693,
+      "team2_id": 2719,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Lecce",
+      "team2": "Napoli",
+      "team2_id": 2714,
+      "team1_id": 2689,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Roma",
+      "team2": "Frosinone",
+      "team2_id": 2801,
+      "team1_id": 2702,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Salernitana",
+      "team2": "Inter Milan",
+      "team2_id": 2697,
+      "team1_id": 2710,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Sassuolo",
+      "team2": "Monza",
+      "team2_id": 2729,
+      "team1_id": 2793,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Torino",
+      "team2": "Hellas Verona",
+      "team2_id": 2701,
+      "team1_id": 2696,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Udinese",
+      "team2": "Sampdoria",
+      "team2_id": 2711,
+      "team1_id": 2695,
+      "ST": "17:00"
+    }
+  ],
+  "10/08": [
+    {
+      "team1": "Cagliari",
+      "team2": "Roma",
+      "team1_id": 2719,
+      "team2_id": 2702,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Empoli",
+      "team2": "Udinese",
+      "team1_id": 2705,
+      "team2_id": 2695,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Frosinone",
+      "team2": "Hellas Verona",
+      "team2_id": 2701,
+      "team1_id": 2801,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Sampdoria",
+      "team2": "AC Milan",
+      "team2_id": 2692,
+      "team1_id": 2711,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Inter Milan",
+      "team2": "Bologna",
+      "team1_id": 2697,
+      "team2_id": 2685,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Juventus",
+      "team2": "Torino",
+      "team1_id": 2687,
+      "team2_id": 2696,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Lazio",
+      "team2": "Atalanta",
+      "team2_id": 2686,
+      "team1_id": 2699,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Lecce",
+      "team2": "Sassuolo",
+      "team1_id": 2689,
+      "team2_id": 2793,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Monza",
+      "team2": "Salernitana",
+      "team1_id": 2729,
+      "team2_id": 2710,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Napoli",
+      "team2": "Fiorentina",
+      "team2_id": 2693,
+      "team1_id": 2714,
+      "ST": "17:00"
+    }
+  ],
+  "10/22": [
+    {
+      "team1": "AC Milan",
+      "team2": "Juventus",
+      "team1_id": 2692,
+      "team2_id": 2687,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Atalanta",
+      "team2": "Sampdoria",
+      "team1_id": 2686,
+      "team2_id": 2711,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Bologna",
+      "team2": "Frosinone",
+      "team2_id": 2801,
+      "team1_id": 2685,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Fiorentina",
+      "team2": "Empoli",
+      "team1_id": 2693,
+      "team2_id": 2705,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Roma",
+      "team2": "Monza",
+      "team2_id": 2729,
+      "team1_id": 2702,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Salernitana",
+      "team2": "Cagliari",
+      "team1_id": 2710,
+      "team2_id": 2719,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Sassuolo",
+      "team2": "Lazio",
+      "team2_id": 2699,
+      "team1_id": 2793,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Torino",
+      "team2": "Inter Milan",
+      "team2_id": 2697,
+      "team1_id": 2696,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Udinese",
+      "team2": "Lecce",
+      "team2_id": 2689,
+      "team1_id": 2695,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Hellas Verona",
+      "team2": "Napoli",
+      "team1_id": 2701,
+      "team2_id": 2714,
+      "ST": "17:00"
+    }
+  ],
+  "10/29": [
+    {
+      "team1": "Cagliari",
+      "team2": "Frosinone",
+      "team2_id": 2801,
+      "team1_id": 2719,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Empoli",
+      "team2": "Atalanta",
+      "team2_id": 2686,
+      "team1_id": 2705,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Sampdoria",
+      "team2": "Salernitana",
+      "team2_id": 2710,
+      "team1_id": 2711,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Inter Milan",
+      "team2": "Roma",
+      "team1_id": 2697,
+      "team2_id": 2702,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Juventus",
+      "team2": "Hellas Verona",
+      "team2_id": 2701,
+      "team1_id": 2687,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Lazio",
+      "team2": "Fiorentina",
+      "team2_id": 2693,
+      "team1_id": 2699,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Lecce",
+      "team2": "Torino",
+      "team1_id": 2689,
+      "team2_id": 2696,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Monza",
+      "team2": "Udinese",
+      "team1_id": 2729,
+      "team2_id": 2695,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Napoli",
+      "team2": "AC Milan",
+      "team2_id": 2692,
+      "team1_id": 2714,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Sassuolo",
+      "team2": "Bologna",
+      "team2_id": 2685,
+      "team1_id": 2793,
+      "ST": "17:00"
+    }
+  ],
+  "11/05": [
+    {
+      "team1": "AC Milan",
+      "team2": "Udinese",
+      "team1_id": 2692,
+      "team2_id": 2695,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Atalanta",
+      "team2": "Inter Milan",
+      "team2_id": 2697,
+      "team1_id": 2686,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Bologna",
+      "team2": "Lazio",
+      "team2_id": 2699,
+      "team1_id": 2685,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Cagliari",
+      "team2": "Sampdoria",
+      "team1_id": 2719,
+      "team2_id": 2711,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Fiorentina",
+      "team2": "Juventus",
+      "team1_id": 2693,
+      "team2_id": 2687,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Frosinone",
+      "team2": "Empoli",
+      "team1_id": 2801,
+      "team2_id": 2705,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Roma",
+      "team2": "Lecce",
+      "team2_id": 2689,
+      "team1_id": 2702,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Salernitana",
+      "team2": "Napoli",
+      "team2_id": 2714,
+      "team1_id": 2710,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Torino",
+      "team2": "Sassuolo",
+      "team1_id": 2696,
+      "team2_id": 2793,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Hellas Verona",
+      "team2": "Monza",
+      "team1_id": 2701,
+      "team2_id": 2729,
+      "ST": "17:00"
+    }
+  ],
+  "11/12": [
+    {
+      "team1": "Fiorentina",
+      "team2": "Bologna",
+      "team1_id": 2693,
+      "team2_id": 2685,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Sampdoria",
+      "team2": "Hellas Verona",
+      "team2_id": 2701,
+      "team1_id": 2711,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Inter Milan",
+      "team2": "Frosinone",
+      "team1_id": 2697,
+      "team2_id": 2801,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Juventus",
+      "team2": "Cagliari",
+      "team1_id": 2687,
+      "team2_id": 2719,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Lazio",
+      "team2": "Roma",
+      "team2_id": 2702,
+      "team1_id": 2699,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Lecce",
+      "team2": "AC Milan",
+      "team2_id": 2692,
+      "team1_id": 2689,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Monza",
+      "team2": "Torino",
+      "team1_id": 2729,
+      "team2_id": 2696,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Napoli",
+      "team2": "Empoli",
+      "team1_id": 2714,
+      "team2_id": 2705,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Sassuolo",
+      "team2": "Salernitana",
+      "team2_id": 2710,
+      "team1_id": 2793,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Udinese",
+      "team2": "Atalanta",
+      "team2_id": 2686,
+      "team1_id": 2695,
+      "ST": "17:00"
+    }
+  ],
+  "11/26": [
+    {
+      "team1": "AC Milan",
+      "team2": "Fiorentina",
+      "team1_id": 2692,
+      "team2_id": 2693,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Atalanta",
+      "team2": "Napoli",
+      "team2_id": 2714,
+      "team1_id": 2686,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Bologna",
+      "team2": "Torino",
+      "team2_id": 2696,
+      "team1_id": 2685,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Cagliari",
+      "team2": "Monza",
+      "team2_id": 2729,
+      "team1_id": 2719,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Empoli",
+      "team2": "Sassuolo",
+      "team2_id": 2793,
+      "team1_id": 2705,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Frosinone",
+      "team2": "Sampdoria",
+      "team1_id": 2801,
+      "team2_id": 2711,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Juventus",
+      "team2": "Inter Milan",
+      "team1_id": 2687,
+      "team2_id": 2697,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Roma",
+      "team2": "Udinese",
+      "team1_id": 2702,
+      "team2_id": 2695,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Salernitana",
+      "team2": "Lazio",
+      "team1_id": 2710,
+      "team2_id": 2699,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Hellas Verona",
+      "team2": "Lecce",
+      "team1_id": 2701,
+      "team2_id": 2689,
+      "ST": "17:00"
+    }
+  ],
+  "12/03": [
+    {
+      "team1": "AC Milan",
+      "team2": "Frosinone",
+      "team1_id": 2692,
+      "team2_id": 2801,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Fiorentina",
+      "team2": "Salernitana",
+      "team1_id": 2693,
+      "team2_id": 2710,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Sampdoria",
+      "team2": "Empoli",
+      "team1_id": 2711,
+      "team2_id": 2705,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Lazio",
+      "team2": "Cagliari",
+      "team2_id": 2719,
+      "team1_id": 2699,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Lecce",
+      "team2": "Bologna",
+      "team1_id": 2689,
+      "team2_id": 2685,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Monza",
+      "team2": "Juventus",
+      "team2_id": 2687,
+      "team1_id": 2729,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Napoli",
+      "team2": "Inter Milan",
+      "team1_id": 2714,
+      "team2_id": 2697,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Sassuolo",
+      "team2": "Roma",
+      "team2_id": 2702,
+      "team1_id": 2793,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Torino",
+      "team2": "Atalanta",
+      "team2_id": 2686,
+      "team1_id": 2696,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Udinese",
+      "team2": "Hellas Verona",
+      "team2_id": 2701,
+      "team1_id": 2695,
+      "ST": "17:00"
+    }
+  ],
+  "12/10": [
+    {
+      "team1": "Atalanta",
+      "team2": "AC Milan",
+      "team2_id": 2692,
+      "team1_id": 2686,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Cagliari",
+      "team2": "Sassuolo",
+      "team1_id": 2719,
+      "team2_id": 2793,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Empoli",
+      "team2": "Lecce",
+      "team2_id": 2689,
+      "team1_id": 2705,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Frosinone",
+      "team2": "Torino",
+      "team1_id": 2801,
+      "team2_id": 2696,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Inter Milan",
+      "team2": "Udinese",
+      "team1_id": 2697,
+      "team2_id": 2695,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Juventus",
+      "team2": "Napoli",
+      "team1_id": 2687,
+      "team2_id": 2714,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Monza",
+      "team2": "Sampdoria",
+      "team1_id": 2729,
+      "team2_id": 2711,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Roma",
+      "team2": "Fiorentina",
+      "team2_id": 2693,
+      "team1_id": 2702,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Salernitana",
+      "team2": "Bologna",
+      "team1_id": 2710,
+      "team2_id": 2685,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Hellas Verona",
+      "team2": "Lazio",
+      "team1_id": 2701,
+      "team2_id": 2699,
+      "ST": "17:00"
+    }
+  ],
+  "12/17": [
+    {
+      "team1": "AC Milan",
+      "team2": "Monza",
+      "team1_id": 2692,
+      "team2_id": 2729,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Atalanta",
+      "team2": "Salernitana",
+      "team1_id": 2686,
+      "team2_id": 2710,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Bologna",
+      "team2": "Roma",
+      "team2_id": 2702,
+      "team1_id": 2685,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Fiorentina",
+      "team2": "Hellas Verona",
+      "team2_id": 2701,
+      "team1_id": 2693,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Sampdoria",
+      "team2": "Juventus",
+      "team2_id": 2687,
+      "team1_id": 2711,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Lazio",
+      "team2": "Inter Milan",
+      "team2_id": 2697,
+      "team1_id": 2699,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Lecce",
+      "team2": "Frosinone",
+      "team1_id": 2689,
+      "team2_id": 2801,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Napoli",
+      "team2": "Cagliari",
+      "team1_id": 2714,
+      "team2_id": 2719,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Torino",
+      "team2": "Empoli",
+      "team1_id": 2696,
+      "team2_id": 2705,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Udinese",
+      "team2": "Sassuolo",
+      "team2_id": 2793,
+      "team1_id": 2695,
+      "ST": "17:00"
+    }
+  ],
+  "12/23": [
+    {
+      "team1": "Bologna",
+      "team2": "Atalanta",
+      "team2_id": 2686,
+      "team1_id": 2685,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Empoli",
+      "team2": "Lazio",
+      "team2_id": 2699,
+      "team1_id": 2705,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Frosinone",
+      "team2": "Juventus",
+      "team2_id": 2687,
+      "team1_id": 2801,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Inter Milan",
+      "team2": "Lecce",
+      "team1_id": 2697,
+      "team2_id": 2689,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Monza",
+      "team2": "Fiorentina",
+      "team2_id": 2693,
+      "team1_id": 2729,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Roma",
+      "team2": "Napoli",
+      "team2_id": 2714,
+      "team1_id": 2702,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Salernitana",
+      "team2": "AC Milan",
+      "team2_id": 2692,
+      "team1_id": 2710,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Sassuolo",
+      "team2": "Sampdoria",
+      "team1_id": 2793,
+      "team2_id": 2711,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Torino",
+      "team2": "Udinese",
+      "team1_id": 2696,
+      "team2_id": 2695,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Hellas Verona",
+      "team2": "Cagliari",
+      "team1_id": 2701,
+      "team2_id": 2719,
+      "ST": "17:00"
+    }
+  ],
+  "12/30": [
+    {
+      "team1": "AC Milan",
+      "team2": "Sassuolo",
+      "team1_id": 2692,
+      "team2_id": 2793,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Atalanta",
+      "team2": "Lecce",
+      "team1_id": 2686,
+      "team2_id": 2689,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Cagliari",
+      "team2": "Empoli",
+      "team1_id": 2719,
+      "team2_id": 2705,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Fiorentina",
+      "team2": "Torino",
+      "team1_id": 2693,
+      "team2_id": 2696,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Sampdoria",
+      "team2": "Inter Milan",
+      "team2_id": 2697,
+      "team1_id": 2711,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Juventus",
+      "team2": "Roma",
+      "team1_id": 2687,
+      "team2_id": 2702,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Lazio",
+      "team2": "Frosinone",
+      "team2_id": 2801,
+      "team1_id": 2699,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Napoli",
+      "team2": "Monza",
+      "team1_id": 2714,
+      "team2_id": 2729,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Udinese",
+      "team2": "Bologna",
+      "team2_id": 2685,
+      "team1_id": 2695,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Hellas Verona",
+      "team2": "Salernitana",
+      "team1_id": 2701,
+      "team2_id": 2710,
+      "ST": "17:00"
+    }
+  ],
+  "01/07": [
+    {
+      "team1": "Bologna",
+      "team2": "Sampdoria",
+      "team1_id": 2685,
+      "team2_id": 2711,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Empoli",
+      "team2": "AC Milan",
+      "team2_id": 2692,
+      "team1_id": 2705,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Frosinone",
+      "team2": "Monza",
+      "team2_id": 2729,
+      "team1_id": 2801,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Inter Milan",
+      "team2": "Hellas Verona",
+      "team2_id": 2701,
+      "team1_id": 2697,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Lecce",
+      "team2": "Cagliari",
+      "team1_id": 2689,
+      "team2_id": 2719,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Roma",
+      "team2": "Atalanta",
+      "team2_id": 2686,
+      "team1_id": 2702,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Salernitana",
+      "team2": "Juventus",
+      "team2_id": 2687,
+      "team1_id": 2710,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Sassuolo",
+      "team2": "Fiorentina",
+      "team2_id": 2693,
+      "team1_id": 2793,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Torino",
+      "team2": "Napoli",
+      "team2_id": 2714,
+      "team1_id": 2696,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Udinese",
+      "team2": "Lazio",
+      "team2_id": 2699,
+      "team1_id": 2695,
+      "ST": "17:00"
+    }
+  ],
+  "01/14": [
+    {
+      "team1": "AC Milan",
+      "team2": "Roma",
+      "team1_id": 2692,
+      "team2_id": 2702,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Atalanta",
+      "team2": "Frosinone",
+      "team1_id": 2686,
+      "team2_id": 2801,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Cagliari",
+      "team2": "Bologna",
+      "team1_id": 2719,
+      "team2_id": 2685,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Fiorentina",
+      "team2": "Udinese",
+      "team1_id": 2693,
+      "team2_id": 2695,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Sampdoria",
+      "team2": "Torino",
+      "team2_id": 2696,
+      "team1_id": 2711,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Juventus",
+      "team2": "Sassuolo",
+      "team1_id": 2687,
+      "team2_id": 2793,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Lazio",
+      "team2": "Lecce",
+      "team2_id": 2689,
+      "team1_id": 2699,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Monza",
+      "team2": "Inter Milan",
+      "team2_id": 2697,
+      "team1_id": 2729,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Napoli",
+      "team2": "Salernitana",
+      "team1_id": 2714,
+      "team2_id": 2710,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Hellas Verona",
+      "team2": "Empoli",
+      "team1_id": 2701,
+      "team2_id": 2705,
+      "ST": "17:00"
+    }
+  ],
+  "01/21": [
+    {
+      "team1": "Bologna",
+      "team2": "Fiorentina",
+      "team2_id": 2693,
+      "team1_id": 2685,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Empoli",
+      "team2": "Monza",
+      "team2_id": 2729,
+      "team1_id": 2705,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Frosinone",
+      "team2": "Cagliari",
+      "team1_id": 2801,
+      "team2_id": 2719,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Inter Milan",
+      "team2": "Atalanta",
+      "team1_id": 2697,
+      "team2_id": 2686,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Lecce",
+      "team2": "Juventus",
+      "team2_id": 2687,
+      "team1_id": 2689,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Roma",
+      "team2": "Hellas Verona",
+      "team2_id": 2701,
+      "team1_id": 2702,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Salernitana",
+      "team2": "Sampdoria",
+      "team1_id": 2710,
+      "team2_id": 2711,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Sassuolo",
+      "team2": "Napoli",
+      "team2_id": 2714,
+      "team1_id": 2793,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Torino",
+      "team2": "Lazio",
+      "team1_id": 2696,
+      "team2_id": 2699,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Udinese",
+      "team2": "AC Milan",
+      "team2_id": 2692,
+      "team1_id": 2695,
+      "ST": "17:00"
+    }
+  ],
+  "01/28": [
+    {
+      "team1": "AC Milan",
+      "team2": "Bologna",
+      "team1_id": 2692,
+      "team2_id": 2685,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Atalanta",
+      "team2": "Udinese",
+      "team1_id": 2686,
+      "team2_id": 2695,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Cagliari",
+      "team2": "Torino",
+      "team1_id": 2719,
+      "team2_id": 2696,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Fiorentina",
+      "team2": "Inter Milan",
+      "team1_id": 2693,
+      "team2_id": 2697,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Sampdoria",
+      "team2": "Lecce",
+      "team2_id": 2689,
+      "team1_id": 2711,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Juventus",
+      "team2": "Empoli",
+      "team1_id": 2687,
+      "team2_id": 2705,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Lazio",
+      "team2": "Napoli",
+      "team2_id": 2714,
+      "team1_id": 2699,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Monza",
+      "team2": "Sassuolo",
+      "team1_id": 2729,
+      "team2_id": 2793,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Salernitana",
+      "team2": "Roma",
+      "team1_id": 2710,
+      "team2_id": 2702,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Hellas Verona",
+      "team2": "Frosinone",
+      "team1_id": 2701,
+      "team2_id": 2801,
+      "ST": "17:00"
+    }
+  ],
+  "02/04": [
+    {
+      "team1": "Atalanta",
+      "team2": "Lazio",
+      "team1_id": 2686,
+      "team2_id": 2699,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Bologna",
+      "team2": "Sassuolo",
+      "team1_id": 2685,
+      "team2_id": 2793,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Empoli",
+      "team2": "Sampdoria",
+      "team2_id": 2711,
+      "team1_id": 2705,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Frosinone",
+      "team2": "AC Milan",
+      "team2_id": 2692,
+      "team1_id": 2801,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Inter Milan",
+      "team2": "Juventus",
+      "team2_id": 2687,
+      "team1_id": 2697,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Lecce",
+      "team2": "Fiorentina",
+      "team2_id": 2693,
+      "team1_id": 2689,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Napoli",
+      "team2": "Hellas Verona",
+      "team2_id": 2701,
+      "team1_id": 2714,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Roma",
+      "team2": "Cagliari",
+      "team2_id": 2719,
+      "team1_id": 2702,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Torino",
+      "team2": "Salernitana",
+      "team2_id": 2710,
+      "team1_id": 2696,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Udinese",
+      "team2": "Monza",
+      "team2_id": 2729,
+      "team1_id": 2695,
+      "ST": "17:00"
+    }
+  ],
+  "02/11": [
+    {
+      "team1": "AC Milan",
+      "team2": "Napoli",
+      "team1_id": 2692,
+      "team2_id": 2714,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Bologna",
+      "team2": "Lecce",
+      "team2_id": 2689,
+      "team1_id": 2685,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Cagliari",
+      "team2": "Lazio",
+      "team1_id": 2719,
+      "team2_id": 2699,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Fiorentina",
+      "team2": "Frosinone",
+      "team1_id": 2693,
+      "team2_id": 2801,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Sampdoria",
+      "team2": "Atalanta",
+      "team2_id": 2686,
+      "team1_id": 2711,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Juventus",
+      "team2": "Udinese",
+      "team1_id": 2687,
+      "team2_id": 2695,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Monza",
+      "team2": "Hellas Verona",
+      "team2_id": 2701,
+      "team1_id": 2729,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Roma",
+      "team2": "Inter Milan",
+      "team2_id": 2697,
+      "team1_id": 2702,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Salernitana",
+      "team2": "Empoli",
+      "team1_id": 2710,
+      "team2_id": 2705,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Sassuolo",
+      "team2": "Torino",
+      "team2_id": 2696,
+      "team1_id": 2793,
+      "ST": "17:00"
+    }
+  ],
+  "02/18": [
+    {
+      "team1": "Atalanta",
+      "team2": "Sassuolo",
+      "team1_id": 2686,
+      "team2_id": 2793,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Empoli",
+      "team2": "Fiorentina",
+      "team2_id": 2693,
+      "team1_id": 2705,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Frosinone",
+      "team2": "Roma",
+      "team1_id": 2801,
+      "team2_id": 2702,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Inter Milan",
+      "team2": "Salernitana",
+      "team1_id": 2697,
+      "team2_id": 2710,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Lazio",
+      "team2": "Bologna",
+      "team1_id": 2699,
+      "team2_id": 2685,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Monza",
+      "team2": "AC Milan",
+      "team2_id": 2692,
+      "team1_id": 2729,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Napoli",
+      "team2": "Sampdoria",
+      "team1_id": 2714,
+      "team2_id": 2711,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Torino",
+      "team2": "Lecce",
+      "team2_id": 2689,
+      "team1_id": 2696,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Udinese",
+      "team2": "Cagliari",
+      "team2_id": 2719,
+      "team1_id": 2695,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Hellas Verona",
+      "team2": "Juventus",
+      "team1_id": 2701,
+      "team2_id": 2687,
+      "ST": "17:00"
+    }
+  ],
+  "02/25": [
+    {
+      "team1": "AC Milan",
+      "team2": "Atalanta",
+      "team1_id": 2692,
+      "team2_id": 2686,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Bologna",
+      "team2": "Hellas Verona",
+      "team2_id": 2701,
+      "team1_id": 2685,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Cagliari",
+      "team2": "Napoli",
+      "team2_id": 2714,
+      "team1_id": 2719,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Fiorentina",
+      "team2": "Lazio",
+      "team1_id": 2693,
+      "team2_id": 2699,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Sampdoria",
+      "team2": "Udinese",
+      "team1_id": 2711,
+      "team2_id": 2695,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Juventus",
+      "team2": "Frosinone",
+      "team1_id": 2687,
+      "team2_id": 2801,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Lecce",
+      "team2": "Inter Milan",
+      "team2_id": 2697,
+      "team1_id": 2689,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Roma",
+      "team2": "Torino",
+      "team1_id": 2702,
+      "team2_id": 2696,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Salernitana",
+      "team2": "Monza",
+      "team2_id": 2729,
+      "team1_id": 2710,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Sassuolo",
+      "team2": "Empoli",
+      "team1_id": 2793,
+      "team2_id": 2705,
+      "ST": "17:00"
+    }
+  ],
+  "03/03": [
+    {
+      "team1": "Atalanta",
+      "team2": "Bologna",
+      "team1_id": 2686,
+      "team2_id": 2685,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Empoli",
+      "team2": "Cagliari",
+      "team2_id": 2719,
+      "team1_id": 2705,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Frosinone",
+      "team2": "Lecce",
+      "team2_id": 2689,
+      "team1_id": 2801,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Inter Milan",
+      "team2": "Sampdoria",
+      "team1_id": 2697,
+      "team2_id": 2711,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Lazio",
+      "team2": "AC Milan",
+      "team2_id": 2692,
+      "team1_id": 2699,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Monza",
+      "team2": "Roma",
+      "team1_id": 2729,
+      "team2_id": 2702,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Napoli",
+      "team2": "Juventus",
+      "team2_id": 2687,
+      "team1_id": 2714,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Torino",
+      "team2": "Fiorentina",
+      "team2_id": 2693,
+      "team1_id": 2696,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Udinese",
+      "team2": "Salernitana",
+      "team2_id": 2710,
+      "team1_id": 2695,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Hellas Verona",
+      "team2": "Sassuolo",
+      "team1_id": 2701,
+      "team2_id": 2793,
+      "ST": "17:00"
+    }
+  ],
+  "03/10": [
+    {
+      "team1": "AC Milan",
+      "team2": "Empoli",
+      "team1_id": 2692,
+      "team2_id": 2705,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Bologna",
+      "team2": "Inter Milan",
+      "team2_id": 2697,
+      "team1_id": 2685,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Cagliari",
+      "team2": "Salernitana",
+      "team2_id": 2710,
+      "team1_id": 2719,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Fiorentina",
+      "team2": "Roma",
+      "team1_id": 2693,
+      "team2_id": 2702,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Sampdoria",
+      "team2": "Monza",
+      "team2_id": 2729,
+      "team1_id": 2711,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Juventus",
+      "team2": "Atalanta",
+      "team1_id": 2687,
+      "team2_id": 2686,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Lazio",
+      "team2": "Udinese",
+      "team1_id": 2699,
+      "team2_id": 2695,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Lecce",
+      "team2": "Hellas Verona",
+      "team2_id": 2701,
+      "team1_id": 2689,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Napoli",
+      "team2": "Torino",
+      "team1_id": 2714,
+      "team2_id": 2696,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Sassuolo",
+      "team2": "Frosinone",
+      "team2_id": 2801,
+      "team1_id": 2793,
+      "ST": "17:00"
+    }
+  ],
+  "03/17": [
+    {
+      "team1": "Atalanta",
+      "team2": "Fiorentina",
+      "team2_id": 2693,
+      "team1_id": 2686,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Empoli",
+      "team2": "Bologna",
+      "team2_id": 2685,
+      "team1_id": 2705,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Frosinone",
+      "team2": "Lazio",
+      "team1_id": 2801,
+      "team2_id": 2699,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Inter Milan",
+      "team2": "Napoli",
+      "team2_id": 2714,
+      "team1_id": 2697,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Juventus",
+      "team2": "Sampdoria",
+      "team1_id": 2687,
+      "team2_id": 2711,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Monza",
+      "team2": "Cagliari",
+      "team1_id": 2729,
+      "team2_id": 2719,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Roma",
+      "team2": "Sassuolo",
+      "team1_id": 2702,
+      "team2_id": 2793,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Salernitana",
+      "team2": "Lecce",
+      "team2_id": 2689,
+      "team1_id": 2710,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Udinese",
+      "team2": "Torino",
+      "team2_id": 2696,
+      "team1_id": 2695,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Hellas Verona",
+      "team2": "AC Milan",
+      "team2_id": 2692,
+      "team1_id": 2701,
+      "ST": "17:00"
+    }
+  ],
+  "03/30": [
+    {
+      "team1": "Bologna",
+      "team2": "Salernitana",
+      "team2_id": 2710,
+      "team1_id": 2685,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Cagliari",
+      "team2": "Hellas Verona",
+      "team2_id": 2701,
+      "team1_id": 2719,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Fiorentina",
+      "team2": "AC Milan",
+      "team2_id": 2692,
+      "team1_id": 2693,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Sampdoria",
+      "team2": "Frosinone",
+      "team2_id": 2801,
+      "team1_id": 2711,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Inter Milan",
+      "team2": "Empoli",
+      "team1_id": 2697,
+      "team2_id": 2705,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Lazio",
+      "team2": "Juventus",
+      "team2_id": 2687,
+      "team1_id": 2699,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Lecce",
+      "team2": "Roma",
+      "team1_id": 2689,
+      "team2_id": 2702,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Napoli",
+      "team2": "Atalanta",
+      "team1_id": 2714,
+      "team2_id": 2686,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Sassuolo",
+      "team2": "Udinese",
+      "team1_id": 2793,
+      "team2_id": 2695,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Torino",
+      "team2": "Monza",
+      "team2_id": 2729,
+      "team1_id": 2696,
+      "ST": "17:00"
+    }
+  ],
+  "04/07": [
+    {
+      "team1": "AC Milan",
+      "team2": "Lecce",
+      "team1_id": 2692,
+      "team2_id": 2689,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Cagliari",
+      "team2": "Atalanta",
+      "team2_id": 2686,
+      "team1_id": 2719,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Empoli",
+      "team2": "Torino",
+      "team2_id": 2696,
+      "team1_id": 2705,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Frosinone",
+      "team2": "Bologna",
+      "team1_id": 2801,
+      "team2_id": 2685,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Juventus",
+      "team2": "Fiorentina",
+      "team2_id": 2693,
+      "team1_id": 2687,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Monza",
+      "team2": "Napoli",
+      "team2_id": 2714,
+      "team1_id": 2729,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Roma",
+      "team2": "Lazio",
+      "team1_id": 2702,
+      "team2_id": 2699,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Salernitana",
+      "team2": "Sassuolo",
+      "team1_id": 2710,
+      "team2_id": 2793,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Udinese",
+      "team2": "Inter Milan",
+      "team2_id": 2697,
+      "team1_id": 2695,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Hellas Verona",
+      "team2": "Sampdoria",
+      "team1_id": 2701,
+      "team2_id": 2711,
+      "ST": "17:00"
+    }
+  ],
+  "04/14": [
+    {
+      "team1": "Atalanta",
+      "team2": "Hellas Verona",
+      "team2_id": 2701,
+      "team1_id": 2686,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Bologna",
+      "team2": "Monza",
+      "team2_id": 2729,
+      "team1_id": 2685,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Fiorentina",
+      "team2": "Sampdoria",
+      "team1_id": 2693,
+      "team2_id": 2711,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Inter Milan",
+      "team2": "Cagliari",
+      "team1_id": 2697,
+      "team2_id": 2719,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Lazio",
+      "team2": "Salernitana",
+      "team2_id": 2710,
+      "team1_id": 2699,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Lecce",
+      "team2": "Empoli",
+      "team1_id": 2689,
+      "team2_id": 2705,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Napoli",
+      "team2": "Frosinone",
+      "team1_id": 2714,
+      "team2_id": 2801,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Sassuolo",
+      "team2": "AC Milan",
+      "team2_id": 2692,
+      "team1_id": 2793,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Torino",
+      "team2": "Juventus",
+      "team2_id": 2687,
+      "team1_id": 2696,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Udinese",
+      "team2": "Roma",
+      "team2_id": 2702,
+      "team1_id": 2695,
+      "ST": "17:00"
+    }
+  ],
+  "04/21": [
+    {
+      "team1": "AC Milan",
+      "team2": "Inter Milan",
+      "team1_id": 2692,
+      "team2_id": 2697,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Cagliari",
+      "team2": "Juventus",
+      "team2_id": 2687,
+      "team1_id": 2719,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Empoli",
+      "team2": "Napoli",
+      "team2_id": 2714,
+      "team1_id": 2705,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Sampdoria",
+      "team2": "Lazio",
+      "team2_id": 2699,
+      "team1_id": 2711,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Monza",
+      "team2": "Atalanta",
+      "team2_id": 2686,
+      "team1_id": 2729,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Roma",
+      "team2": "Bologna",
+      "team1_id": 2702,
+      "team2_id": 2685,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Salernitana",
+      "team2": "Fiorentina",
+      "team2_id": 2693,
+      "team1_id": 2710,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Sassuolo",
+      "team2": "Lecce",
+      "team2_id": 2689,
+      "team1_id": 2793,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Torino",
+      "team2": "Frosinone",
+      "team2_id": 2801,
+      "team1_id": 2696,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Hellas Verona",
+      "team2": "Udinese",
+      "team1_id": 2701,
+      "team2_id": 2695,
+      "ST": "17:00"
+    }
+  ],
+  "04/28": [
+    {
+      "team1": "Atalanta",
+      "team2": "Empoli",
+      "team1_id": 2686,
+      "team2_id": 2705,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Bologna",
+      "team2": "Udinese",
+      "team1_id": 2685,
+      "team2_id": 2695,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Fiorentina",
+      "team2": "Sassuolo",
+      "team1_id": 2693,
+      "team2_id": 2793,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Frosinone",
+      "team2": "Salernitana",
+      "team1_id": 2801,
+      "team2_id": 2710,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Sampdoria",
+      "team2": "Cagliari",
+      "team2_id": 2719,
+      "team1_id": 2711,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Inter Milan",
+      "team2": "Torino",
+      "team1_id": 2697,
+      "team2_id": 2696,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Juventus",
+      "team2": "AC Milan",
+      "team2_id": 2692,
+      "team1_id": 2687,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Lazio",
+      "team2": "Hellas Verona",
+      "team2_id": 2701,
+      "team1_id": 2699,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Lecce",
+      "team2": "Monza",
+      "team1_id": 2689,
+      "team2_id": 2729,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Napoli",
+      "team2": "Roma",
+      "team1_id": 2714,
+      "team2_id": 2702,
+      "ST": "17:00"
+    }
+  ],
+  "05/05": [
+    {
+      "team1": "AC Milan",
+      "team2": "Sampdoria",
+      "team1_id": 2692,
+      "team2_id": 2711,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Cagliari",
+      "team2": "Lecce",
+      "team2_id": 2689,
+      "team1_id": 2719,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Empoli",
+      "team2": "Frosinone",
+      "team2_id": 2801,
+      "team1_id": 2705,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Monza",
+      "team2": "Lazio",
+      "team1_id": 2729,
+      "team2_id": 2699,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Roma",
+      "team2": "Juventus",
+      "team2_id": 2687,
+      "team1_id": 2702,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Salernitana",
+      "team2": "Atalanta",
+      "team2_id": 2686,
+      "team1_id": 2710,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Sassuolo",
+      "team2": "Inter Milan",
+      "team2_id": 2697,
+      "team1_id": 2793,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Torino",
+      "team2": "Bologna",
+      "team1_id": 2696,
+      "team2_id": 2685,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Udinese",
+      "team2": "Napoli",
+      "team2_id": 2714,
+      "team1_id": 2695,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Hellas Verona",
+      "team2": "Fiorentina",
+      "team1_id": 2701,
+      "team2_id": 2693,
+      "ST": "17:00"
+    }
+  ],
+  "05/12": [
+    {
+      "team1": "AC Milan",
+      "team2": "Cagliari",
+      "team1_id": 2692,
+      "team2_id": 2719,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Atalanta",
+      "team2": "Roma",
+      "team1_id": 2686,
+      "team2_id": 2702,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Fiorentina",
+      "team2": "Monza",
+      "team1_id": 2693,
+      "team2_id": 2729,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Frosinone",
+      "team2": "Inter Milan",
+      "team2_id": 2697,
+      "team1_id": 2801,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Sampdoria",
+      "team2": "Sassuolo",
+      "team2_id": 2793,
+      "team1_id": 2711,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Juventus",
+      "team2": "Salernitana",
+      "team1_id": 2687,
+      "team2_id": 2710,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Lazio",
+      "team2": "Empoli",
+      "team1_id": 2699,
+      "team2_id": 2705,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Lecce",
+      "team2": "Udinese",
+      "team1_id": 2689,
+      "team2_id": 2695,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Napoli",
+      "team2": "Bologna",
+      "team1_id": 2714,
+      "team2_id": 2685,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Hellas Verona",
+      "team2": "Torino",
+      "team1_id": 2701,
+      "team2_id": 2696,
+      "ST": "17:00"
+    }
+  ],
+  "05/19": [
+    {
+      "team1": "Bologna",
+      "team2": "Juventus",
+      "team2_id": 2687,
+      "team1_id": 2685,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Fiorentina",
+      "team2": "Napoli",
+      "team1_id": 2693,
+      "team2_id": 2714,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Inter Milan",
+      "team2": "Lazio",
+      "team1_id": 2697,
+      "team2_id": 2699,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Lecce",
+      "team2": "Atalanta",
+      "team2_id": 2686,
+      "team1_id": 2689,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Monza",
+      "team2": "Frosinone",
+      "team1_id": 2729,
+      "team2_id": 2801,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Roma",
+      "team2": "Sampdoria",
+      "team1_id": 2702,
+      "team2_id": 2711,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Salernitana",
+      "team2": "Hellas Verona",
+      "team2_id": 2701,
+      "team1_id": 2710,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Sassuolo",
+      "team2": "Cagliari",
+      "team2_id": 2719,
+      "team1_id": 2793,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Torino",
+      "team2": "AC Milan",
+      "team2_id": 2692,
+      "team1_id": 2696,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Udinese",
+      "team2": "Empoli",
+      "team2_id": 2705,
+      "team1_id": 2695,
+      "ST": "17:00"
+    }
+  ],
+  "05/26": [
+    {
+      "team1": "AC Milan",
+      "team2": "Salernitana",
+      "team1_id": 2692,
+      "team2_id": 2710,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Atalanta",
+      "team2": "Torino",
+      "team1_id": 2686,
+      "team2_id": 2696,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Cagliari",
+      "team2": "Fiorentina",
+      "team2_id": 2693,
+      "team1_id": 2719,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Empoli",
+      "team2": "Roma",
+      "team2_id": 2702,
+      "team1_id": 2705,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Frosinone",
+      "team2": "Udinese",
+      "team1_id": 2801,
+      "team2_id": 2695,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Sampdoria",
+      "team2": "Bologna",
+      "team2_id": 2685,
+      "team1_id": 2711,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Juventus",
+      "team2": "Monza",
+      "team1_id": 2687,
+      "team2_id": 2729,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Lazio",
+      "team2": "Sassuolo",
+      "team1_id": 2699,
+      "team2_id": 2793,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Napoli",
+      "team2": "Lecce",
+      "team1_id": 2714,
+      "team2_id": 2689,
+      "ST": "17:00"
+    },
+    {
+      "team1": "Hellas Verona",
+      "team2": "Inter Milan",
+      "team1_id": 2701,
+      "team2_id": 2697,
+      "ST": "17:00"
+    }
+  ],
+  "08/26": [
+    {
+      "team1": "Frosinone",
+      "team2": "Atalanta",
+      "team2_id": 2686,
+      "team1_id": 2801,
+      "ST": "2 - 1"
+    },
+    {
+      "team1": "Monza",
+      "team2": "Empoli",
+      "team1_id": 2729,
+      "team2_id": 2705,
+      "ST": "2 - 0"
+    },
+    {
+      "team1": "AC Milan",
+      "team2": "Torino",
+      "team1_id": 2692,
+      "team2_id": 2696,
+      "ST": "4 - 1"
+    },
+    {
+      "team1": "Hellas Verona",
+      "team2": "Roma",
+      "team1_id": 2701,
+      "team2_id": 2702,
+      "ST": "2 - 1"
+    }
+  ],
+  "08/21": [
+    {
+      "team1": "Torino",
+      "team2": "Cagliari",
+      "team2_id": 2719,
+      "team1_id": 2696,
+      "ST": "0 - 0"
+    },
+    {
+      "team1": "Bologna",
+      "team2": "AC Milan",
+      "team2_id": 2692,
+      "team1_id": 2685,
+      "ST": "0 - 2"
+    }
+  ],
+  "08/20": [
+    {
+      "team1": "Roma",
+      "team2": "Salernitana",
+      "team2_id": 2710,
+      "team1_id": 2702,
+      "ST": "2 - 2"
+    },
+    {
+      "team1": "Sassuolo",
+      "team2": "Atalanta",
+      "team2_id": 2686,
+      "team1_id": 2793,
+      "ST": "0 - 2"
+    },
+    {
+      "team1": "Lecce",
+      "team2": "Lazio",
+      "team1_id": 2689,
+      "team2_id": 2699,
+      "ST": "2 - 1"
+    },
+    {
+      "team1": "Udinese",
+      "team2": "Juventus",
+      "team2_id": 2687,
+      "team1_id": 2695,
+      "ST": "0 - 3"
+    }
+  ],
+  "08/19": [
+    {
+      "team1": "Empoli",
+      "team2": "Hellas Verona",
+      "team2_id": 2701,
+      "team1_id": 2705,
+      "ST": "0 - 1"
+    },
+    {
+      "team1": "Frosinone",
+      "team2": "Napoli",
+      "team2_id": 2714,
+      "team1_id": 2801,
+      "ST": "1 - 3"
+    },
+    {
+      "team1": "Sampdoria",
+      "team2": "Fiorentina",
+      "team2_id": 2693,
+      "team1_id": 2711,
+      "ST": "1 - 4"
+    },
+    {
+      "team1": "Inter Milan",
+      "team2": "Monza",
+      "team1_id": 2697,
+      "team2_id": 2729,
+      "ST": "2 - 0"
+    }
+  ]
+}

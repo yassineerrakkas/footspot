@@ -1,0 +1,2852 @@
+{
+  "05/11": [
+    {
+      "team1": "Cardiff City",
+      "ST": "1 - 2",
+      "team2": "Chelsea",
+      "team2_id": 38,
+      "team1_id": 61
+    },
+    {
+      "team1": "Fulham",
+      "ST": "2 - 2",
+      "team2": "Crystal Palace",
+      "team2_id": 7,
+      "team1_id": 43
+    },
+    {
+      "team1": "Hull City",
+      "ST": "0 - 2",
+      "team2": "Everton",
+      "team2_id": 48,
+      "team1_id": 96
+    },
+    {
+      "team1": "Everton",
+      "ST": "2 - 1",
+      "team2": "Newcastle United",
+      "team1_id": 48,
+      "team2_id": 39
+    },
+    {
+      "team1": "Manchester City",
+      "ST": "2 - 0",
+      "team2": "West Ham United",
+      "team2_id": 37,
+      "team1_id": 17
+    },
+    {
+      "team1": "Norwich City",
+      "ST": "0 - 2",
+      "team2": "Arsenal",
+      "team2_id": 42,
+      "team1_id": 263
+    },
+    {
+      "team1": "Southampton",
+      "ST": "1 - 1",
+      "team2": "Manchester United",
+      "team2_id": 35,
+      "team1_id": 45
+    },
+    {
+      "team1": "Sunderland",
+      "ST": "1 - 3",
+      "team2": "Swansea City",
+      "team2_id": 74,
+      "team1_id": 41
+    },
+    {
+      "team1": "Tottenham Hotspur",
+      "ST": "3 - 0",
+      "team2": "Aston Villa",
+      "team1_id": 33,
+      "team2_id": 40
+    },
+    {
+      "team1": "West Bromwich Albion",
+      "ST": "1 - 2",
+      "team2": "Stoke City",
+      "team1_id": 8,
+      "team2_id": 29
+    }
+  ],
+  "05/07": [
+    {
+      "team1": "Manchester City",
+      "ST": "4 - 0",
+      "team2": "Aston Villa",
+      "team1_id": 17,
+      "team2_id": 40
+    },
+    {
+      "team1": "Sunderland",
+      "ST": "2 - 0",
+      "team2": "West Bromwich Albion",
+      "team2_id": 8,
+      "team1_id": 41
+    }
+  ],
+  "05/06": [
+    {
+      "team1": "Manchester United",
+      "ST": "3 - 1",
+      "team2": "Hull City",
+      "team1_id": 35,
+      "team2_id": 96
+    }
+  ],
+  "05/05": [
+    {
+      "team1": "Crystal Palace",
+      "ST": "3 - 3",
+      "team2": "Everton",
+      "team2_id": 48,
+      "team1_id": 7
+    }
+  ],
+  "05/04": [
+    {
+      "team1": "Arsenal",
+      "ST": "1 - 0",
+      "team2": "West Bromwich Albion",
+      "team1_id": 42,
+      "team2_id": 8
+    },
+    {
+      "team1": "Chelsea",
+      "ST": "0 - 0",
+      "team2": "Norwich City",
+      "team1_id": 38,
+      "team2_id": 263
+    }
+  ],
+  "05/03": [
+    {
+      "team1": "West Ham United",
+      "ST": "2 - 0",
+      "team2": "Tottenham Hotspur",
+      "team1_id": 37,
+      "team2_id": 33
+    },
+    {
+      "team1": "Aston Villa",
+      "ST": "3 - 1",
+      "team2": "Hull City",
+      "team1_id": 40,
+      "team2_id": 96
+    },
+    {
+      "team1": "Manchester United",
+      "ST": "0 - 1",
+      "team2": "Sunderland",
+      "team1_id": 35,
+      "team2_id": 41
+    },
+    {
+      "team1": "Newcastle United",
+      "ST": "3 - 0",
+      "team2": "Cardiff City",
+      "team1_id": 39,
+      "team2_id": 61
+    },
+    {
+      "team1": "Stoke City",
+      "ST": "4 - 1",
+      "team2": "Fulham",
+      "team2_id": 43,
+      "team1_id": 29
+    },
+    {
+      "team1": "Swansea City",
+      "ST": "0 - 1",
+      "team2": "Southampton",
+      "team2_id": 45,
+      "team1_id": 74
+    },
+    {
+      "team1": "Everton",
+      "ST": "2 - 3",
+      "team2": "Manchester City",
+      "team2_id": 17,
+      "team1_id": 48
+    }
+  ],
+  "04/28": [
+    {
+      "team1": "Arsenal",
+      "ST": "3 - 0",
+      "team2": "Newcastle United",
+      "team1_id": 42,
+      "team2_id": 39
+    }
+  ],
+  "04/27": [
+    {
+      "team1": "Sunderland",
+      "ST": "4 - 0",
+      "team2": "Cardiff City",
+      "team2_id": 61,
+      "team1_id": 41
+    },
+    {
+      "team1": "Everton",
+      "ST": "0 - 2",
+      "team2": "Chelsea",
+      "team1_id": 48,
+      "team2_id": 38
+    },
+    {
+      "team1": "Crystal Palace",
+      "ST": "0 - 2",
+      "team2": "Manchester City",
+      "team2_id": 17,
+      "team1_id": 7
+    }
+  ],
+  "04/26": [
+    {
+      "team1": "Southampton",
+      "ST": "2 - 0",
+      "team2": "Everton",
+      "team2_id": 48,
+      "team1_id": 45
+    },
+    {
+      "team1": "Fulham",
+      "ST": "2 - 2",
+      "team2": "Hull City",
+      "team1_id": 43,
+      "team2_id": 96
+    },
+    {
+      "team1": "Stoke City",
+      "ST": "0 - 1",
+      "team2": "Tottenham Hotspur",
+      "team2_id": 33,
+      "team1_id": 29
+    },
+    {
+      "team1": "Swansea City",
+      "ST": "4 - 1",
+      "team2": "Aston Villa",
+      "team2_id": 40,
+      "team1_id": 74
+    },
+    {
+      "team1": "West Bromwich Albion",
+      "ST": "1 - 0",
+      "team2": "West Ham United",
+      "team2_id": 37,
+      "team1_id": 8
+    },
+    {
+      "team1": "Manchester United",
+      "ST": "4 - 0",
+      "team2": "Norwich City",
+      "team1_id": 35,
+      "team2_id": 263
+    }
+  ],
+  "04/21": [
+    {
+      "team1": "Manchester City",
+      "ST": "3 - 1",
+      "team2": "West Bromwich Albion",
+      "team1_id": 17,
+      "team2_id": 8
+    }
+  ],
+  "04/20": [
+    {
+      "team1": "Norwich City",
+      "ST": "2 - 3",
+      "team2": "Everton",
+      "team2_id": 48,
+      "team1_id": 263
+    },
+    {
+      "team1": "Hull City",
+      "ST": "0 - 3",
+      "team2": "Arsenal",
+      "team2_id": 42,
+      "team1_id": 96
+    },
+    {
+      "team1": "Everton",
+      "ST": "2 - 0",
+      "team2": "Manchester United",
+      "team2_id": 35,
+      "team1_id": 48
+    }
+  ],
+  "04/19": [
+    {
+      "team1": "Tottenham Hotspur",
+      "ST": "3 - 1",
+      "team2": "Fulham",
+      "team1_id": 33,
+      "team2_id": 43
+    },
+    {
+      "team1": "Aston Villa",
+      "ST": "0 - 0",
+      "team2": "Southampton",
+      "team1_id": 40,
+      "team2_id": 45
+    },
+    {
+      "team1": "Cardiff City",
+      "ST": "1 - 1",
+      "team2": "Stoke City",
+      "team1_id": 61,
+      "team2_id": 29
+    },
+    {
+      "team1": "Newcastle United",
+      "ST": "1 - 2",
+      "team2": "Swansea City",
+      "team1_id": 39,
+      "team2_id": 74
+    },
+    {
+      "team1": "West Ham United",
+      "ST": "0 - 1",
+      "team2": "Crystal Palace",
+      "team1_id": 37,
+      "team2_id": 7
+    },
+    {
+      "team1": "Chelsea",
+      "ST": "1 - 2",
+      "team2": "Sunderland",
+      "team1_id": 38,
+      "team2_id": 41
+    }
+  ],
+  "04/16": [
+    {
+      "team1": "Everton",
+      "ST": "2 - 3",
+      "team2": "Crystal Palace",
+      "team2_id": 7,
+      "team1_id": 48
+    },
+    {
+      "team1": "Manchester City",
+      "ST": "2 - 2",
+      "team2": "Sunderland",
+      "team1_id": 17,
+      "team2_id": 41
+    }
+  ],
+  "04/15": [
+    {
+      "team1": "Arsenal",
+      "ST": "3 - 1",
+      "team2": "West Ham United",
+      "team2_id": 37,
+      "team1_id": 42
+    }
+  ],
+  "04/13": [
+    {
+      "team1": "Everton",
+      "ST": "3 - 2",
+      "team2": "Manchester City",
+      "team2_id": 17,
+      "team1_id": 48
+    },
+    {
+      "team1": "Swansea City",
+      "ST": "0 - 1",
+      "team2": "Chelsea",
+      "team2_id": 38,
+      "team1_id": 74
+    }
+  ],
+  "04/12": [
+    {
+      "team1": "Crystal Palace",
+      "ST": "1 - 0",
+      "team2": "Aston Villa",
+      "team1_id": 7,
+      "team2_id": 40
+    },
+    {
+      "team1": "Fulham",
+      "ST": "1 - 0",
+      "team2": "Norwich City",
+      "team1_id": 43,
+      "team2_id": 263
+    },
+    {
+      "team1": "Southampton",
+      "ST": "0 - 1",
+      "team2": "Cardiff City",
+      "team1_id": 45,
+      "team2_id": 61
+    },
+    {
+      "team1": "Stoke City",
+      "ST": "1 - 0",
+      "team2": "Newcastle United",
+      "team2_id": 39,
+      "team1_id": 29
+    },
+    {
+      "team1": "Sunderland",
+      "ST": "0 - 1",
+      "team2": "Everton",
+      "team2_id": 48,
+      "team1_id": 41
+    },
+    {
+      "team1": "West Bromwich Albion",
+      "ST": "3 - 3",
+      "team2": "Tottenham Hotspur",
+      "team2_id": 33,
+      "team1_id": 8
+    }
+  ],
+  "04/07": [
+    {
+      "team1": "Tottenham Hotspur",
+      "ST": "5 - 1",
+      "team2": "Sunderland",
+      "team1_id": 33,
+      "team2_id": 41
+    }
+  ],
+  "04/06": [
+    {
+      "team1": "Everton",
+      "ST": "3 - 0",
+      "team2": "Arsenal",
+      "team2_id": 42,
+      "team1_id": 48
+    },
+    {
+      "team1": "West Ham United",
+      "ST": "1 - 2",
+      "team2": "Everton",
+      "team1_id": 37,
+      "team2_id": 48
+    }
+  ],
+  "04/05": [
+    {
+      "team1": "Manchester City",
+      "ST": "4 - 1",
+      "team2": "Southampton",
+      "team1_id": 17,
+      "team2_id": 45
+    },
+    {
+      "team1": "Aston Villa",
+      "ST": "1 - 2",
+      "team2": "Fulham",
+      "team2_id": 43,
+      "team1_id": 40
+    },
+    {
+      "team1": "Cardiff City",
+      "ST": "0 - 3",
+      "team2": "Crystal Palace",
+      "team2_id": 7,
+      "team1_id": 61
+    },
+    {
+      "team1": "Hull City",
+      "ST": "1 - 0",
+      "team2": "Swansea City",
+      "team2_id": 74,
+      "team1_id": 96
+    },
+    {
+      "team1": "Newcastle United",
+      "ST": "0 - 4",
+      "team2": "Manchester United",
+      "team2_id": 35,
+      "team1_id": 39
+    },
+    {
+      "team1": "Norwich City",
+      "ST": "0 - 1",
+      "team2": "West Bromwich Albion",
+      "team1_id": 263,
+      "team2_id": 8
+    },
+    {
+      "team1": "Chelsea",
+      "ST": "3 - 0",
+      "team2": "Stoke City",
+      "team1_id": 38,
+      "team2_id": 29
+    }
+  ],
+  "03/31": [
+    {
+      "team1": "Sunderland",
+      "ST": "1 - 2",
+      "team2": "West Ham United",
+      "team2_id": 37,
+      "team1_id": 41
+    }
+  ],
+  "03/30": [
+    {
+      "team1": "Fulham",
+      "ST": "1 - 3",
+      "team2": "Everton",
+      "team1_id": 43,
+      "team2_id": 48
+    },
+    {
+      "team1": "Everton",
+      "ST": "4 - 0",
+      "team2": "Tottenham Hotspur",
+      "team2_id": 33,
+      "team1_id": 48
+    }
+  ],
+  "03/29": [
+    {
+      "team1": "Manchester United",
+      "ST": "4 - 1",
+      "team2": "Aston Villa",
+      "team1_id": 35,
+      "team2_id": 40
+    },
+    {
+      "team1": "Crystal Palace",
+      "ST": "1 - 0",
+      "team2": "Chelsea",
+      "team2_id": 38,
+      "team1_id": 7
+    },
+    {
+      "team1": "Southampton",
+      "ST": "4 - 0",
+      "team2": "Newcastle United",
+      "team2_id": 39,
+      "team1_id": 45
+    },
+    {
+      "team1": "Stoke City",
+      "ST": "1 - 0",
+      "team2": "Hull City",
+      "team1_id": 29,
+      "team2_id": 96
+    },
+    {
+      "team1": "Swansea City",
+      "ST": "3 - 0",
+      "team2": "Norwich City",
+      "team2_id": 263,
+      "team1_id": 74
+    },
+    {
+      "team1": "West Bromwich Albion",
+      "ST": "3 - 3",
+      "team2": "Cardiff City",
+      "team1_id": 8,
+      "team2_id": 61
+    },
+    {
+      "team1": "Arsenal",
+      "ST": "1 - 1",
+      "team2": "Manchester City",
+      "team1_id": 42,
+      "team2_id": 17
+    }
+  ],
+  "03/26": [
+    {
+      "team1": "West Ham United",
+      "ST": "2 - 1",
+      "team2": "Hull City",
+      "team1_id": 37,
+      "team2_id": 96
+    },
+    {
+      "team1": "Everton",
+      "ST": "2 - 1",
+      "team2": "Sunderland",
+      "team1_id": 48,
+      "team2_id": 41
+    }
+  ],
+  "03/25": [
+    {
+      "team1": "Arsenal",
+      "ST": "2 - 2",
+      "team2": "Swansea City",
+      "team1_id": 42,
+      "team2_id": 74
+    },
+    {
+      "team1": "Manchester United",
+      "ST": "0 - 3",
+      "team2": "Manchester City",
+      "team2_id": 17,
+      "team1_id": 35
+    },
+    {
+      "team1": "Newcastle United",
+      "ST": "0 - 3",
+      "team2": "Everton",
+      "team1_id": 39,
+      "team2_id": 48
+    }
+  ],
+  "03/23": [
+    {
+      "team1": "Tottenham Hotspur",
+      "ST": "3 - 2",
+      "team2": "Southampton",
+      "team1_id": 33,
+      "team2_id": 45
+    },
+    {
+      "team1": "Aston Villa",
+      "ST": "1 - 4",
+      "team2": "Stoke City",
+      "team1_id": 40,
+      "team2_id": 29
+    }
+  ],
+  "03/22": [
+    {
+      "team1": "Chelsea",
+      "ST": "6 - 0",
+      "team2": "Arsenal",
+      "team2_id": 42,
+      "team1_id": 38
+    },
+    {
+      "team1": "Cardiff City",
+      "ST": "3 - 6",
+      "team2": "Everton",
+      "team2_id": 48,
+      "team1_id": 61
+    },
+    {
+      "team1": "Everton",
+      "ST": "3 - 2",
+      "team2": "Swansea City",
+      "team1_id": 48,
+      "team2_id": 74
+    },
+    {
+      "team1": "Hull City",
+      "ST": "2 - 0",
+      "team2": "West Bromwich Albion",
+      "team2_id": 8,
+      "team1_id": 96
+    },
+    {
+      "team1": "Manchester City",
+      "ST": "5 - 0",
+      "team2": "Fulham",
+      "team1_id": 17,
+      "team2_id": 43
+    },
+    {
+      "team1": "Newcastle United",
+      "ST": "1 - 0",
+      "team2": "Crystal Palace",
+      "team2_id": 7,
+      "team1_id": 39
+    },
+    {
+      "team1": "Norwich City",
+      "ST": "2 - 0",
+      "team2": "Sunderland",
+      "team1_id": 263,
+      "team2_id": 41
+    },
+    {
+      "team1": "West Ham United",
+      "ST": "0 - 2",
+      "team2": "Manchester United",
+      "team1_id": 37,
+      "team2_id": 35
+    }
+  ],
+  "03/16": [
+    {
+      "team1": "Manchester United",
+      "ST": "0 - 3",
+      "team2": "Everton",
+      "team1_id": 35,
+      "team2_id": 48
+    },
+    {
+      "team1": "Tottenham Hotspur",
+      "ST": "0 - 1",
+      "team2": "Arsenal",
+      "team1_id": 33,
+      "team2_id": 42
+    }
+  ],
+  "03/15": [
+    {
+      "team1": "Hull City",
+      "ST": "0 - 2",
+      "team2": "Manchester City",
+      "team2_id": 17,
+      "team1_id": 96
+    },
+    {
+      "team1": "Everton",
+      "ST": "2 - 1",
+      "team2": "Cardiff City",
+      "team1_id": 48,
+      "team2_id": 61
+    },
+    {
+      "team1": "Fulham",
+      "ST": "1 - 0",
+      "team2": "Newcastle United",
+      "team1_id": 43,
+      "team2_id": 39
+    },
+    {
+      "team1": "Southampton",
+      "ST": "4 - 2",
+      "team2": "Norwich City",
+      "team1_id": 45,
+      "team2_id": 263
+    },
+    {
+      "team1": "Stoke City",
+      "ST": "3 - 1",
+      "team2": "West Ham United",
+      "team2_id": 37,
+      "team1_id": 29
+    },
+    {
+      "team1": "Sunderland",
+      "ST": "0 - 0",
+      "team2": "Crystal Palace",
+      "team2_id": 7,
+      "team1_id": 41
+    },
+    {
+      "team1": "Swansea City",
+      "ST": "1 - 2",
+      "team2": "West Bromwich Albion",
+      "team2_id": 8,
+      "team1_id": 74
+    },
+    {
+      "team1": "Aston Villa",
+      "ST": "1 - 0",
+      "team2": "Chelsea",
+      "team2_id": 38,
+      "team1_id": 40
+    }
+  ],
+  "03/08": [
+    {
+      "team1": "West Bromwich Albion",
+      "ST": "0 - 3",
+      "team2": "Manchester United",
+      "team2_id": 35,
+      "team1_id": 8
+    },
+    {
+      "team1": "Cardiff City",
+      "ST": "3 - 1",
+      "team2": "Fulham",
+      "team2_id": 43,
+      "team1_id": 61
+    },
+    {
+      "team1": "Crystal Palace",
+      "ST": "0 - 1",
+      "team2": "Southampton",
+      "team1_id": 7,
+      "team2_id": 45
+    },
+    {
+      "team1": "Norwich City",
+      "ST": "1 - 1",
+      "team2": "Stoke City",
+      "team1_id": 263,
+      "team2_id": 29
+    },
+    {
+      "team1": "Chelsea",
+      "ST": "4 - 0",
+      "team2": "Tottenham Hotspur",
+      "team2_id": 33,
+      "team1_id": 38
+    }
+  ],
+  "03/02": [
+    {
+      "team1": "Aston Villa",
+      "ST": "4 - 1",
+      "team2": "Norwich City",
+      "team1_id": 40,
+      "team2_id": 263
+    },
+    {
+      "team1": "Swansea City",
+      "ST": "1 - 1",
+      "team2": "Crystal Palace",
+      "team2_id": 7,
+      "team1_id": 74
+    },
+    {
+      "team1": "Tottenham Hotspur",
+      "ST": "1 - 0",
+      "team2": "Cardiff City",
+      "team1_id": 33,
+      "team2_id": 61
+    }
+  ],
+  "03/01": [
+    {
+      "team1": "Everton",
+      "ST": "1 - 0",
+      "team2": "West Ham United",
+      "team2_id": 37,
+      "team1_id": 48
+    },
+    {
+      "team1": "Fulham",
+      "ST": "1 - 3",
+      "team2": "Chelsea",
+      "team2_id": 38,
+      "team1_id": 43
+    },
+    {
+      "team1": "Hull City",
+      "ST": "1 - 4",
+      "team2": "Newcastle United",
+      "team2_id": 39,
+      "team1_id": 96
+    },
+    {
+      "team1": "Stoke City",
+      "ST": "1 - 0",
+      "team2": "Arsenal",
+      "team2_id": 42,
+      "team1_id": 29
+    },
+    {
+      "team1": "Southampton",
+      "ST": "0 - 3",
+      "team2": "Everton",
+      "team2_id": 48,
+      "team1_id": 45
+    }
+  ],
+  "02/23": [
+    {
+      "team1": "Everton",
+      "ST": "4 - 3",
+      "team2": "Swansea City",
+      "team1_id": 48,
+      "team2_id": 74
+    },
+    {
+      "team1": "Newcastle United",
+      "ST": "1 - 0",
+      "team2": "Aston Villa",
+      "team1_id": 39,
+      "team2_id": 40
+    },
+    {
+      "team1": "Norwich City",
+      "ST": "1 - 0",
+      "team2": "Tottenham Hotspur",
+      "team2_id": 33,
+      "team1_id": 263
+    }
+  ],
+  "02/22": [
+    {
+      "team1": "Chelsea",
+      "ST": "1 - 0",
+      "team2": "Everton",
+      "team1_id": 38,
+      "team2_id": 48
+    },
+    {
+      "team1": "Arsenal",
+      "ST": "4 - 1",
+      "team2": "Sunderland",
+      "team1_id": 42,
+      "team2_id": 41
+    },
+    {
+      "team1": "Cardiff City",
+      "ST": "0 - 4",
+      "team2": "Hull City",
+      "team1_id": 61,
+      "team2_id": 96
+    },
+    {
+      "team1": "Manchester City",
+      "ST": "1 - 0",
+      "team2": "Stoke City",
+      "team1_id": 17,
+      "team2_id": 29
+    },
+    {
+      "team1": "West Bromwich Albion",
+      "ST": "1 - 1",
+      "team2": "Fulham",
+      "team2_id": 43,
+      "team1_id": 8
+    },
+    {
+      "team1": "West Ham United",
+      "ST": "3 - 1",
+      "team2": "Southampton",
+      "team1_id": 37,
+      "team2_id": 45
+    },
+    {
+      "team1": "Crystal Palace",
+      "ST": "0 - 2",
+      "team2": "Manchester United",
+      "team2_id": 35,
+      "team1_id": 7
+    }
+  ],
+  "02/12": [
+    {
+      "team1": "Arsenal",
+      "ST": "0 - 0",
+      "team2": "Manchester United",
+      "team1_id": 42,
+      "team2_id": 35
+    },
+    {
+      "team1": "Newcastle United",
+      "ST": "0 - 4",
+      "team2": "Tottenham Hotspur",
+      "team2_id": 33,
+      "team1_id": 39
+    },
+    {
+      "team1": "Stoke City",
+      "ST": "1 - 1",
+      "team2": "Swansea City",
+      "team2_id": 74,
+      "team1_id": 29
+    },
+    {
+      "team1": "Fulham",
+      "ST": "2 - 3",
+      "team2": "Everton",
+      "team2_id": 48,
+      "team1_id": 43
+    }
+  ],
+  "02/11": [
+    {
+      "team1": "Cardiff City",
+      "ST": "0 - 0",
+      "team2": "Aston Villa",
+      "team2_id": 40,
+      "team1_id": 61
+    },
+    {
+      "team1": "Hull City",
+      "ST": "0 - 1",
+      "team2": "Southampton",
+      "team2_id": 45,
+      "team1_id": 96
+    },
+    {
+      "team1": "West Ham United",
+      "ST": "2 - 0",
+      "team2": "Norwich City",
+      "team1_id": 37,
+      "team2_id": 263
+    },
+    {
+      "team1": "West Bromwich Albion",
+      "ST": "1 - 1",
+      "team2": "Chelsea",
+      "team2_id": 38,
+      "team1_id": 8
+    }
+  ],
+  "02/09": [
+    {
+      "team1": "Tottenham Hotspur",
+      "ST": "1 - 0",
+      "team2": "Everton",
+      "team1_id": 33,
+      "team2_id": 48
+    },
+    {
+      "team1": "Manchester United",
+      "ST": "2 - 2",
+      "team2": "Fulham",
+      "team1_id": 35,
+      "team2_id": 43
+    }
+  ],
+  "02/08": [
+    {
+      "team1": "Everton",
+      "ST": "5 - 1",
+      "team2": "Arsenal",
+      "team2_id": 42,
+      "team1_id": 48
+    },
+    {
+      "team1": "Aston Villa",
+      "ST": "0 - 2",
+      "team2": "West Ham United",
+      "team2_id": 37,
+      "team1_id": 40
+    },
+    {
+      "team1": "Chelsea",
+      "ST": "3 - 0",
+      "team2": "Newcastle United",
+      "team1_id": 38,
+      "team2_id": 39
+    },
+    {
+      "team1": "Crystal Palace",
+      "ST": "3 - 1",
+      "team2": "West Bromwich Albion",
+      "team1_id": 7,
+      "team2_id": 8
+    },
+    {
+      "team1": "Norwich City",
+      "ST": "0 - 0",
+      "team2": "Manchester City",
+      "team2_id": 17,
+      "team1_id": 263
+    },
+    {
+      "team1": "Southampton",
+      "ST": "2 - 2",
+      "team2": "Stoke City",
+      "team1_id": 45,
+      "team2_id": 29
+    },
+    {
+      "team1": "Sunderland",
+      "ST": "0 - 2",
+      "team2": "Hull City",
+      "team2_id": 96,
+      "team1_id": 41
+    },
+    {
+      "team1": "Swansea City",
+      "ST": "3 - 0",
+      "team2": "Cardiff City",
+      "team2_id": 61,
+      "team1_id": 74
+    }
+  ],
+  "02/03": [
+    {
+      "team1": "Manchester City",
+      "ST": "0 - 1",
+      "team2": "Chelsea",
+      "team1_id": 17,
+      "team2_id": 38
+    }
+  ],
+  "02/02": [
+    {
+      "team1": "West Bromwich Albion",
+      "ST": "1 - 1",
+      "team2": "Everton",
+      "team2_id": 48,
+      "team1_id": 8
+    },
+    {
+      "team1": "Arsenal",
+      "ST": "2 - 0",
+      "team2": "Crystal Palace",
+      "team1_id": 42,
+      "team2_id": 7
+    }
+  ],
+  "02/01": [
+    {
+      "team1": "Newcastle United",
+      "ST": "0 - 3",
+      "team2": "Sunderland",
+      "team1_id": 39,
+      "team2_id": 41
+    },
+    {
+      "team1": "West Ham United",
+      "ST": "2 - 0",
+      "team2": "Swansea City",
+      "team1_id": 37,
+      "team2_id": 74
+    },
+    {
+      "team1": "Cardiff City",
+      "ST": "2 - 1",
+      "team2": "Norwich City",
+      "team2_id": 263,
+      "team1_id": 61
+    },
+    {
+      "team1": "Everton",
+      "ST": "2 - 1",
+      "team2": "Aston Villa",
+      "team2_id": 40,
+      "team1_id": 48
+    },
+    {
+      "team1": "Fulham",
+      "ST": "0 - 3",
+      "team2": "Southampton",
+      "team1_id": 43,
+      "team2_id": 45
+    },
+    {
+      "team1": "Hull City",
+      "ST": "1 - 1",
+      "team2": "Tottenham Hotspur",
+      "team2_id": 33,
+      "team1_id": 96
+    },
+    {
+      "team1": "Stoke City",
+      "ST": "2 - 1",
+      "team2": "Manchester United",
+      "team2_id": 35,
+      "team1_id": 29
+    }
+  ],
+  "01/29": [
+    {
+      "team1": "Aston Villa",
+      "ST": "4 - 3",
+      "team2": "West Bromwich Albion",
+      "team1_id": 40,
+      "team2_id": 8
+    },
+    {
+      "team1": "Chelsea",
+      "ST": "0 - 0",
+      "team2": "West Ham United",
+      "team2_id": 37,
+      "team1_id": 38
+    },
+    {
+      "team1": "Sunderland",
+      "ST": "1 - 0",
+      "team2": "Stoke City",
+      "team2_id": 29,
+      "team1_id": 41
+    },
+    {
+      "team1": "Tottenham Hotspur",
+      "ST": "1 - 5",
+      "team2": "Manchester City",
+      "team1_id": 33,
+      "team2_id": 17
+    }
+  ],
+  "01/28": [
+    {
+      "team1": "Manchester United",
+      "ST": "2 - 0",
+      "team2": "Cardiff City",
+      "team1_id": 35,
+      "team2_id": 61
+    },
+    {
+      "team1": "Norwich City",
+      "ST": "0 - 0",
+      "team2": "Newcastle United",
+      "team2_id": 39,
+      "team1_id": 263
+    },
+    {
+      "team1": "Southampton",
+      "ST": "2 - 2",
+      "team2": "Arsenal",
+      "team2_id": 42,
+      "team1_id": 45
+    },
+    {
+      "team1": "Swansea City",
+      "ST": "2 - 0",
+      "team2": "Fulham",
+      "team2_id": 43,
+      "team1_id": 74
+    },
+    {
+      "team1": "Crystal Palace",
+      "ST": "1 - 0",
+      "team2": "Hull City",
+      "team1_id": 7,
+      "team2_id": 96
+    },
+    {
+      "team1": "Everton",
+      "ST": "4 - 0",
+      "team2": "Everton",
+      "team1_id": 48,
+      "team2_id": 48
+    }
+  ],
+  "01/20": [
+    {
+      "team1": "West Bromwich Albion",
+      "ST": "1 - 1",
+      "team2": "Everton",
+      "team2_id": 48,
+      "team1_id": 8
+    }
+  ],
+  "01/19": [
+    {
+      "team1": "Swansea City",
+      "ST": "1 - 3",
+      "team2": "Tottenham Hotspur",
+      "team2_id": 33,
+      "team1_id": 74
+    },
+    {
+      "team1": "Chelsea",
+      "ST": "3 - 1",
+      "team2": "Manchester United",
+      "team2_id": 35,
+      "team1_id": 38
+    }
+  ],
+  "01/18": [
+    {
+      "team1": "Sunderland",
+      "ST": "2 - 2",
+      "team2": "Southampton",
+      "team2_id": 45,
+      "team1_id": 41
+    },
+    {
+      "team1": "Arsenal",
+      "ST": "2 - 0",
+      "team2": "Fulham",
+      "team1_id": 42,
+      "team2_id": 43
+    },
+    {
+      "team1": "Crystal Palace",
+      "ST": "1 - 0",
+      "team2": "Stoke City",
+      "team1_id": 7,
+      "team2_id": 29
+    },
+    {
+      "team1": "Manchester City",
+      "ST": "4 - 2",
+      "team2": "Cardiff City",
+      "team1_id": 17,
+      "team2_id": 61
+    },
+    {
+      "team1": "Norwich City",
+      "ST": "1 - 0",
+      "team2": "Hull City",
+      "team1_id": 263,
+      "team2_id": 96
+    },
+    {
+      "team1": "West Ham United",
+      "ST": "1 - 3",
+      "team2": "Newcastle United",
+      "team1_id": 37,
+      "team2_id": 39
+    },
+    {
+      "team1": "Everton",
+      "ST": "2 - 2",
+      "team2": "Aston Villa",
+      "team1_id": 48,
+      "team2_id": 40
+    }
+  ],
+  "01/13": [
+    {
+      "team1": "Aston Villa",
+      "ST": "1 - 2",
+      "team2": "Arsenal",
+      "team2_id": 42,
+      "team1_id": 40
+    }
+  ],
+  "01/12": [
+    {
+      "team1": "Newcastle United",
+      "ST": "0 - 2",
+      "team2": "Manchester City",
+      "team2_id": 17,
+      "team1_id": 39
+    },
+    {
+      "team1": "Stoke City",
+      "ST": "3 - 5",
+      "team2": "Everton",
+      "team2_id": 48,
+      "team1_id": 29
+    }
+  ],
+  "01/11": [
+    {
+      "team1": "Hull City",
+      "ST": "0 - 2",
+      "team2": "Chelsea",
+      "team2_id": 38,
+      "team1_id": 96
+    },
+    {
+      "team1": "Cardiff City",
+      "ST": "0 - 2",
+      "team2": "West Ham United",
+      "team2_id": 37,
+      "team1_id": 61
+    },
+    {
+      "team1": "Everton",
+      "ST": "2 - 0",
+      "team2": "Norwich City",
+      "team1_id": 48,
+      "team2_id": 263
+    },
+    {
+      "team1": "Fulham",
+      "ST": "1 - 4",
+      "team2": "Sunderland",
+      "team1_id": 43,
+      "team2_id": 41
+    },
+    {
+      "team1": "Southampton",
+      "ST": "1 - 0",
+      "team2": "West Bromwich Albion",
+      "team1_id": 45,
+      "team2_id": 8
+    },
+    {
+      "team1": "Tottenham Hotspur",
+      "ST": "2 - 0",
+      "team2": "Crystal Palace",
+      "team1_id": 33,
+      "team2_id": 7
+    },
+    {
+      "team1": "Manchester United",
+      "ST": "2 - 0",
+      "team2": "Swansea City",
+      "team1_id": 35,
+      "team2_id": 74
+    }
+  ],
+  "01/01": [
+    {
+      "team1": "Swansea City",
+      "ST": "2 - 3",
+      "team2": "Manchester City",
+      "team2_id": 17,
+      "team1_id": 74
+    },
+    {
+      "team1": "Arsenal",
+      "ST": "2 - 0",
+      "team2": "Cardiff City",
+      "team1_id": 42,
+      "team2_id": 61
+    },
+    {
+      "team1": "Crystal Palace",
+      "ST": "1 - 1",
+      "team2": "Norwich City",
+      "team1_id": 7,
+      "team2_id": 263
+    },
+    {
+      "team1": "Fulham",
+      "ST": "2 - 1",
+      "team2": "West Ham United",
+      "team2_id": 37,
+      "team1_id": 43
+    },
+    {
+      "team1": "Everton",
+      "ST": "2 - 0",
+      "team2": "Hull City",
+      "team1_id": 48,
+      "team2_id": 96
+    },
+    {
+      "team1": "Southampton",
+      "ST": "0 - 3",
+      "team2": "Chelsea",
+      "team2_id": 38,
+      "team1_id": 45
+    },
+    {
+      "team1": "Stoke City",
+      "ST": "1 - 1",
+      "team2": "Everton",
+      "team2_id": 48,
+      "team1_id": 29
+    },
+    {
+      "team1": "Sunderland",
+      "ST": "0 - 1",
+      "team2": "Aston Villa",
+      "team2_id": 40,
+      "team1_id": 41
+    },
+    {
+      "team1": "West Bromwich Albion",
+      "ST": "1 - 0",
+      "team2": "Newcastle United",
+      "team2_id": 39,
+      "team1_id": 8
+    },
+    {
+      "team1": "Manchester United",
+      "ST": "1 - 2",
+      "team2": "Tottenham Hotspur",
+      "team2_id": 33,
+      "team1_id": 35
+    }
+  ],
+  "12/29": [
+    {
+      "team1": "Everton",
+      "ST": "2 - 1",
+      "team2": "Southampton",
+      "team1_id": 48,
+      "team2_id": 45
+    },
+    {
+      "team1": "Newcastle United",
+      "ST": "0 - 1",
+      "team2": "Arsenal",
+      "team2_id": 42,
+      "team1_id": 39
+    },
+    {
+      "team1": "Chelsea",
+      "ST": "2 - 1",
+      "team2": "Everton",
+      "team2_id": 48,
+      "team1_id": 38
+    },
+    {
+      "team1": "Tottenham Hotspur",
+      "ST": "3 - 0",
+      "team2": "Stoke City",
+      "team1_id": 33,
+      "team2_id": 29
+    }
+  ],
+  "12/28": [
+    {
+      "team1": "West Ham United",
+      "ST": "3 - 3",
+      "team2": "West Bromwich Albion",
+      "team1_id": 37,
+      "team2_id": 8
+    },
+    {
+      "team1": "Aston Villa",
+      "ST": "1 - 1",
+      "team2": "Swansea City",
+      "team1_id": 40,
+      "team2_id": 74
+    },
+    {
+      "team1": "Hull City",
+      "ST": "6 - 0",
+      "team2": "Fulham",
+      "team2_id": 43,
+      "team1_id": 96
+    },
+    {
+      "team1": "Manchester City",
+      "ST": "1 - 0",
+      "team2": "Crystal Palace",
+      "team1_id": 17,
+      "team2_id": 7
+    },
+    {
+      "team1": "Norwich City",
+      "ST": "0 - 1",
+      "team2": "Manchester United",
+      "team2_id": 35,
+      "team1_id": 263
+    },
+    {
+      "team1": "Cardiff City",
+      "ST": "2 - 2",
+      "team2": "Sunderland",
+      "team1_id": 61,
+      "team2_id": 41
+    }
+  ],
+  "12/26": [
+    {
+      "team1": "Hull City",
+      "ST": "2 - 3",
+      "team2": "Manchester United",
+      "team2_id": 35,
+      "team1_id": 96
+    },
+    {
+      "team1": "Aston Villa",
+      "ST": "0 - 1",
+      "team2": "Crystal Palace",
+      "team2_id": 7,
+      "team1_id": 40
+    },
+    {
+      "team1": "Cardiff City",
+      "ST": "0 - 3",
+      "team2": "Southampton",
+      "team2_id": 45,
+      "team1_id": 61
+    },
+    {
+      "team1": "Chelsea",
+      "ST": "1 - 0",
+      "team2": "Swansea City",
+      "team1_id": 38,
+      "team2_id": 74
+    },
+    {
+      "team1": "Everton",
+      "ST": "0 - 1",
+      "team2": "Sunderland",
+      "team1_id": 48,
+      "team2_id": 41
+    },
+    {
+      "team1": "Newcastle United",
+      "ST": "5 - 1",
+      "team2": "Stoke City",
+      "team1_id": 39,
+      "team2_id": 29
+    },
+    {
+      "team1": "Norwich City",
+      "ST": "1 - 2",
+      "team2": "Fulham",
+      "team2_id": 43,
+      "team1_id": 263
+    },
+    {
+      "team1": "Tottenham Hotspur",
+      "ST": "1 - 1",
+      "team2": "West Bromwich Albion",
+      "team1_id": 33,
+      "team2_id": 8
+    },
+    {
+      "team1": "West Ham United",
+      "ST": "1 - 3",
+      "team2": "Arsenal",
+      "team1_id": 37,
+      "team2_id": 42
+    },
+    {
+      "team1": "Manchester City",
+      "ST": "2 - 1",
+      "team2": "Everton",
+      "team1_id": 17,
+      "team2_id": 48
+    }
+  ],
+  "12/23": [
+    {
+      "team1": "Arsenal",
+      "ST": "0 - 0",
+      "team2": "Chelsea",
+      "team1_id": 42,
+      "team2_id": 38
+    }
+  ],
+  "12/22": [
+    {
+      "team1": "Southampton",
+      "ST": "2 - 3",
+      "team2": "Tottenham Hotspur",
+      "team2_id": 33,
+      "team1_id": 45
+    },
+    {
+      "team1": "Swansea City",
+      "ST": "1 - 2",
+      "team2": "Everton",
+      "team2_id": 48,
+      "team1_id": 74
+    }
+  ],
+  "12/21": [
+    {
+      "team1": "Everton",
+      "ST": "3 - 1",
+      "team2": "Cardiff City",
+      "team1_id": 48,
+      "team2_id": 61
+    },
+    {
+      "team1": "Crystal Palace",
+      "ST": "0 - 3",
+      "team2": "Newcastle United",
+      "team1_id": 7,
+      "team2_id": 39
+    },
+    {
+      "team1": "Fulham",
+      "ST": "2 - 4",
+      "team2": "Manchester City",
+      "team2_id": 17,
+      "team1_id": 43
+    },
+    {
+      "team1": "Manchester United",
+      "ST": "3 - 1",
+      "team2": "West Ham United",
+      "team2_id": 37,
+      "team1_id": 35
+    },
+    {
+      "team1": "Stoke City",
+      "ST": "2 - 1",
+      "team2": "Aston Villa",
+      "team2_id": 40,
+      "team1_id": 29
+    },
+    {
+      "team1": "Sunderland",
+      "ST": "0 - 0",
+      "team2": "Norwich City",
+      "team2_id": 263,
+      "team1_id": 41
+    },
+    {
+      "team1": "West Bromwich Albion",
+      "ST": "1 - 1",
+      "team2": "Hull City",
+      "team1_id": 8,
+      "team2_id": 96
+    }
+  ],
+  "12/15": [
+    {
+      "team1": "Aston Villa",
+      "ST": "0 - 3",
+      "team2": "Manchester United",
+      "team2_id": 35,
+      "team1_id": 40
+    },
+    {
+      "team1": "Norwich City",
+      "ST": "1 - 1",
+      "team2": "Swansea City",
+      "team1_id": 263,
+      "team2_id": 74
+    },
+    {
+      "team1": "Tottenham Hotspur",
+      "ST": "0 - 5",
+      "team2": "Everton",
+      "team1_id": 33,
+      "team2_id": 48
+    }
+  ],
+  "12/14": [
+    {
+      "team1": "Manchester City",
+      "ST": "6 - 3",
+      "team2": "Arsenal",
+      "team2_id": 42,
+      "team1_id": 17
+    },
+    {
+      "team1": "Cardiff City",
+      "ST": "1 - 0",
+      "team2": "West Bromwich Albion",
+      "team2_id": 8,
+      "team1_id": 61
+    },
+    {
+      "team1": "Chelsea",
+      "ST": "2 - 1",
+      "team2": "Crystal Palace",
+      "team1_id": 38,
+      "team2_id": 7
+    },
+    {
+      "team1": "Everton",
+      "ST": "4 - 1",
+      "team2": "Fulham",
+      "team2_id": 43,
+      "team1_id": 48
+    },
+    {
+      "team1": "Newcastle United",
+      "ST": "1 - 1",
+      "team2": "Southampton",
+      "team1_id": 39,
+      "team2_id": 45
+    },
+    {
+      "team1": "West Ham United",
+      "ST": "0 - 0",
+      "team2": "Sunderland",
+      "team1_id": 37,
+      "team2_id": 41
+    },
+    {
+      "team1": "Hull City",
+      "ST": "0 - 0",
+      "team2": "Stoke City",
+      "team2_id": 29,
+      "team1_id": 96
+    }
+  ],
+  "12/09": [
+    {
+      "team1": "Swansea City",
+      "ST": "1 - 1",
+      "team2": "Hull City",
+      "team1_id": 74,
+      "team2_id": 96
+    }
+  ],
+  "12/08": [
+    {
+      "team1": "Fulham",
+      "ST": "2 - 0",
+      "team2": "Aston Villa",
+      "team1_id": 43,
+      "team2_id": 40
+    },
+    {
+      "team1": "Arsenal",
+      "ST": "1 - 1",
+      "team2": "Everton",
+      "team1_id": 42,
+      "team2_id": 48
+    }
+  ],
+  "12/07": [
+    {
+      "team1": "Manchester United",
+      "ST": "0 - 1",
+      "team2": "Newcastle United",
+      "team1_id": 35,
+      "team2_id": 39
+    },
+    {
+      "team1": "Crystal Palace",
+      "ST": "2 - 0",
+      "team2": "Cardiff City",
+      "team1_id": 7,
+      "team2_id": 61
+    },
+    {
+      "team1": "Everton",
+      "ST": "4 - 1",
+      "team2": "West Ham United",
+      "team2_id": 37,
+      "team1_id": 48
+    },
+    {
+      "team1": "Southampton",
+      "ST": "1 - 1",
+      "team2": "Manchester City",
+      "team2_id": 17,
+      "team1_id": 45
+    },
+    {
+      "team1": "Stoke City",
+      "ST": "3 - 2",
+      "team2": "Chelsea",
+      "team2_id": 38,
+      "team1_id": 29
+    },
+    {
+      "team1": "West Bromwich Albion",
+      "ST": "0 - 2",
+      "team2": "Norwich City",
+      "team2_id": 263,
+      "team1_id": 8
+    },
+    {
+      "team1": "Sunderland",
+      "ST": "1 - 2",
+      "team2": "Tottenham Hotspur",
+      "team2_id": 33,
+      "team1_id": 41
+    }
+  ],
+  "12/04": [
+    {
+      "team1": "Arsenal",
+      "ST": "2 - 0",
+      "team2": "Hull City",
+      "team1_id": 42,
+      "team2_id": 96
+    },
+    {
+      "team1": "Everton",
+      "ST": "5 - 1",
+      "team2": "Norwich City",
+      "team1_id": 48,
+      "team2_id": 263
+    },
+    {
+      "team1": "Manchester United",
+      "ST": "0 - 1",
+      "team2": "Everton",
+      "team1_id": 35,
+      "team2_id": 48
+    },
+    {
+      "team1": "Southampton",
+      "ST": "2 - 3",
+      "team2": "Aston Villa",
+      "team2_id": 40,
+      "team1_id": 45
+    },
+    {
+      "team1": "Stoke City",
+      "ST": "0 - 0",
+      "team2": "Cardiff City",
+      "team2_id": 61,
+      "team1_id": 29
+    },
+    {
+      "team1": "Sunderland",
+      "ST": "3 - 4",
+      "team2": "Chelsea",
+      "team2_id": 38,
+      "team1_id": 41
+    },
+    {
+      "team1": "Swansea City",
+      "ST": "3 - 0",
+      "team2": "Newcastle United",
+      "team2_id": 39,
+      "team1_id": 74
+    },
+    {
+      "team1": "Fulham",
+      "ST": "1 - 2",
+      "team2": "Tottenham Hotspur",
+      "team2_id": 33,
+      "team1_id": 43
+    },
+    {
+      "team1": "West Bromwich Albion",
+      "ST": "2 - 3",
+      "team2": "Manchester City",
+      "team2_id": 17,
+      "team1_id": 8
+    }
+  ],
+  "12/03": [
+    {
+      "team1": "Crystal Palace",
+      "ST": "1 - 0",
+      "team2": "West Ham United",
+      "team2_id": 37,
+      "team1_id": 7
+    }
+  ],
+  "12/01": [
+    {
+      "team1": "Tottenham Hotspur",
+      "ST": "2 - 2",
+      "team2": "Manchester United",
+      "team1_id": 33,
+      "team2_id": 35
+    },
+    {
+      "team1": "Hull City",
+      "ST": "3 - 1",
+      "team2": "Everton",
+      "team2_id": 48,
+      "team1_id": 96
+    },
+    {
+      "team1": "Chelsea",
+      "ST": "3 - 1",
+      "team2": "Southampton",
+      "team1_id": 38,
+      "team2_id": 45
+    },
+    {
+      "team1": "Manchester City",
+      "ST": "3 - 0",
+      "team2": "Swansea City",
+      "team1_id": 17,
+      "team2_id": 74
+    }
+  ],
+  "11/30": [
+    {
+      "team1": "Aston Villa",
+      "ST": "0 - 0",
+      "team2": "Sunderland",
+      "team1_id": 40,
+      "team2_id": 41
+    },
+    {
+      "team1": "Cardiff City",
+      "ST": "0 - 3",
+      "team2": "Arsenal",
+      "team2_id": 42,
+      "team1_id": 61
+    },
+    {
+      "team1": "Everton",
+      "ST": "4 - 0",
+      "team2": "Stoke City",
+      "team1_id": 48,
+      "team2_id": 29
+    },
+    {
+      "team1": "Norwich City",
+      "ST": "1 - 0",
+      "team2": "Crystal Palace",
+      "team2_id": 7,
+      "team1_id": 263
+    },
+    {
+      "team1": "West Ham United",
+      "ST": "3 - 0",
+      "team2": "Fulham",
+      "team1_id": 37,
+      "team2_id": 43
+    },
+    {
+      "team1": "Newcastle United",
+      "ST": "2 - 1",
+      "team2": "West Bromwich Albion",
+      "team1_id": 39,
+      "team2_id": 8
+    }
+  ],
+  "11/25": [
+    {
+      "team1": "West Bromwich Albion",
+      "ST": "2 - 2",
+      "team2": "Aston Villa",
+      "team2_id": 40,
+      "team1_id": 8
+    }
+  ],
+  "11/24": [
+    {
+      "team1": "Manchester City",
+      "ST": "6 - 0",
+      "team2": "Tottenham Hotspur",
+      "team2_id": 33,
+      "team1_id": 17
+    },
+    {
+      "team1": "Cardiff City",
+      "ST": "2 - 2",
+      "team2": "Manchester United",
+      "team2_id": 35,
+      "team1_id": 61
+    }
+  ],
+  "11/23": [
+    {
+      "team1": "Everton",
+      "ST": "3 - 3",
+      "team2": "Everton",
+      "team2_id": 48,
+      "team1_id": 48
+    },
+    {
+      "team1": "Arsenal",
+      "ST": "2 - 0",
+      "team2": "Southampton",
+      "team1_id": 42,
+      "team2_id": 45
+    },
+    {
+      "team1": "Fulham",
+      "ST": "1 - 2",
+      "team2": "Swansea City",
+      "team1_id": 43,
+      "team2_id": 74
+    },
+    {
+      "team1": "Hull City",
+      "ST": "0 - 1",
+      "team2": "Crystal Palace",
+      "team2_id": 7,
+      "team1_id": 96
+    },
+    {
+      "team1": "Newcastle United",
+      "ST": "2 - 1",
+      "team2": "Norwich City",
+      "team1_id": 39,
+      "team2_id": 263
+    },
+    {
+      "team1": "Stoke City",
+      "ST": "2 - 0",
+      "team2": "Sunderland",
+      "team1_id": 29,
+      "team2_id": 41
+    },
+    {
+      "team1": "West Ham United",
+      "ST": "0 - 3",
+      "team2": "Chelsea",
+      "team1_id": 37,
+      "team2_id": 38
+    }
+  ],
+  "11/10": [
+    {
+      "team1": "Tottenham Hotspur",
+      "ST": "0 - 1",
+      "team2": "Newcastle United",
+      "team1_id": 33,
+      "team2_id": 39
+    },
+    {
+      "team1": "Sunderland",
+      "ST": "1 - 0",
+      "team2": "Manchester City",
+      "team2_id": 17,
+      "team1_id": 41
+    },
+    {
+      "team1": "Manchester United",
+      "ST": "1 - 0",
+      "team2": "Arsenal",
+      "team2_id": 42,
+      "team1_id": 35
+    },
+    {
+      "team1": "Swansea City",
+      "ST": "3 - 3",
+      "team2": "Stoke City",
+      "team1_id": 74,
+      "team2_id": 29
+    }
+  ],
+  "11/09": [
+    {
+      "team1": "Aston Villa",
+      "ST": "2 - 0",
+      "team2": "Cardiff City",
+      "team1_id": 40,
+      "team2_id": 61
+    },
+    {
+      "team1": "Chelsea",
+      "ST": "2 - 2",
+      "team2": "West Bromwich Albion",
+      "team1_id": 38,
+      "team2_id": 8
+    },
+    {
+      "team1": "Crystal Palace",
+      "ST": "0 - 0",
+      "team2": "Everton",
+      "team1_id": 7,
+      "team2_id": 48
+    },
+    {
+      "team1": "Everton",
+      "ST": "4 - 0",
+      "team2": "Fulham",
+      "team1_id": 48,
+      "team2_id": 43
+    },
+    {
+      "team1": "Southampton",
+      "ST": "4 - 1",
+      "team2": "Hull City",
+      "team1_id": 45,
+      "team2_id": 96
+    },
+    {
+      "team1": "Norwich City",
+      "ST": "3 - 1",
+      "team2": "West Ham United",
+      "team2_id": 37,
+      "team1_id": 263
+    }
+  ],
+  "11/03": [
+    {
+      "team1": "Everton",
+      "ST": "0 - 0",
+      "team2": "Tottenham Hotspur",
+      "team2_id": 33,
+      "team1_id": 48
+    },
+    {
+      "team1": "Cardiff City",
+      "ST": "1 - 0",
+      "team2": "Swansea City",
+      "team1_id": 61,
+      "team2_id": 74
+    }
+  ],
+  "11/02": [
+    {
+      "team1": "Newcastle United",
+      "ST": "2 - 0",
+      "team2": "Chelsea",
+      "team2_id": 38,
+      "team1_id": 39
+    },
+    {
+      "team1": "Fulham",
+      "ST": "1 - 3",
+      "team2": "Manchester United",
+      "team2_id": 35,
+      "team1_id": 43
+    },
+    {
+      "team1": "Hull City",
+      "ST": "1 - 0",
+      "team2": "Sunderland",
+      "team1_id": 96,
+      "team2_id": 41
+    },
+    {
+      "team1": "Manchester City",
+      "ST": "6 - 0",
+      "team2": "Norwich City",
+      "team1_id": 17,
+      "team2_id": 263
+    },
+    {
+      "team1": "Stoke City",
+      "ST": "1 - 1",
+      "team2": "Southampton",
+      "team2_id": 45,
+      "team1_id": 29
+    },
+    {
+      "team1": "West Bromwich Albion",
+      "ST": "2 - 0",
+      "team2": "Crystal Palace",
+      "team2_id": 7,
+      "team1_id": 8
+    },
+    {
+      "team1": "West Ham United",
+      "ST": "0 - 0",
+      "team2": "Aston Villa",
+      "team1_id": 37,
+      "team2_id": 40
+    },
+    {
+      "team1": "Arsenal",
+      "ST": "2 - 0",
+      "team2": "Everton",
+      "team1_id": 42,
+      "team2_id": 48
+    }
+  ],
+  "10/27": [
+    {
+      "team1": "Sunderland",
+      "ST": "2 - 1",
+      "team2": "Newcastle United",
+      "team2_id": 39,
+      "team1_id": 41
+    },
+    {
+      "team1": "Chelsea",
+      "ST": "2 - 1",
+      "team2": "Manchester City",
+      "team2_id": 17,
+      "team1_id": 38
+    },
+    {
+      "team1": "Swansea City",
+      "ST": "0 - 0",
+      "team2": "West Ham United",
+      "team2_id": 37,
+      "team1_id": 74
+    },
+    {
+      "team1": "Tottenham Hotspur",
+      "ST": "1 - 0",
+      "team2": "Hull City",
+      "team1_id": 33,
+      "team2_id": 96
+    }
+  ],
+  "10/26": [
+    {
+      "team1": "Crystal Palace",
+      "ST": "0 - 2",
+      "team2": "Arsenal",
+      "team2_id": 42,
+      "team1_id": 7
+    },
+    {
+      "team1": "Aston Villa",
+      "ST": "0 - 2",
+      "team2": "Everton",
+      "team1_id": 40,
+      "team2_id": 48
+    },
+    {
+      "team1": "Everton",
+      "ST": "4 - 1",
+      "team2": "West Bromwich Albion",
+      "team1_id": 48,
+      "team2_id": 8
+    },
+    {
+      "team1": "Manchester United",
+      "ST": "3 - 2",
+      "team2": "Stoke City",
+      "team1_id": 35,
+      "team2_id": 29
+    },
+    {
+      "team1": "Norwich City",
+      "ST": "0 - 0",
+      "team2": "Cardiff City",
+      "team1_id": 263,
+      "team2_id": 61
+    },
+    {
+      "team1": "Southampton",
+      "ST": "2 - 0",
+      "team2": "Fulham",
+      "team2_id": 43,
+      "team1_id": 45
+    }
+  ],
+  "10/21": [
+    {
+      "team1": "Crystal Palace",
+      "ST": "1 - 4",
+      "team2": "Fulham",
+      "team1_id": 7,
+      "team2_id": 43
+    }
+  ],
+  "10/20": [
+    {
+      "team1": "Aston Villa",
+      "ST": "0 - 2",
+      "team2": "Tottenham Hotspur",
+      "team2_id": 33,
+      "team1_id": 40
+    }
+  ],
+  "10/19": [
+    {
+      "team1": "Newcastle United",
+      "ST": "2 - 2",
+      "team2": "Everton",
+      "team2_id": 48,
+      "team1_id": 39
+    },
+    {
+      "team1": "Arsenal",
+      "ST": "4 - 1",
+      "team2": "Norwich City",
+      "team1_id": 42,
+      "team2_id": 263
+    },
+    {
+      "team1": "Chelsea",
+      "ST": "4 - 1",
+      "team2": "Cardiff City",
+      "team1_id": 38,
+      "team2_id": 61
+    },
+    {
+      "team1": "Everton",
+      "ST": "2 - 1",
+      "team2": "Hull City",
+      "team1_id": 48,
+      "team2_id": 96
+    },
+    {
+      "team1": "Manchester United",
+      "ST": "1 - 1",
+      "team2": "Southampton",
+      "team1_id": 35,
+      "team2_id": 45
+    },
+    {
+      "team1": "Stoke City",
+      "ST": "0 - 0",
+      "team2": "West Bromwich Albion",
+      "team2_id": 8,
+      "team1_id": 29
+    },
+    {
+      "team1": "Swansea City",
+      "ST": "4 - 0",
+      "team2": "Sunderland",
+      "team1_id": 74,
+      "team2_id": 41
+    },
+    {
+      "team1": "West Ham United",
+      "ST": "1 - 3",
+      "team2": "Manchester City",
+      "team1_id": 37,
+      "team2_id": 17
+    }
+  ],
+  "10/06": [
+    {
+      "team1": "Norwich City",
+      "ST": "1 - 3",
+      "team2": "Chelsea",
+      "team2_id": 38,
+      "team1_id": 263
+    },
+    {
+      "team1": "Southampton",
+      "ST": "2 - 0",
+      "team2": "Swansea City",
+      "team1_id": 45,
+      "team2_id": 74
+    },
+    {
+      "team1": "Tottenham Hotspur",
+      "ST": "0 - 3",
+      "team2": "West Ham United",
+      "team2_id": 37,
+      "team1_id": 33
+    },
+    {
+      "team1": "West Bromwich Albion",
+      "ST": "1 - 1",
+      "team2": "Arsenal",
+      "team2_id": 42,
+      "team1_id": 8
+    }
+  ],
+  "10/05": [
+    {
+      "team1": "Manchester City",
+      "ST": "3 - 1",
+      "team2": "Everton",
+      "team1_id": 17,
+      "team2_id": 48
+    },
+    {
+      "team1": "Cardiff City",
+      "ST": "1 - 2",
+      "team2": "Newcastle United",
+      "team2_id": 39,
+      "team1_id": 61
+    },
+    {
+      "team1": "Fulham",
+      "ST": "1 - 0",
+      "team2": "Stoke City",
+      "team1_id": 43,
+      "team2_id": 29
+    },
+    {
+      "team1": "Hull City",
+      "ST": "0 - 0",
+      "team2": "Aston Villa",
+      "team2_id": 40,
+      "team1_id": 96
+    },
+    {
+      "team1": "Everton",
+      "ST": "3 - 1",
+      "team2": "Crystal Palace",
+      "team1_id": 48,
+      "team2_id": 7
+    },
+    {
+      "team1": "Sunderland",
+      "ST": "1 - 2",
+      "team2": "Manchester United",
+      "team2_id": 35,
+      "team1_id": 41
+    }
+  ],
+  "09/30": [
+    {
+      "team1": "Everton",
+      "ST": "3 - 2",
+      "team2": "Newcastle United",
+      "team2_id": 39,
+      "team1_id": 48
+    }
+  ],
+  "09/29": [
+    {
+      "team1": "Stoke City",
+      "ST": "0 - 1",
+      "team2": "Norwich City",
+      "team2_id": 263,
+      "team1_id": 29
+    },
+    {
+      "team1": "Sunderland",
+      "ST": "1 - 3",
+      "team2": "Everton",
+      "team2_id": 48,
+      "team1_id": 41
+    }
+  ],
+  "09/28": [
+    {
+      "team1": "Tottenham Hotspur",
+      "ST": "1 - 1",
+      "team2": "Chelsea",
+      "team1_id": 33,
+      "team2_id": 38
+    },
+    {
+      "team1": "Aston Villa",
+      "ST": "3 - 2",
+      "team2": "Manchester City",
+      "team2_id": 17,
+      "team1_id": 40
+    },
+    {
+      "team1": "Fulham",
+      "ST": "1 - 2",
+      "team2": "Cardiff City",
+      "team1_id": 43,
+      "team2_id": 61
+    },
+    {
+      "team1": "Hull City",
+      "ST": "1 - 0",
+      "team2": "West Ham United",
+      "team2_id": 37,
+      "team1_id": 96
+    },
+    {
+      "team1": "Manchester United",
+      "ST": "1 - 2",
+      "team2": "West Bromwich Albion",
+      "team1_id": 35,
+      "team2_id": 8
+    },
+    {
+      "team1": "Southampton",
+      "ST": "2 - 0",
+      "team2": "Crystal Palace",
+      "team2_id": 7,
+      "team1_id": 45
+    },
+    {
+      "team1": "Swansea City",
+      "ST": "1 - 2",
+      "team2": "Arsenal",
+      "team2_id": 42,
+      "team1_id": 74
+    }
+  ],
+  "09/22": [
+    {
+      "team1": "Arsenal",
+      "ST": "3 - 1",
+      "team2": "Stoke City",
+      "team1_id": 42,
+      "team2_id": 29
+    },
+    {
+      "team1": "Crystal Palace",
+      "ST": "0 - 2",
+      "team2": "Swansea City",
+      "team1_id": 7,
+      "team2_id": 74
+    },
+    {
+      "team1": "Cardiff City",
+      "ST": "0 - 1",
+      "team2": "Tottenham Hotspur",
+      "team2_id": 33,
+      "team1_id": 61
+    },
+    {
+      "team1": "Manchester City",
+      "ST": "4 - 1",
+      "team2": "Manchester United",
+      "team1_id": 17,
+      "team2_id": 35
+    }
+  ],
+  "09/21": [
+    {
+      "team1": "Norwich City",
+      "ST": "0 - 1",
+      "team2": "Aston Villa",
+      "team2_id": 40,
+      "team1_id": 263
+    },
+    {
+      "team1": "Everton",
+      "ST": "0 - 1",
+      "team2": "Southampton",
+      "team1_id": 48,
+      "team2_id": 45
+    },
+    {
+      "team1": "Newcastle United",
+      "ST": "2 - 3",
+      "team2": "Hull City",
+      "team1_id": 39,
+      "team2_id": 96
+    },
+    {
+      "team1": "West Bromwich Albion",
+      "ST": "3 - 0",
+      "team2": "Sunderland",
+      "team1_id": 8,
+      "team2_id": 41
+    },
+    {
+      "team1": "West Ham United",
+      "ST": "2 - 3",
+      "team2": "Everton",
+      "team1_id": 37,
+      "team2_id": 48
+    },
+    {
+      "team1": "Chelsea",
+      "ST": "2 - 0",
+      "team2": "Fulham",
+      "team1_id": 38,
+      "team2_id": 43
+    }
+  ],
+  "09/16": [
+    {
+      "team1": "Swansea City",
+      "ST": "2 - 2",
+      "team2": "Everton",
+      "team2_id": 48,
+      "team1_id": 74
+    }
+  ],
+  "09/15": [
+    {
+      "team1": "Southampton",
+      "ST": "0 - 0",
+      "team2": "West Ham United",
+      "team2_id": 37,
+      "team1_id": 45
+    }
+  ],
+  "09/14": [
+    {
+      "team1": "Manchester United",
+      "ST": "2 - 0",
+      "team2": "Crystal Palace",
+      "team1_id": 35,
+      "team2_id": 7
+    },
+    {
+      "team1": "Aston Villa",
+      "ST": "1 - 2",
+      "team2": "Newcastle United",
+      "team2_id": 39,
+      "team1_id": 40
+    },
+    {
+      "team1": "Fulham",
+      "ST": "1 - 1",
+      "team2": "West Bromwich Albion",
+      "team1_id": 43,
+      "team2_id": 8
+    },
+    {
+      "team1": "Hull City",
+      "ST": "1 - 1",
+      "team2": "Cardiff City",
+      "team2_id": 61,
+      "team1_id": 96
+    },
+    {
+      "team1": "Stoke City",
+      "ST": "0 - 0",
+      "team2": "Manchester City",
+      "team2_id": 17,
+      "team1_id": 29
+    },
+    {
+      "team1": "Sunderland",
+      "ST": "1 - 3",
+      "team2": "Arsenal",
+      "team2_id": 42,
+      "team1_id": 41
+    },
+    {
+      "team1": "Tottenham Hotspur",
+      "ST": "2 - 0",
+      "team2": "Norwich City",
+      "team1_id": 33,
+      "team2_id": 263
+    },
+    {
+      "team1": "Everton",
+      "ST": "1 - 0",
+      "team2": "Chelsea",
+      "team2_id": 38,
+      "team1_id": 48
+    }
+  ],
+  "09/01": [
+    {
+      "team1": "Everton",
+      "ST": "1 - 0",
+      "team2": "Manchester United",
+      "team2_id": 35,
+      "team1_id": 48
+    },
+    {
+      "team1": "West Bromwich Albion",
+      "ST": "0 - 2",
+      "team2": "Swansea City",
+      "team1_id": 8,
+      "team2_id": 74
+    },
+    {
+      "team1": "Arsenal",
+      "ST": "1 - 0",
+      "team2": "Tottenham Hotspur",
+      "team2_id": 33,
+      "team1_id": 42
+    }
+  ],
+  "08/31": [
+    {
+      "team1": "Manchester City",
+      "ST": "2 - 0",
+      "team2": "Hull City",
+      "team1_id": 17,
+      "team2_id": 96
+    },
+    {
+      "team1": "Cardiff City",
+      "ST": "0 - 0",
+      "team2": "Everton",
+      "team2_id": 48,
+      "team1_id": 61
+    },
+    {
+      "team1": "Newcastle United",
+      "ST": "1 - 0",
+      "team2": "Fulham",
+      "team2_id": 43,
+      "team1_id": 39
+    },
+    {
+      "team1": "Norwich City",
+      "ST": "1 - 0",
+      "team2": "Southampton",
+      "team2_id": 45,
+      "team1_id": 263
+    },
+    {
+      "team1": "West Ham United",
+      "ST": "0 - 1",
+      "team2": "Stoke City",
+      "team1_id": 37,
+      "team2_id": 29
+    },
+    {
+      "team1": "Crystal Palace",
+      "ST": "3 - 1",
+      "team2": "Sunderland",
+      "team1_id": 7,
+      "team2_id": 41
+    }
+  ],
+  "08/26": [
+    {
+      "team1": "Manchester United",
+      "ST": "0 - 0",
+      "team2": "Chelsea",
+      "team1_id": 35,
+      "team2_id": 38
+    }
+  ],
+  "08/25": [
+    {
+      "team1": "Cardiff City",
+      "ST": "3 - 2",
+      "team2": "Manchester City",
+      "team2_id": 17,
+      "team1_id": 61
+    },
+    {
+      "team1": "Tottenham Hotspur",
+      "ST": "1 - 0",
+      "team2": "Swansea City",
+      "team1_id": 33,
+      "team2_id": 74
+    }
+  ],
+  "08/24": [
+    {
+      "team1": "Fulham",
+      "ST": "1 - 3",
+      "team2": "Arsenal",
+      "team2_id": 42,
+      "team1_id": 43
+    },
+    {
+      "team1": "Everton",
+      "ST": "0 - 0",
+      "team2": "West Bromwich Albion",
+      "team1_id": 48,
+      "team2_id": 8
+    },
+    {
+      "team1": "Hull City",
+      "ST": "1 - 0",
+      "team2": "Norwich City",
+      "team2_id": 263,
+      "team1_id": 96
+    },
+    {
+      "team1": "Newcastle United",
+      "ST": "0 - 0",
+      "team2": "West Ham United",
+      "team2_id": 37,
+      "team1_id": 39
+    },
+    {
+      "team1": "Southampton",
+      "ST": "1 - 1",
+      "team2": "Sunderland",
+      "team1_id": 45,
+      "team2_id": 41
+    },
+    {
+      "team1": "Stoke City",
+      "ST": "2 - 1",
+      "team2": "Crystal Palace",
+      "team2_id": 7,
+      "team1_id": 29
+    },
+    {
+      "team1": "Aston Villa",
+      "ST": "0 - 1",
+      "team2": "Everton",
+      "team2_id": 48,
+      "team1_id": 40
+    }
+  ],
+  "08/21": [
+    {
+      "team1": "Chelsea",
+      "ST": "2 - 1",
+      "team2": "Aston Villa",
+      "team1_id": 38,
+      "team2_id": 40
+    }
+  ],
+  "08/19": [
+    {
+      "team1": "Manchester City",
+      "ST": "4 - 0",
+      "team2": "Newcastle United",
+      "team1_id": 17,
+      "team2_id": 39
+    }
+  ],
+  "08/18": [
+    {
+      "team1": "Crystal Palace",
+      "ST": "0 - 1",
+      "team2": "Tottenham Hotspur",
+      "team2_id": 33,
+      "team1_id": 7
+    },
+    {
+      "team1": "Chelsea",
+      "ST": "2 - 0",
+      "team2": "Hull City",
+      "team1_id": 38,
+      "team2_id": 96
+    }
+  ],
+  "08/17": [
+    {
+      "team1": "Everton",
+      "ST": "1 - 0",
+      "team2": "Stoke City",
+      "team1_id": 48,
+      "team2_id": 29
+    },
+    {
+      "team1": "Arsenal",
+      "ST": "1 - 3",
+      "team2": "Aston Villa",
+      "team1_id": 42,
+      "team2_id": 40
+    },
+    {
+      "team1": "Norwich City",
+      "ST": "2 - 2",
+      "team2": "Everton",
+      "team2_id": 48,
+      "team1_id": 263
+    },
+    {
+      "team1": "Sunderland",
+      "ST": "0 - 1",
+      "team2": "Fulham",
+      "team2_id": 43,
+      "team1_id": 41
+    },
+    {
+      "team1": "West Bromwich Albion",
+      "ST": "0 - 1",
+      "team2": "Southampton",
+      "team2_id": 45,
+      "team1_id": 8
+    },
+    {
+      "team1": "West Ham United",
+      "ST": "2 - 0",
+      "team2": "Cardiff City",
+      "team1_id": 37,
+      "team2_id": 61
+    },
+    {
+      "team1": "Swansea City",
+      "ST": "1 - 4",
+      "team2": "Manchester United",
+      "team2_id": 35,
+      "team1_id": 74
+    }
+  ]
+}

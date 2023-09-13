@@ -1,14 +1,21 @@
 import React, { useState } from "react";
 import "../CSS/Calendar.css";
 
-const Calendar = () => {
-  const [currYear, setCurrYear] = useState(new Date().getFullYear());
-  const [currMonth, setCurrMonth] = useState(new Date().getMonth());
+const Calendar = ({ setdate }) => {
+  const currentYear = new Date().getFullYear();
+  const currentMonth = new Date().getMonth();
   const [selectedDate, setSelectedDate] = useState(new Date());
-  let firstDayofMonth = new Date(currYear, currMonth, 1).getDay();
-  let lastDateofMonth = new Date(currYear, currMonth + 1, 0).getDate();
-  let lastDayofMonth = new Date(currYear, currMonth, lastDateofMonth).getDay();
-  let lastDateofLastMonth = new Date(currYear, currMonth, 0).getDate();
+  const [currYear, setCurrYear] = useState(currentYear);
+  const [currMonth, setCurrMonth] = useState(currentMonth);
+
+  const firstDayOfMonth = new Date(currYear, currMonth, 1).getDay();
+  const lastDateofMonth = new Date(currYear, currMonth + 1, 0).getDate();
+  const lastDayofMonth = new Date(
+    currYear,
+    currMonth,
+    lastDateofMonth
+  ).getDay();
+  const lastDateofLastMonth = new Date(currYear, currMonth, 0).getDate();
 
   const months = [
     "January",
@@ -24,13 +31,14 @@ const Calendar = () => {
     "November",
     "December",
   ];
+
   const generateCalendarDays = () => {
     const daysInMonth = lastDateofMonth;
     const calendarDays = [];
-    //days of the last month
 
+    // Days of the last month
     for (
-      let day = lastDateofLastMonth - firstDayofMonth + 1;
+      let day = lastDateofLastMonth - firstDayOfMonth + 1;
       day <= lastDateofLastMonth;
       day++
     ) {
@@ -38,24 +46,25 @@ const Calendar = () => {
       calendarDays.push(
         <li
           key={date}
-          className="day inactive"
+          className={`day inactive`}
           onClick={() => handleDayClick(date)}
         >
           {day}
         </li>
       );
     }
-    //days of the current month
+
+    // Days of the current month
     for (let day = 1; day <= daysInMonth; day++) {
       const date = new Date(currYear, currMonth, day);
 
       const classNames = ["day"];
 
-      if (selectedDate && date.toDateString() === selectedDate.toDateString()) {
+      if (selectedDate.toDateString() === date.toDateString()) {
         classNames.push("selected");
       }
 
-      if (date.toDateString() === new Date().toDateString()) {
+      if (new Date().toDateString() === date.toDateString()) {
         classNames.push("active");
       }
 
@@ -69,6 +78,8 @@ const Calendar = () => {
         </li>
       );
     }
+
+    // Days of the next month
     for (let day = 1; day <= 6 - lastDayofMonth; day++) {
       const date = new Date(currYear, currMonth + 1, day);
       calendarDays.push(
@@ -81,28 +92,22 @@ const Calendar = () => {
         </li>
       );
     }
+
     return calendarDays;
   };
 
   const handleDayClick = (date) => {
     setSelectedDate(date);
-    console.log(date);
+    setdate(date);
   };
-  const handlearrowClick = (id) => {
-    if (id === "prev") {
-      if (currMonth != 0) {
-        setCurrMonth(currMonth - 1);
-      } else {
-        setCurrMonth(11);
-        setCurrYear(currYear - 1);
-      }
+
+  const handleArrowClick = (direction) => {
+    if (direction === "prev") {
+      setCurrYear(currMonth > 0 ? currYear : currYear - 1);
+      setCurrMonth(currMonth > 0 ? currMonth - 1 : 11);
     } else {
-      if (currMonth != 11) {
-        setCurrMonth(currMonth + 1);
-      } else {
-        setCurrMonth(0);
-        setCurrYear(currYear + 1);
-      }
+      setCurrYear(currMonth < 11 ? currYear : currYear + 1);
+      setCurrMonth(currMonth < 11 ? currMonth + 1 : 0);
     }
   };
 
@@ -110,20 +115,20 @@ const Calendar = () => {
     <div className="wrapper">
       <header>
         <p className="current-date">
-          {months[currMonth] + "  " + currYear.toString()}
+          {months[currMonth]} {currYear}
         </p>
         <div className="icons">
           <span
             id="prev"
             className="material-symbols-rounded"
-            onClick={() => handlearrowClick("prev")}
+            onClick={() => handleArrowClick("prev")}
           >
             chevron_left
           </span>
           <span
             id="next"
             className="material-symbols-rounded"
-            onClick={() => handlearrowClick("next")}
+            onClick={() => handleArrowClick("next")}
           >
             chevron_right
           </span>

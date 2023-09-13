@@ -1,97 +1,86 @@
-import React, { useState } from "react";
+import React, { useState, useEffect, useCallback } from "react";
 import "../CSS/Footballmatch.css";
 import Matchrow from "./Matchrow";
 import StandingRows from "./StandingRows";
 
-const Footballmatch = ({ leagueid }) => {
-  const [selectedYear, setYear] = useState(new Date().getFullYear() - 1);
-  const [cond, setCond] = useState(true);
+const Footballmatch = ({ leagueid, selected_league, selectedDate }) => {
+  const [selectedYear, setYear] = useState(new Date().getFullYear());
+  const day = String(selectedDate.getDate()).padStart(2, "0");
+  const month = String(selectedDate.getMonth() + 1).padStart(2, "0");
+  const year = String(selectedDate.getFullYear());
 
-  const handleAllMatchClick = () => {
-    setCond(true);
-  };
+  const [Matches, setMatches] = useState([]);
 
-  const handleLiveGamesClick = () => {
-    setCond(false);
-  };
+  const fetchMatches = useCallback(async () => {
+    try {
+      const response = await fetch(
+        `/fixture/${month}${day}/${leagueid}/${year}`
+      );
+      if (response.ok) {
+        const jsonMatches = await response.json();
+        setMatches(jsonMatches);
+      } else {
+        console.error("Request failed with status:", response.status);
+      }
+    } catch (error) {
+      console.error("Error fetching matches:", error);
+    }
+  }, [leagueid, year, month, day]);
 
-  const matchData = [
-    {
-      team_img1: "https://api.sofascore.app/api/v1/team/2829/image",
-      name1: "Real Madrid",
-      score: "0 - 0",
-      name2: "Barselona",
-      team_img2: "https://api.sofascore.app/api/v1/team/2817/image",
-      state: "Full-Time",
-      date: "18 December 2022",
-    },
-    {
-      team_img1: "https://api.sofascore.app/api/v1/team/2829/image",
-      name1: "Real Madrid",
-      score: "0 - 0",
-      name2: "Barselona",
-      team_img2: "https://api.sofascore.app/api/v1/team/2817/image",
-      state: "Full-Time",
-      date: "18 December 2022",
-    },
-    {
-      team_img1: "https://api.sofascore.app/api/v1/team/2829/image",
-      name1: "Real Madrid",
-      score: "0 - 0",
-      name2: "Barselona",
-      team_img2: "https://api.sofascore.app/api/v1/team/2817/image",
-      state: "Full-Time",
-      date: "18 December 2022",
-    },
-    {
-      team_img1: "https://api.sofascore.app/api/v1/team/2829/image",
-      name1: "Real Madrid",
-      score: "0 - 0",
-      name2: "Barselona",
-      team_img2: "https://api.sofascore.app/api/v1/team/2817/image",
-      state: "Full-Time",
-      date: "18 December 2022",
-    },
-  ];
+  useEffect(() => {
+    fetchMatches();
+  }, [fetchMatches]);
+
   const options = [];
-  for (let year = 2022; year >= 2010; year--) {
+  for (let year = 2023; year >= 2010; year--) {
     options.push(
       <option key={year} value={year}>
         {year}/{year + 1}
       </option>
     );
   }
+
+  const matchesOfToday = () => {
+    if (Matches.length === 0) {
+      return (
+        <div className="calender">
+          <span className="material-symbols-rounded calender">event_busy</span>
+          <p>
+            <big>No matches scheduled for this date in the selected league</big>
+          </p>
+          <p>Try selecting a different date on the calendar.</p>
+        </div>
+      );
+    } else {
+      return (
+        <>
+          {Matches.map((match) => (
+            <Matchrow
+              key={match.team1_id}
+              team_img1={`https://api.sofascore.app/api/v1/team/${match.team1_id}/image`}
+              name1={match.team1}
+              score={match.ST}
+              name2={match.team2}
+              team_img2={`https://api.sofascore.app/api/v1/team/${match.team2_id}/image`}
+              state={match.state}
+              date={`${day}-${month}`}
+            />
+          ))}
+        </>
+      );
+    }
+  };
+
   return (
     <div className="footballmatches">
       <main>
+        <div className="selected-league">
+          <img src={selected_league[1]} alt={selected_league[0]} />
+          <span className="selected-league-title">{selected_league[0]}</span>
+        </div>
         <p className="container-title">⚽️ Football Match</p>
-        <ul className="options">
-          <li
-            className={cond ? "item active" : "item"}
-            onClick={handleAllMatchClick}
-          >
-            All Match
-          </li>
-          <li
-            className={cond ? "item" : "item active"}
-            onClick={handleLiveGamesClick}
-          >
-            <small>🔴</small> Live Games
-          </li>
-        </ul>
         <div className="line"></div>
-        {matchData.map((match, index) => (
-          <Matchrow
-            key={index}
-            team_img1={match.team_img1}
-            name1={match.name1}
-            score={match.score}
-            name2={match.name2}
-            team_img2={match.team_img2}
-            state={match.state}
-            date={match.date}
-          />
-        ))}
+        {matchesOfToday()}
         <div className="line"></div>
         <div className="standings">
           <p className="container-title">🏆 Standings</p>

@@ -1,0 +1,2926 @@
+{
+  "06/04": [
+    {
+      "team1": "Osasuna",
+      "ST": "2 - 1",
+      "team2": "Girona",
+      "team2_id": 24264,
+      "team1_id": 2820
+    },
+    {
+      "team1": "Real Madrid",
+      "ST": "1 - 1",
+      "team2": "Athletic Club",
+      "team1_id": 2829,
+      "team2_id": 2825
+    },
+    {
+      "team1": "Mallorca",
+      "ST": "3 - 0",
+      "team2": "Rayo Vallecano",
+      "team2_id": 2818,
+      "team1_id": 2826
+    },
+    {
+      "team1": "Real Sociedad",
+      "ST": "2 - 1",
+      "team2": "Sevilla",
+      "team1_id": 2824,
+      "team2_id": 2833
+    },
+    {
+      "team1": "Villarreal",
+      "ST": "2 - 2",
+      "team2": "Atlético Madrid",
+      "team2_id": 2836,
+      "team1_id": 2819
+    },
+    {
+      "team1": "Celta Vigo",
+      "ST": "2 - 1",
+      "team2": "Barcelona",
+      "team2_id": 2817,
+      "team1_id": 2821
+    },
+    {
+      "team1": "Elche",
+      "ST": "1 - 1",
+      "team2": "Cádiz",
+      "team2_id": 4488,
+      "team1_id": 2846
+    },
+    {
+      "team1": "Espanyol",
+      "ST": "3 - 3",
+      "team2": "Almería",
+      "team2_id": 2858,
+      "team1_id": 2814
+    },
+    {
+      "team1": "Real Betis",
+      "ST": "1 - 1",
+      "team2": "Levante UD",
+      "team2_id": 2849,
+      "team1_id": 2816
+    },
+    {
+      "team1": "Real Valladolid",
+      "ST": "0 - 0",
+      "team2": "Getafe",
+      "team2_id": 2859,
+      "team1_id": 2831
+    }
+  ],
+  "05/28": [
+    {
+      "team1": "Almería",
+      "ST": "0 - 0",
+      "team2": "Real Valladolid",
+      "team1_id": 2858,
+      "team2_id": 2831
+    },
+    {
+      "team1": "Athletic Club",
+      "ST": "0 - 1",
+      "team2": "Elche",
+      "team1_id": 2825,
+      "team2_id": 2846
+    },
+    {
+      "team1": "Atlético Madrid",
+      "ST": "2 - 1",
+      "team2": "Real Sociedad",
+      "team1_id": 2836,
+      "team2_id": 2824
+    },
+    {
+      "team1": "Barcelona",
+      "ST": "3 - 0",
+      "team2": "Mallorca",
+      "team1_id": 2817,
+      "team2_id": 2826
+    },
+    {
+      "team1": "Cádiz",
+      "ST": "1 - 0",
+      "team2": "Celta Vigo",
+      "team1_id": 4488,
+      "team2_id": 2821
+    },
+    {
+      "team1": "Getafe",
+      "ST": "2 - 1",
+      "team2": "Osasuna",
+      "team2_id": 2820,
+      "team1_id": 2859
+    },
+    {
+      "team1": "Girona",
+      "ST": "1 - 2",
+      "team2": "Real Betis",
+      "team1_id": 24264,
+      "team2_id": 2816
+    },
+    {
+      "team1": "Rayo Vallecano",
+      "ST": "2 - 1",
+      "team2": "Villarreal",
+      "team1_id": 2818,
+      "team2_id": 2819
+    },
+    {
+      "team1": "Levante UD",
+      "ST": "2 - 2",
+      "team2": "Espanyol",
+      "team1_id": 2849,
+      "team2_id": 2814
+    }
+  ],
+  "05/27": [
+    {
+      "team1": "Sevilla",
+      "ST": "1 - 2",
+      "team2": "Real Madrid",
+      "team2_id": 2829,
+      "team1_id": 2833
+    }
+  ],
+  "05/25": [
+    {
+      "team1": "Mallorca",
+      "ST": "1 - 0",
+      "team2": "Levante UD",
+      "team2_id": 2849,
+      "team1_id": 2826
+    },
+    {
+      "team1": "Osasuna",
+      "ST": "2 - 0",
+      "team2": "Athletic Club",
+      "team2_id": 2825,
+      "team1_id": 2820
+    }
+  ],
+  "05/24": [
+    {
+      "team1": "Elche",
+      "ST": "1 - 1",
+      "team2": "Sevilla",
+      "team2_id": 2833,
+      "team1_id": 2846
+    },
+    {
+      "team1": "Real Madrid",
+      "ST": "2 - 1",
+      "team2": "Rayo Vallecano",
+      "team1_id": 2829,
+      "team2_id": 2818
+    },
+    {
+      "team1": "Villarreal",
+      "ST": "2 - 0",
+      "team2": "Cádiz",
+      "team2_id": 4488,
+      "team1_id": 2819
+    },
+    {
+      "team1": "Espanyol",
+      "ST": "3 - 3",
+      "team2": "Atlético Madrid",
+      "team2_id": 2836,
+      "team1_id": 2814
+    },
+    {
+      "team1": "Real Betis",
+      "ST": "0 - 1",
+      "team2": "Getafe",
+      "team1_id": 2816,
+      "team2_id": 2859
+    }
+  ],
+  "05/23": [
+    {
+      "team1": "Celta Vigo",
+      "ST": "1 - 1",
+      "team2": "Girona",
+      "team2_id": 24264,
+      "team1_id": 2821
+    },
+    {
+      "team1": "Real Sociedad",
+      "ST": "1 - 0",
+      "team2": "Almería",
+      "team1_id": 2824,
+      "team2_id": 2858
+    },
+    {
+      "team1": "Real Valladolid",
+      "ST": "3 - 1",
+      "team2": "Barcelona",
+      "team2_id": 2817,
+      "team1_id": 2831
+    }
+  ],
+  "05/21": [
+    {
+      "team1": "Rayo Vallecano",
+      "ST": "1 - 2",
+      "team2": "Espanyol",
+      "team1_id": 2818,
+      "team2_id": 2814
+    },
+    {
+      "team1": "Atlético Madrid",
+      "ST": "3 - 0",
+      "team2": "Osasuna",
+      "team1_id": 2836,
+      "team2_id": 2820
+    },
+    {
+      "team1": "Levante UD",
+      "ST": "1 - 0",
+      "team2": "Real Madrid",
+      "team2_id": 2829,
+      "team1_id": 2849
+    },
+    {
+      "team1": "Sevilla",
+      "ST": "0 - 0",
+      "team2": "Real Betis",
+      "team2_id": 2816,
+      "team1_id": 2833
+    }
+  ],
+  "05/20": [
+    {
+      "team1": "Girona",
+      "ST": "1 - 2",
+      "team2": "Villarreal",
+      "team1_id": 24264,
+      "team2_id": 2819
+    },
+    {
+      "team1": "Athletic Club",
+      "ST": "2 - 1",
+      "team2": "Celta Vigo",
+      "team1_id": 2825,
+      "team2_id": 2821
+    },
+    {
+      "team1": "Almería",
+      "ST": "3 - 0",
+      "team2": "Mallorca",
+      "team2_id": 2826,
+      "team1_id": 2858
+    },
+    {
+      "team1": "Getafe",
+      "ST": "1 - 1",
+      "team2": "Elche",
+      "team1_id": 2859,
+      "team2_id": 2846
+    },
+    {
+      "team1": "Barcelona",
+      "ST": "1 - 2",
+      "team2": "Real Sociedad",
+      "team1_id": 2817,
+      "team2_id": 2824
+    }
+  ],
+  "05/19": [
+    {
+      "team1": "Cádiz",
+      "ST": "2 - 0",
+      "team2": "Real Valladolid",
+      "team1_id": 4488,
+      "team2_id": 2831
+    }
+  ],
+  "05/15": [
+    {
+      "team1": "Real Betis",
+      "ST": "3 - 1",
+      "team2": "Rayo Vallecano",
+      "team2_id": 2818,
+      "team1_id": 2816
+    }
+  ],
+  "05/14": [
+    {
+      "team1": "Celta Vigo",
+      "ST": "1 - 2",
+      "team2": "Levante UD",
+      "team2_id": 2849,
+      "team1_id": 2821
+    },
+    {
+      "team1": "Elche",
+      "ST": "1 - 0",
+      "team2": "Atlético Madrid",
+      "team2_id": 2836,
+      "team1_id": 2846
+    },
+    {
+      "team1": "Real Valladolid",
+      "ST": "0 - 3",
+      "team2": "Sevilla",
+      "team2_id": 2833,
+      "team1_id": 2831
+    },
+    {
+      "team1": "Espanyol",
+      "ST": "2 - 4",
+      "team2": "Barcelona",
+      "team2_id": 2817,
+      "team1_id": 2814
+    }
+  ],
+  "05/13": [
+    {
+      "team1": "Real Sociedad",
+      "ST": "2 - 2",
+      "team2": "Girona",
+      "team2_id": 24264,
+      "team1_id": 2824
+    },
+    {
+      "team1": "Osasuna",
+      "ST": "3 - 1",
+      "team2": "Almería",
+      "team1_id": 2820,
+      "team2_id": 2858
+    },
+    {
+      "team1": "Villarreal",
+      "ST": "5 - 1",
+      "team2": "Athletic Club",
+      "team2_id": 2825,
+      "team1_id": 2819
+    },
+    {
+      "team1": "Real Madrid",
+      "ST": "1 - 0",
+      "team2": "Getafe",
+      "team1_id": 2829,
+      "team2_id": 2859
+    }
+  ],
+  "05/12": [
+    {
+      "team1": "Mallorca",
+      "ST": "1 - 0",
+      "team2": "Cádiz",
+      "team2_id": 4488,
+      "team1_id": 2826
+    }
+  ],
+  "05/04": [
+    {
+      "team1": "Girona",
+      "ST": "2 - 1",
+      "team2": "Mallorca",
+      "team1_id": 24264,
+      "team2_id": 2826
+    },
+    {
+      "team1": "Sevilla",
+      "ST": "3 - 2",
+      "team2": "Espanyol",
+      "team1_id": 2833,
+      "team2_id": 2814
+    },
+    {
+      "team1": "Athletic Club",
+      "ST": "0 - 1",
+      "team2": "Real Betis",
+      "team2_id": 2816,
+      "team1_id": 2825
+    },
+    {
+      "team1": "Rayo Vallecano",
+      "ST": "2 - 1",
+      "team2": "Real Valladolid",
+      "team1_id": 2818,
+      "team2_id": 2831
+    }
+  ],
+  "05/03": [
+    {
+      "team1": "Levante UD",
+      "ST": "1 - 1",
+      "team2": "Villarreal",
+      "team1_id": 2849,
+      "team2_id": 2819
+    },
+    {
+      "team1": "Atlético Madrid",
+      "ST": "5 - 1",
+      "team2": "Cádiz",
+      "team1_id": 2836,
+      "team2_id": 4488
+    },
+    {
+      "team1": "Getafe",
+      "ST": "1 - 0",
+      "team2": "Celta Vigo",
+      "team2_id": 2821,
+      "team1_id": 2859
+    }
+  ],
+  "05/02": [
+    {
+      "team1": "Almería",
+      "ST": "2 - 1",
+      "team2": "Elche",
+      "team1_id": 2858,
+      "team2_id": 2846
+    },
+    {
+      "team1": "Barcelona",
+      "ST": "1 - 0",
+      "team2": "Osasuna",
+      "team1_id": 2817,
+      "team2_id": 2820
+    },
+    {
+      "team1": "Real Sociedad",
+      "ST": "2 - 0",
+      "team2": "Real Madrid",
+      "team2_id": 2829,
+      "team1_id": 2824
+    }
+  ],
+  "05/01": [
+    {
+      "team1": "Mallorca",
+      "ST": "1 - 1",
+      "team2": "Athletic Club",
+      "team2_id": 2825,
+      "team1_id": 2826
+    },
+    {
+      "team1": "Sevilla",
+      "ST": "0 - 2",
+      "team2": "Girona",
+      "team2_id": 24264,
+      "team1_id": 2833
+    }
+  ],
+  "04/30": [
+    {
+      "team1": "Cádiz",
+      "ST": "2 - 1",
+      "team2": "Levante UD",
+      "team2_id": 2849,
+      "team1_id": 4488
+    },
+    {
+      "team1": "Villarreal",
+      "ST": "3 - 1",
+      "team2": "Celta Vigo",
+      "team1_id": 2819,
+      "team2_id": 2821
+    },
+    {
+      "team1": "Espanyol",
+      "ST": "1 - 0",
+      "team2": "Getafe",
+      "team2_id": 2859,
+      "team1_id": 2814
+    },
+    {
+      "team1": "Real Valladolid",
+      "ST": "2 - 5",
+      "team2": "Atlético Madrid",
+      "team2_id": 2836,
+      "team1_id": 2831
+    }
+  ],
+  "04/29": [
+    {
+      "team1": "Elche",
+      "ST": "4 - 0",
+      "team2": "Rayo Vallecano",
+      "team2_id": 2818,
+      "team1_id": 2846
+    },
+    {
+      "team1": "Real Madrid",
+      "ST": "4 - 2",
+      "team2": "Almería",
+      "team1_id": 2829,
+      "team2_id": 2858
+    },
+    {
+      "team1": "Barcelona",
+      "ST": "4 - 0",
+      "team2": "Real Betis",
+      "team1_id": 2817,
+      "team2_id": 2816
+    }
+  ],
+  "04/28": [
+    {
+      "team1": "Osasuna",
+      "ST": "0 - 2",
+      "team2": "Real Sociedad",
+      "team1_id": 2820,
+      "team2_id": 2824
+    }
+  ],
+  "04/27": [
+    {
+      "team1": "Levante UD",
+      "ST": "2 - 1",
+      "team2": "Real Valladolid",
+      "team1_id": 2849,
+      "team2_id": 2831
+    },
+    {
+      "team1": "Villarreal",
+      "ST": "4 - 2",
+      "team2": "Espanyol",
+      "team1_id": 2819,
+      "team2_id": 2814
+    },
+    {
+      "team1": "Athletic Club",
+      "ST": "0 - 1",
+      "team2": "Sevilla",
+      "team1_id": 2825,
+      "team2_id": 2833
+    }
+  ],
+  "04/26": [
+    {
+      "team1": "Atlético Madrid",
+      "ST": "3 - 1",
+      "team2": "Mallorca",
+      "team1_id": 2836,
+      "team2_id": 2826
+    },
+    {
+      "team1": "Getafe",
+      "ST": "1 - 2",
+      "team2": "Almería",
+      "team1_id": 2859,
+      "team2_id": 2858
+    },
+    {
+      "team1": "Celta Vigo",
+      "ST": "1 - 0",
+      "team2": "Elche",
+      "team1_id": 2821,
+      "team2_id": 2846
+    },
+    {
+      "team1": "Rayo Vallecano",
+      "ST": "2 - 1",
+      "team2": "Barcelona",
+      "team1_id": 2818,
+      "team2_id": 2817
+    }
+  ],
+  "04/25": [
+    {
+      "team1": "Cádiz",
+      "ST": "0 - 1",
+      "team2": "Osasuna",
+      "team1_id": 4488,
+      "team2_id": 2820
+    },
+    {
+      "team1": "Girona",
+      "ST": "4 - 2",
+      "team2": "Real Madrid",
+      "team2_id": 2829,
+      "team1_id": 24264
+    },
+    {
+      "team1": "Real Betis",
+      "ST": "0 - 0",
+      "team2": "Real Sociedad",
+      "team1_id": 2816,
+      "team2_id": 2824
+    }
+  ],
+  "04/23": [
+    {
+      "team1": "Elche",
+      "ST": "0 - 2",
+      "team2": "Levante UD",
+      "team2_id": 2849,
+      "team1_id": 2846
+    },
+    {
+      "team1": "Barcelona",
+      "ST": "1 - 0",
+      "team2": "Atlético Madrid",
+      "team2_id": 2836,
+      "team1_id": 2817
+    },
+    {
+      "team1": "Mallorca",
+      "ST": "3 - 1",
+      "team2": "Getafe",
+      "team1_id": 2826,
+      "team2_id": 2859
+    },
+    {
+      "team1": "Sevilla",
+      "ST": "2 - 1",
+      "team2": "Villarreal",
+      "team2_id": 2819,
+      "team1_id": 2833
+    }
+  ],
+  "04/22": [
+    {
+      "team1": "Osasuna",
+      "ST": "3 - 2",
+      "team2": "Real Betis",
+      "team2_id": 2816,
+      "team1_id": 2820
+    },
+    {
+      "team1": "Almería",
+      "ST": "1 - 2",
+      "team2": "Athletic Club",
+      "team2_id": 2825,
+      "team1_id": 2858
+    },
+    {
+      "team1": "Real Sociedad",
+      "ST": "2 - 1",
+      "team2": "Rayo Vallecano",
+      "team2_id": 2818,
+      "team1_id": 2824
+    },
+    {
+      "team1": "Real Valladolid",
+      "ST": "1 - 0",
+      "team2": "Girona",
+      "team2_id": 24264,
+      "team1_id": 2831
+    },
+    {
+      "team1": "Real Madrid",
+      "ST": "2 - 0",
+      "team2": "Celta Vigo",
+      "team1_id": 2829,
+      "team2_id": 2821
+    }
+  ],
+  "04/21": [
+    {
+      "team1": "Espanyol",
+      "ST": "0 - 0",
+      "team2": "Cádiz",
+      "team2_id": 4488,
+      "team1_id": 2814
+    }
+  ],
+  "04/17": [
+    {
+      "team1": "Celta Vigo",
+      "ST": "0 - 1",
+      "team2": "Mallorca",
+      "team2_id": 2826,
+      "team1_id": 2821
+    }
+  ],
+  "04/16": [
+    {
+      "team1": "Girona",
+      "ST": "2 - 0",
+      "team2": "Elche",
+      "team1_id": 24264,
+      "team2_id": 2846
+    },
+    {
+      "team1": "Getafe",
+      "ST": "0 - 0",
+      "team2": "Barcelona",
+      "team2_id": 2817,
+      "team1_id": 2859
+    },
+    {
+      "team1": "Atlético Madrid",
+      "ST": "2 - 1",
+      "team2": "Almería",
+      "team1_id": 2836,
+      "team2_id": 2858
+    },
+    {
+      "team1": "Levante UD",
+      "ST": "0 - 2",
+      "team2": "Sevilla",
+      "team1_id": 2849,
+      "team2_id": 2833
+    }
+  ],
+  "04/15": [
+    {
+      "team1": "Villarreal",
+      "ST": "1 - 2",
+      "team2": "Real Valladolid",
+      "team1_id": 2819,
+      "team2_id": 2831
+    },
+    {
+      "team1": "Athletic Club",
+      "ST": "2 - 0",
+      "team2": "Real Sociedad",
+      "team1_id": 2825,
+      "team2_id": 2824
+    },
+    {
+      "team1": "Real Betis",
+      "ST": "3 - 1",
+      "team2": "Espanyol",
+      "team1_id": 2816,
+      "team2_id": 2814
+    },
+    {
+      "team1": "Cádiz",
+      "ST": "0 - 2",
+      "team2": "Real Madrid",
+      "team2_id": 2829,
+      "team1_id": 4488
+    }
+  ],
+  "04/14": [
+    {
+      "team1": "Rayo Vallecano",
+      "ST": "2 - 1",
+      "team2": "Osasuna",
+      "team1_id": 2818,
+      "team2_id": 2820
+    }
+  ],
+  "04/10": [
+    {
+      "team1": "Barcelona",
+      "ST": "0 - 0",
+      "team2": "Girona",
+      "team2_id": 24264,
+      "team1_id": 2817
+    }
+  ],
+  "04/09": [
+    {
+      "team1": "Real Valladolid",
+      "ST": "3 - 3",
+      "team2": "Mallorca",
+      "team2_id": 2826,
+      "team1_id": 2831
+    },
+    {
+      "team1": "Real Betis",
+      "ST": "0 - 2",
+      "team2": "Cádiz",
+      "team1_id": 2816,
+      "team2_id": 4488
+    },
+    {
+      "team1": "Almería",
+      "ST": "2 - 1",
+      "team2": "Levante UD",
+      "team2_id": 2849,
+      "team1_id": 2858
+    },
+    {
+      "team1": "Rayo Vallecano",
+      "ST": "1 - 2",
+      "team2": "Atlético Madrid",
+      "team1_id": 2818,
+      "team2_id": 2836
+    }
+  ],
+  "04/08": [
+    {
+      "team1": "Osasuna",
+      "ST": "2 - 1",
+      "team2": "Elche",
+      "team1_id": 2820,
+      "team2_id": 2846
+    },
+    {
+      "team1": "Espanyol",
+      "ST": "1 - 2",
+      "team2": "Athletic Club",
+      "team2_id": 2825,
+      "team1_id": 2814
+    },
+    {
+      "team1": "Real Sociedad",
+      "ST": "2 - 0",
+      "team2": "Getafe",
+      "team1_id": 2824,
+      "team2_id": 2859
+    },
+    {
+      "team1": "Real Madrid",
+      "ST": "2 - 3",
+      "team2": "Villarreal",
+      "team1_id": 2829,
+      "team2_id": 2819
+    }
+  ],
+  "04/07": [
+    {
+      "team1": "Sevilla",
+      "ST": "2 - 2",
+      "team2": "Celta Vigo",
+      "team2_id": 2821,
+      "team1_id": 2833
+    }
+  ],
+  "04/03": [
+    {
+      "team1": "Levante UD",
+      "ST": "1 - 1",
+      "team2": "Rayo Vallecano",
+      "team2_id": 2818,
+      "team1_id": 2849
+    }
+  ],
+  "04/02": [
+    {
+      "team1": "Celta Vigo",
+      "ST": "2 - 2",
+      "team2": "Almería",
+      "team1_id": 2821,
+      "team2_id": 2858
+    },
+    {
+      "team1": "Real Madrid",
+      "ST": "6 - 0",
+      "team2": "Real Valladolid",
+      "team1_id": 2829,
+      "team2_id": 2831
+    },
+    {
+      "team1": "Villarreal",
+      "ST": "2 - 0",
+      "team2": "Real Sociedad",
+      "team1_id": 2819,
+      "team2_id": 2824
+    },
+    {
+      "team1": "Atlético Madrid",
+      "ST": "1 - 0",
+      "team2": "Real Betis",
+      "team1_id": 2836,
+      "team2_id": 2816
+    }
+  ],
+  "04/01": [
+    {
+      "team1": "Girona",
+      "ST": "2 - 1",
+      "team2": "Espanyol",
+      "team1_id": 24264,
+      "team2_id": 2814
+    },
+    {
+      "team1": "Athletic Club",
+      "ST": "0 - 0",
+      "team2": "Getafe",
+      "team1_id": 2825,
+      "team2_id": 2859
+    },
+    {
+      "team1": "Cádiz",
+      "ST": "0 - 2",
+      "team2": "Sevilla",
+      "team1_id": 4488,
+      "team2_id": 2833
+    },
+    {
+      "team1": "Elche",
+      "ST": "0 - 4",
+      "team2": "Barcelona",
+      "team2_id": 2817,
+      "team1_id": 2846
+    }
+  ],
+  "03/31": [
+    {
+      "team1": "Mallorca",
+      "ST": "0 - 0",
+      "team2": "Osasuna",
+      "team2_id": 2820,
+      "team1_id": 2826
+    }
+  ],
+  "03/19": [
+    {
+      "team1": "Real Betis",
+      "ST": "1 - 0",
+      "team2": "Mallorca",
+      "team1_id": 2816,
+      "team2_id": 2826
+    },
+    {
+      "team1": "Osasuna",
+      "ST": "0 - 3",
+      "team2": "Villarreal",
+      "team1_id": 2820,
+      "team2_id": 2819
+    },
+    {
+      "team1": "Real Sociedad",
+      "ST": "2 - 0",
+      "team2": "Elche",
+      "team1_id": 2824,
+      "team2_id": 2846
+    },
+    {
+      "team1": "Getafe",
+      "ST": "2 - 0",
+      "team2": "Sevilla",
+      "team1_id": 2859,
+      "team2_id": 2833
+    },
+    {
+      "team1": "Barcelona",
+      "ST": "2 - 1",
+      "team2": "Real Madrid",
+      "team2_id": 2829,
+      "team1_id": 2817
+    }
+  ],
+  "03/18": [
+    {
+      "team1": "Almería",
+      "ST": "1 - 1",
+      "team2": "Cádiz",
+      "team2_id": 4488,
+      "team1_id": 2858
+    },
+    {
+      "team1": "Rayo Vallecano",
+      "ST": "2 - 2",
+      "team2": "Girona",
+      "team1_id": 2818,
+      "team2_id": 24264
+    },
+    {
+      "team1": "Espanyol",
+      "ST": "1 - 3",
+      "team2": "Celta Vigo",
+      "team2_id": 2821,
+      "team1_id": 2814
+    },
+    {
+      "team1": "Atlético Madrid",
+      "ST": "3 - 0",
+      "team2": "Levante UD",
+      "team2_id": 2849,
+      "team1_id": 2836
+    }
+  ],
+  "03/17": [
+    {
+      "team1": "Real Valladolid",
+      "ST": "1 - 3",
+      "team2": "Athletic Club",
+      "team2_id": 2825,
+      "team1_id": 2831
+    }
+  ],
+  "03/13": [
+    {
+      "team1": "Girona",
+      "ST": "0 - 1",
+      "team2": "Atlético Madrid",
+      "team1_id": 24264,
+      "team2_id": 2836
+    }
+  ],
+  "03/12": [
+    {
+      "team1": "Mallorca",
+      "ST": "1 - 1",
+      "team2": "Real Sociedad",
+      "team2_id": 2824,
+      "team1_id": 2826
+    },
+    {
+      "team1": "Sevilla",
+      "ST": "2 - 1",
+      "team2": "Almería",
+      "team2_id": 2858,
+      "team1_id": 2833
+    },
+    {
+      "team1": "Villarreal",
+      "ST": "1 - 1",
+      "team2": "Real Betis",
+      "team2_id": 2816,
+      "team1_id": 2819
+    },
+    {
+      "team1": "Athletic Club",
+      "ST": "0 - 1",
+      "team2": "Barcelona",
+      "team2_id": 2817,
+      "team1_id": 2825
+    }
+  ],
+  "03/11": [
+    {
+      "team1": "Real Madrid",
+      "ST": "3 - 1",
+      "team2": "Espanyol",
+      "team1_id": 2829,
+      "team2_id": 2814
+    },
+    {
+      "team1": "Elche",
+      "ST": "1 - 1",
+      "team2": "Real Valladolid",
+      "team2_id": 2831,
+      "team1_id": 2846
+    },
+    {
+      "team1": "Celta Vigo",
+      "ST": "3 - 0",
+      "team2": "Rayo Vallecano",
+      "team2_id": 2818,
+      "team1_id": 2821
+    },
+    {
+      "team1": "Levante UD",
+      "ST": "1 - 0",
+      "team2": "Osasuna",
+      "team1_id": 2849,
+      "team2_id": 2820
+    }
+  ],
+  "03/10": [
+    {
+      "team1": "Cádiz",
+      "ST": "2 - 2",
+      "team2": "Getafe",
+      "team1_id": 4488,
+      "team2_id": 2859
+    }
+  ],
+  "03/06": [
+    {
+      "team1": "Osasuna",
+      "ST": "0 - 0",
+      "team2": "Celta Vigo",
+      "team1_id": 2820,
+      "team2_id": 2821
+    }
+  ],
+  "03/05": [
+    {
+      "team1": "Real Valladolid",
+      "ST": "2 - 1",
+      "team2": "Espanyol",
+      "team1_id": 2831,
+      "team2_id": 2814
+    },
+    {
+      "team1": "Barcelona",
+      "ST": "1 - 0",
+      "team2": "Levante UD",
+      "team2_id": 2849,
+      "team1_id": 2817
+    },
+    {
+      "team1": "Rayo Vallecano",
+      "ST": "0 - 0",
+      "team2": "Athletic Club",
+      "team1_id": 2818,
+      "team2_id": 2825
+    },
+    {
+      "team1": "Real Betis",
+      "ST": "0 - 0",
+      "team2": "Real Madrid",
+      "team2_id": 2829,
+      "team1_id": 2816
+    }
+  ],
+  "03/04": [
+    {
+      "team1": "Getafe",
+      "ST": "3 - 2",
+      "team2": "Girona",
+      "team2_id": 24264,
+      "team1_id": 2859
+    },
+    {
+      "team1": "Almería",
+      "ST": "0 - 2",
+      "team2": "Villarreal",
+      "team2_id": 2819,
+      "team1_id": 2858
+    },
+    {
+      "team1": "Mallorca",
+      "ST": "0 - 1",
+      "team2": "Elche",
+      "team1_id": 2826,
+      "team2_id": 2846
+    },
+    {
+      "team1": "Atlético Madrid",
+      "ST": "6 - 1",
+      "team2": "Sevilla",
+      "team1_id": 2836,
+      "team2_id": 2833
+    }
+  ],
+  "03/03": [
+    {
+      "team1": "Real Sociedad",
+      "ST": "0 - 0",
+      "team2": "Cádiz",
+      "team2_id": 4488,
+      "team1_id": 2824
+    }
+  ],
+  "02/27": [
+    {
+      "team1": "Villarreal",
+      "ST": "2 - 1",
+      "team2": "Getafe",
+      "team1_id": 2819,
+      "team2_id": 2859
+    }
+  ],
+  "02/26": [
+    {
+      "team1": "Athletic Club",
+      "ST": "2 - 3",
+      "team2": "Girona",
+      "team2_id": 24264,
+      "team1_id": 2825
+    },
+    {
+      "team1": "Celta Vigo",
+      "ST": "3 - 0",
+      "team2": "Real Valladolid",
+      "team1_id": 2821,
+      "team2_id": 2831
+    },
+    {
+      "team1": "Almería",
+      "ST": "1 - 0",
+      "team2": "Barcelona",
+      "team2_id": 2817,
+      "team1_id": 2858
+    },
+    {
+      "team1": "Sevilla",
+      "ST": "2 - 3",
+      "team2": "Osasuna",
+      "team2_id": 2820,
+      "team1_id": 2833
+    }
+  ],
+  "02/25": [
+    {
+      "team1": "Espanyol",
+      "ST": "2 - 1",
+      "team2": "Mallorca",
+      "team2_id": 2826,
+      "team1_id": 2814
+    },
+    {
+      "team1": "Cádiz",
+      "ST": "1 - 0",
+      "team2": "Rayo Vallecano",
+      "team2_id": 2818,
+      "team1_id": 4488
+    },
+    {
+      "team1": "Real Madrid",
+      "ST": "1 - 1",
+      "team2": "Atlético Madrid",
+      "team1_id": 2829,
+      "team2_id": 2836
+    },
+    {
+      "team1": "Levante UD",
+      "ST": "1 - 0",
+      "team2": "Real Sociedad",
+      "team1_id": 2849,
+      "team2_id": 2824
+    }
+  ],
+  "02/24": [
+    {
+      "team1": "Elche",
+      "ST": "2 - 3",
+      "team2": "Real Betis",
+      "team2_id": 2816,
+      "team1_id": 2846
+    }
+  ],
+  "02/20": [
+    {
+      "team1": "Getafe",
+      "ST": "1 - 0",
+      "team2": "Levante UD",
+      "team2_id": 2849,
+      "team1_id": 2859
+    }
+  ],
+  "02/19": [
+    {
+      "team1": "Elche",
+      "ST": "0 - 1",
+      "team2": "Espanyol",
+      "team2_id": 2814,
+      "team1_id": 2846
+    },
+    {
+      "team1": "Rayo Vallecano",
+      "ST": "1 - 1",
+      "team2": "Sevilla",
+      "team1_id": 2818,
+      "team2_id": 2833
+    },
+    {
+      "team1": "Atlético Madrid",
+      "ST": "1 - 0",
+      "team2": "Athletic Club",
+      "team1_id": 2836,
+      "team2_id": 2825
+    },
+    {
+      "team1": "Barcelona",
+      "ST": "2 - 0",
+      "team2": "Cádiz",
+      "team1_id": 2817,
+      "team2_id": 4488
+    }
+  ],
+  "02/18": [
+    {
+      "team1": "Real Sociedad",
+      "ST": "1 - 1",
+      "team2": "Celta Vigo",
+      "team1_id": 2824,
+      "team2_id": 2821
+    },
+    {
+      "team1": "Real Betis",
+      "ST": "2 - 1",
+      "team2": "Real Valladolid",
+      "team1_id": 2816,
+      "team2_id": 2831
+    },
+    {
+      "team1": "Osasuna",
+      "ST": "0 - 2",
+      "team2": "Real Madrid",
+      "team2_id": 2829,
+      "team1_id": 2820
+    }
+  ],
+  "02/17": [
+    {
+      "team1": "Girona",
+      "ST": "6 - 2",
+      "team2": "Almería",
+      "team1_id": 24264,
+      "team2_id": 2858
+    }
+  ],
+  "02/15": [
+    {
+      "team1": "Real Madrid",
+      "ST": "4 - 0",
+      "team2": "Elche",
+      "team1_id": 2829,
+      "team2_id": 2846
+    }
+  ],
+  "02/13": [
+    {
+      "team1": "Espanyol",
+      "ST": "2 - 3",
+      "team2": "Real Sociedad",
+      "team2_id": 2824,
+      "team1_id": 2814
+    }
+  ],
+  "02/12": [
+    {
+      "team1": "Getafe",
+      "ST": "1 - 1",
+      "team2": "Rayo Vallecano",
+      "team2_id": 2818,
+      "team1_id": 2859
+    },
+    {
+      "team1": "Celta Vigo",
+      "ST": "0 - 1",
+      "team2": "Atlético Madrid",
+      "team2_id": 2836,
+      "team1_id": 2821
+    },
+    {
+      "team1": "Real Valladolid",
+      "ST": "0 - 0",
+      "team2": "Osasuna",
+      "team2_id": 2820,
+      "team1_id": 2831
+    },
+    {
+      "team1": "Villarreal",
+      "ST": "0 - 1",
+      "team2": "Barcelona",
+      "team2_id": 2817,
+      "team1_id": 2819
+    }
+  ],
+  "02/11": [
+    {
+      "team1": "Almería",
+      "ST": "2 - 3",
+      "team2": "Real Betis",
+      "team2_id": 2816,
+      "team1_id": 2858
+    },
+    {
+      "team1": "Sevilla",
+      "ST": "2 - 0",
+      "team2": "Mallorca",
+      "team2_id": 2826,
+      "team1_id": 2833
+    },
+    {
+      "team1": "Levante UD",
+      "ST": "1 - 2",
+      "team2": "Athletic Club",
+      "team1_id": 2849,
+      "team2_id": 2825
+    }
+  ],
+  "02/10": [
+    {
+      "team1": "Cádiz",
+      "ST": "2 - 0",
+      "team2": "Girona",
+      "team2_id": 24264,
+      "team1_id": 4488
+    }
+  ],
+  "02/06": [
+    {
+      "team1": "Rayo Vallecano",
+      "ST": "2 - 0",
+      "team2": "Almería",
+      "team1_id": 2818,
+      "team2_id": 2858
+    }
+  ],
+  "02/05": [
+    {
+      "team1": "Mallorca",
+      "ST": "1 - 0",
+      "team2": "Real Madrid",
+      "team2_id": 2829,
+      "team1_id": 2826
+    },
+    {
+      "team1": "Girona",
+      "ST": "1 - 0",
+      "team2": "Levante UD",
+      "team2_id": 2849,
+      "team1_id": 24264
+    },
+    {
+      "team1": "Real Sociedad",
+      "ST": "0 - 1",
+      "team2": "Real Valladolid",
+      "team1_id": 2824,
+      "team2_id": 2831
+    },
+    {
+      "team1": "Barcelona",
+      "ST": "3 - 0",
+      "team2": "Sevilla",
+      "team1_id": 2817,
+      "team2_id": 2833
+    }
+  ],
+  "02/04": [
+    {
+      "team1": "Espanyol",
+      "ST": "1 - 1",
+      "team2": "Osasuna",
+      "team2_id": 2820,
+      "team1_id": 2814
+    },
+    {
+      "team1": "Elche",
+      "ST": "3 - 1",
+      "team2": "Villarreal",
+      "team2_id": 2819,
+      "team1_id": 2846
+    },
+    {
+      "team1": "Atlético Madrid",
+      "ST": "1 - 1",
+      "team2": "Getafe",
+      "team1_id": 2836,
+      "team2_id": 2859
+    },
+    {
+      "team1": "Real Betis",
+      "ST": "3 - 4",
+      "team2": "Celta Vigo",
+      "team1_id": 2816,
+      "team2_id": 2821
+    }
+  ],
+  "02/03": [
+    {
+      "team1": "Athletic Club",
+      "ST": "4 - 1",
+      "team2": "Cádiz",
+      "team2_id": 4488,
+      "team1_id": 2825
+    }
+  ],
+  "02/02": [
+    {
+      "team1": "Real Madrid",
+      "ST": "2 - 0",
+      "team2": "Levante UD",
+      "team1_id": 2829,
+      "team2_id": 2849
+    }
+  ],
+  "02/01": [
+    {
+      "team1": "Real Betis",
+      "ST": "1 - 2",
+      "team2": "Barcelona",
+      "team2_id": 2817,
+      "team1_id": 2816
+    }
+  ],
+  "01/30": [
+    {
+      "team1": "Villarreal",
+      "ST": "0 - 1",
+      "team2": "Rayo Vallecano",
+      "team2_id": 2818,
+      "team1_id": 2819
+    }
+  ],
+  "01/29": [
+    {
+      "team1": "Real Valladolid",
+      "ST": "1 - 0",
+      "team2": "Levante UD",
+      "team2_id": 2849,
+      "team1_id": 2831
+    },
+    {
+      "team1": "Osasuna",
+      "ST": "0 - 1",
+      "team2": "Atlético Madrid",
+      "team2_id": 2836,
+      "team1_id": 2820
+    },
+    {
+      "team1": "Celta Vigo",
+      "ST": "1 - 0",
+      "team2": "Athletic Club",
+      "team2_id": 2825,
+      "team1_id": 2821
+    },
+    {
+      "team1": "Real Madrid",
+      "ST": "0 - 0",
+      "team2": "Real Sociedad",
+      "team1_id": 2829,
+      "team2_id": 2824
+    }
+  ],
+  "01/28": [
+    {
+      "team1": "Cádiz",
+      "ST": "2 - 0",
+      "team2": "Mallorca",
+      "team1_id": 4488,
+      "team2_id": 2826
+    },
+    {
+      "team1": "Girona",
+      "ST": "0 - 1",
+      "team2": "Barcelona",
+      "team1_id": 24264,
+      "team2_id": 2817
+    },
+    {
+      "team1": "Sevilla",
+      "ST": "3 - 0",
+      "team2": "Elche",
+      "team1_id": 2833,
+      "team2_id": 2846
+    },
+    {
+      "team1": "Getafe",
+      "ST": "0 - 1",
+      "team2": "Real Betis",
+      "team2_id": 2816,
+      "team1_id": 2859
+    }
+  ],
+  "01/27": [
+    {
+      "team1": "Almería",
+      "ST": "3 - 1",
+      "team2": "Espanyol",
+      "team1_id": 2858,
+      "team2_id": 2814
+    }
+  ],
+  "01/23": [
+    {
+      "team1": "Levante UD",
+      "ST": "2 - 2",
+      "team2": "Almería",
+      "team1_id": 2849,
+      "team2_id": 2858
+    }
+  ],
+  "01/22": [
+    {
+      "team1": "Villarreal",
+      "ST": "1 - 0",
+      "team2": "Girona",
+      "team2_id": 24264,
+      "team1_id": 2819
+    },
+    {
+      "team1": "Elche",
+      "ST": "1 - 1",
+      "team2": "Osasuna",
+      "team2_id": 2820,
+      "team1_id": 2846
+    },
+    {
+      "team1": "Barcelona",
+      "ST": "1 - 0",
+      "team2": "Getafe",
+      "team1_id": 2817,
+      "team2_id": 2859
+    },
+    {
+      "team1": "Athletic Club",
+      "ST": "0 - 2",
+      "team2": "Real Madrid",
+      "team2_id": 2829,
+      "team1_id": 2825
+    }
+  ],
+  "01/21": [
+    {
+      "team1": "Rayo Vallecano",
+      "ST": "0 - 2",
+      "team2": "Real Sociedad",
+      "team1_id": 2818,
+      "team2_id": 2824
+    },
+    {
+      "team1": "Espanyol",
+      "ST": "1 - 0",
+      "team2": "Real Betis",
+      "team2_id": 2816,
+      "team1_id": 2814
+    },
+    {
+      "team1": "Atlético Madrid",
+      "ST": "3 - 0",
+      "team2": "Real Valladolid",
+      "team1_id": 2836,
+      "team2_id": 2831
+    },
+    {
+      "team1": "Sevilla",
+      "ST": "1 - 0",
+      "team2": "Cádiz",
+      "team2_id": 4488,
+      "team1_id": 2833
+    }
+  ],
+  "01/20": [
+    {
+      "team1": "Mallorca",
+      "ST": "1 - 0",
+      "team2": "Celta Vigo",
+      "team1_id": 2826,
+      "team2_id": 2821
+    }
+  ],
+  "01/16": [
+    {
+      "team1": "Cádiz",
+      "ST": "1 - 1",
+      "team2": "Elche",
+      "team1_id": 4488,
+      "team2_id": 2846
+    }
+  ],
+  "01/15": [
+    {
+      "team1": "Getafe",
+      "ST": "1 - 2",
+      "team2": "Espanyol",
+      "team1_id": 2859,
+      "team2_id": 2814
+    },
+    {
+      "team1": "Almería",
+      "ST": "1 - 1",
+      "team2": "Atlético Madrid",
+      "team2_id": 2836,
+      "team1_id": 2858
+    }
+  ],
+  "01/14": [
+    {
+      "team1": "Real Valladolid",
+      "ST": "0 - 1",
+      "team2": "Rayo Vallecano",
+      "team2_id": 2818,
+      "team1_id": 2831
+    },
+    {
+      "team1": "Girona",
+      "ST": "2 - 1",
+      "team2": "Sevilla",
+      "team1_id": 24264,
+      "team2_id": 2833
+    },
+    {
+      "team1": "Osasuna",
+      "ST": "1 - 0",
+      "team2": "Mallorca",
+      "team1_id": 2820,
+      "team2_id": 2826
+    },
+    {
+      "team1": "Real Sociedad",
+      "ST": "3 - 1",
+      "team2": "Athletic Club",
+      "team2_id": 2825,
+      "team1_id": 2824
+    }
+  ],
+  "01/13": [
+    {
+      "team1": "Celta Vigo",
+      "ST": "1 - 1",
+      "team2": "Villarreal",
+      "team2_id": 2819,
+      "team1_id": 2821
+    }
+  ],
+  "01/09": [
+    {
+      "team1": "Athletic Club",
+      "ST": "0 - 0",
+      "team2": "Osasuna",
+      "team1_id": 2825,
+      "team2_id": 2820
+    }
+  ],
+  "01/08": [
+    {
+      "team1": "Almería",
+      "ST": "0 - 2",
+      "team2": "Real Sociedad",
+      "team2_id": 2824,
+      "team1_id": 2858
+    },
+    {
+      "team1": "Rayo Vallecano",
+      "ST": "1 - 2",
+      "team2": "Real Betis",
+      "team1_id": 2818,
+      "team2_id": 2816
+    },
+    {
+      "team1": "Sevilla",
+      "ST": "2 - 1",
+      "team2": "Getafe",
+      "team2_id": 2859,
+      "team1_id": 2833
+    },
+    {
+      "team1": "Atlético Madrid",
+      "ST": "0 - 1",
+      "team2": "Barcelona",
+      "team1_id": 2836,
+      "team2_id": 2817
+    }
+  ],
+  "01/07": [
+    {
+      "team1": "Villarreal",
+      "ST": "2 - 1",
+      "team2": "Real Madrid",
+      "team2_id": 2829,
+      "team1_id": 2819
+    },
+    {
+      "team1": "Mallorca",
+      "ST": "1 - 0",
+      "team2": "Real Valladolid",
+      "team1_id": 2826,
+      "team2_id": 2831
+    },
+    {
+      "team1": "Espanyol",
+      "ST": "2 - 2",
+      "team2": "Girona",
+      "team2_id": 24264,
+      "team1_id": 2814
+    }
+  ],
+  "01/06": [
+    {
+      "team1": "Levante UD",
+      "ST": "0 - 1",
+      "team2": "Cádiz",
+      "team1_id": 2849,
+      "team2_id": 4488
+    }
+  ],
+  "12/31": [
+    {
+      "team1": "Barcelona",
+      "ST": "1 - 1",
+      "team2": "Espanyol",
+      "team1_id": 2817,
+      "team2_id": 2814
+    },
+    {
+      "team1": "Real Sociedad",
+      "ST": "2 - 0",
+      "team2": "Osasuna",
+      "team2_id": 2820,
+      "team1_id": 2824
+    },
+    {
+      "team1": "Villarreal",
+      "ST": "2 - 1",
+      "team2": "Levante UD",
+      "team2_id": 2849,
+      "team1_id": 2819
+    }
+  ],
+  "12/30": [
+    {
+      "team1": "Getafe",
+      "ST": "2 - 0",
+      "team2": "Mallorca",
+      "team2_id": 2826,
+      "team1_id": 2859
+    },
+    {
+      "team1": "Cádiz",
+      "ST": "1 - 1",
+      "team2": "Almería",
+      "team1_id": 4488,
+      "team2_id": 2858
+    },
+    {
+      "team1": "Celta Vigo",
+      "ST": "1 - 1",
+      "team2": "Sevilla",
+      "team1_id": 2821,
+      "team2_id": 2833
+    },
+    {
+      "team1": "Real Valladolid",
+      "ST": "0 - 2",
+      "team2": "Real Madrid",
+      "team2_id": 2829,
+      "team1_id": 2831
+    }
+  ],
+  "12/29": [
+    {
+      "team1": "Girona",
+      "ST": "2 - 2",
+      "team2": "Rayo Vallecano",
+      "team2_id": 2818,
+      "team1_id": 24264
+    },
+    {
+      "team1": "Real Betis",
+      "ST": "0 - 0",
+      "team2": "Athletic Club",
+      "team1_id": 2816,
+      "team2_id": 2825
+    },
+    {
+      "team1": "Atlético Madrid",
+      "ST": "2 - 0",
+      "team2": "Elche",
+      "team1_id": 2836,
+      "team2_id": 2846
+    }
+  ],
+  "11/10": [
+    {
+      "team1": "Rayo Vallecano",
+      "ST": "0 - 0",
+      "team2": "Celta Vigo",
+      "team1_id": 2818,
+      "team2_id": 2821
+    },
+    {
+      "team1": "Levante UD",
+      "ST": "3 - 0",
+      "team2": "Real Betis",
+      "team1_id": 2849,
+      "team2_id": 2816
+    },
+    {
+      "team1": "Real Madrid",
+      "ST": "2 - 1",
+      "team2": "Cádiz",
+      "team1_id": 2829,
+      "team2_id": 4488
+    }
+  ],
+  "11/09": [
+    {
+      "team1": "Almería",
+      "ST": "1 - 0",
+      "team2": "Getafe",
+      "team2_id": 2859,
+      "team1_id": 2858
+    },
+    {
+      "team1": "Sevilla",
+      "ST": "1 - 2",
+      "team2": "Real Sociedad",
+      "team2_id": 2824,
+      "team1_id": 2833
+    },
+    {
+      "team1": "Espanyol",
+      "ST": "0 - 1",
+      "team2": "Villarreal",
+      "team2_id": 2819,
+      "team1_id": 2814
+    },
+    {
+      "team1": "Mallorca",
+      "ST": "1 - 0",
+      "team2": "Atlético Madrid",
+      "team2_id": 2836,
+      "team1_id": 2826
+    }
+  ],
+  "11/08": [
+    {
+      "team1": "Elche",
+      "ST": "1 - 2",
+      "team2": "Girona",
+      "team2_id": 24264,
+      "team1_id": 2846
+    },
+    {
+      "team1": "Athletic Club",
+      "ST": "3 - 0",
+      "team2": "Real Valladolid",
+      "team1_id": 2825,
+      "team2_id": 2831
+    },
+    {
+      "team1": "Osasuna",
+      "ST": "1 - 2",
+      "team2": "Barcelona",
+      "team2_id": 2817,
+      "team1_id": 2820
+    }
+  ],
+  "11/07": [
+    {
+      "team1": "Rayo Vallecano",
+      "ST": "3 - 2",
+      "team2": "Real Madrid",
+      "team2_id": 2829,
+      "team1_id": 2818
+    }
+  ],
+  "11/06": [
+    {
+      "team1": "Atlético Madrid",
+      "ST": "1 - 1",
+      "team2": "Espanyol",
+      "team1_id": 2836,
+      "team2_id": 2814
+    },
+    {
+      "team1": "Real Sociedad",
+      "ST": "1 - 1",
+      "team2": "Levante UD",
+      "team2_id": 2849,
+      "team1_id": 2824
+    },
+    {
+      "team1": "Villarreal",
+      "ST": "0 - 2",
+      "team2": "Mallorca",
+      "team1_id": 2819,
+      "team2_id": 2826
+    },
+    {
+      "team1": "Real Betis",
+      "ST": "1 - 1",
+      "team2": "Sevilla",
+      "team1_id": 2816,
+      "team2_id": 2833
+    }
+  ],
+  "11/05": [
+    {
+      "team1": "Getafe",
+      "ST": "0 - 0",
+      "team2": "Cádiz",
+      "team2_id": 4488,
+      "team1_id": 2859
+    },
+    {
+      "team1": "Real Valladolid",
+      "ST": "2 - 1",
+      "team2": "Elche",
+      "team1_id": 2831,
+      "team2_id": 2846
+    },
+    {
+      "team1": "Celta Vigo",
+      "ST": "1 - 2",
+      "team2": "Osasuna",
+      "team2_id": 2820,
+      "team1_id": 2821
+    },
+    {
+      "team1": "Barcelona",
+      "ST": "2 - 0",
+      "team2": "Almería",
+      "team1_id": 2817,
+      "team2_id": 2858
+    }
+  ],
+  "11/04": [
+    {
+      "team1": "Girona",
+      "ST": "2 - 1",
+      "team2": "Athletic Club",
+      "team1_id": 24264,
+      "team2_id": 2825
+    }
+  ],
+  "10/31": [
+    {
+      "team1": "Elche",
+      "ST": "0 - 1",
+      "team2": "Getafe",
+      "team2_id": 2859,
+      "team1_id": 2846
+    }
+  ],
+  "10/30": [
+    {
+      "team1": "Osasuna",
+      "ST": "2 - 0",
+      "team2": "Real Valladolid",
+      "team1_id": 2820,
+      "team2_id": 2831
+    },
+    {
+      "team1": "Real Madrid",
+      "ST": "1 - 1",
+      "team2": "Girona",
+      "team1_id": 2829,
+      "team2_id": 24264
+    },
+    {
+      "team1": "Athletic Club",
+      "ST": "1 - 0",
+      "team2": "Villarreal",
+      "team1_id": 2825,
+      "team2_id": 2819
+    },
+    {
+      "team1": "Real Sociedad",
+      "ST": "0 - 2",
+      "team2": "Real Betis",
+      "team2_id": 2816,
+      "team1_id": 2824
+    }
+  ],
+  "10/29": [
+    {
+      "team1": "Almería",
+      "ST": "3 - 1",
+      "team2": "Celta Vigo",
+      "team2_id": 2821,
+      "team1_id": 2858
+    },
+    {
+      "team1": "Cádiz",
+      "ST": "3 - 2",
+      "team2": "Atlético Madrid",
+      "team2_id": 2836,
+      "team1_id": 4488
+    },
+    {
+      "team1": "Sevilla",
+      "ST": "0 - 1",
+      "team2": "Rayo Vallecano",
+      "team2_id": 2818,
+      "team1_id": 2833
+    },
+    {
+      "team1": "Levante UD",
+      "ST": "0 - 1",
+      "team2": "Barcelona",
+      "team1_id": 2849,
+      "team2_id": 2817
+    }
+  ],
+  "10/28": [
+    {
+      "team1": "Mallorca",
+      "ST": "1 - 1",
+      "team2": "Espanyol",
+      "team1_id": 2826,
+      "team2_id": 2814
+    }
+  ],
+  "10/24": [
+    {
+      "team1": "Celta Vigo",
+      "ST": "1 - 1",
+      "team2": "Getafe",
+      "team1_id": 2821,
+      "team2_id": 2859
+    }
+  ],
+  "10/23": [
+    {
+      "team1": "Espanyol",
+      "ST": "2 - 2",
+      "team2": "Elche",
+      "team1_id": 2814,
+      "team2_id": 2846
+    },
+    {
+      "team1": "Real Betis",
+      "ST": "1 - 2",
+      "team2": "Atlético Madrid",
+      "team2_id": 2836,
+      "team1_id": 2816
+    },
+    {
+      "team1": "Girona",
+      "ST": "1 - 1",
+      "team2": "Osasuna",
+      "team1_id": 24264,
+      "team2_id": 2820
+    },
+    {
+      "team1": "Villarreal",
+      "ST": "2 - 1",
+      "team2": "Almería",
+      "team1_id": 2819,
+      "team2_id": 2858
+    },
+    {
+      "team1": "Barcelona",
+      "ST": "4 - 0",
+      "team2": "Athletic Club",
+      "team1_id": 2817,
+      "team2_id": 2825
+    }
+  ],
+  "10/22": [
+    {
+      "team1": "Rayo Vallecano",
+      "ST": "5 - 1",
+      "team2": "Cádiz",
+      "team1_id": 2818,
+      "team2_id": 4488
+    },
+    {
+      "team1": "Real Valladolid",
+      "ST": "1 - 0",
+      "team2": "Real Sociedad",
+      "team2_id": 2824,
+      "team1_id": 2831
+    },
+    {
+      "team1": "Levante UD",
+      "ST": "1 - 2",
+      "team2": "Mallorca",
+      "team1_id": 2849,
+      "team2_id": 2826
+    },
+    {
+      "team1": "Real Madrid",
+      "ST": "3 - 1",
+      "team2": "Sevilla",
+      "team1_id": 2829,
+      "team2_id": 2833
+    }
+  ],
+  "10/20": [
+    {
+      "team1": "Almería",
+      "ST": "3 - 2",
+      "team2": "Girona",
+      "team2_id": 24264,
+      "team1_id": 2858
+    },
+    {
+      "team1": "Osasuna",
+      "ST": "1 - 0",
+      "team2": "Espanyol",
+      "team1_id": 2820,
+      "team2_id": 2814
+    },
+    {
+      "team1": "Barcelona",
+      "ST": "3 - 0",
+      "team2": "Villarreal",
+      "team1_id": 2817,
+      "team2_id": 2819
+    }
+  ],
+  "10/19": [
+    {
+      "team1": "Cádiz",
+      "ST": "0 - 0",
+      "team2": "Real Betis",
+      "team2_id": 2816,
+      "team1_id": 4488
+    },
+    {
+      "team1": "Real Valladolid",
+      "ST": "4 - 1",
+      "team2": "Celta Vigo",
+      "team2_id": 2821,
+      "team1_id": 2831
+    },
+    {
+      "team1": "Real Sociedad",
+      "ST": "1 - 0",
+      "team2": "Mallorca",
+      "team1_id": 2824,
+      "team2_id": 2826
+    },
+    {
+      "team1": "Elche",
+      "ST": "0 - 3",
+      "team2": "Real Madrid",
+      "team2_id": 2829,
+      "team1_id": 2846
+    }
+  ],
+  "10/18": [
+    {
+      "team1": "Sevilla",
+      "ST": "1 - 1",
+      "team2": "Levante UD",
+      "team2_id": 2849,
+      "team1_id": 2833
+    },
+    {
+      "team1": "Getafe",
+      "ST": "2 - 2",
+      "team2": "Athletic Club",
+      "team2_id": 2825,
+      "team1_id": 2859
+    },
+    {
+      "team1": "Atlético Madrid",
+      "ST": "1 - 1",
+      "team2": "Rayo Vallecano",
+      "team2_id": 2818,
+      "team1_id": 2836
+    }
+  ],
+  "10/17": [
+    {
+      "team1": "Villarreal",
+      "ST": "2 - 0",
+      "team2": "Osasuna",
+      "team2_id": 2820,
+      "team1_id": 2819
+    }
+  ],
+  "10/16": [
+    {
+      "team1": "Celta Vigo",
+      "ST": "1 - 2",
+      "team2": "Real Sociedad",
+      "team2_id": 2824,
+      "team1_id": 2821
+    },
+    {
+      "team1": "Real Madrid",
+      "ST": "3 - 1",
+      "team2": "Barcelona",
+      "team1_id": 2829,
+      "team2_id": 2817
+    },
+    {
+      "team1": "Espanyol",
+      "ST": "1 - 0",
+      "team2": "Real Valladolid",
+      "team2_id": 2831,
+      "team1_id": 2814
+    },
+    {
+      "team1": "Real Betis",
+      "ST": "3 - 1",
+      "team2": "Almería",
+      "team1_id": 2816,
+      "team2_id": 2858
+    }
+  ],
+  "10/15": [
+    {
+      "team1": "Girona",
+      "ST": "1 - 1",
+      "team2": "Cádiz",
+      "team1_id": 24264,
+      "team2_id": 4488
+    },
+    {
+      "team1": "Levante UD",
+      "ST": "2 - 2",
+      "team2": "Elche",
+      "team1_id": 2849,
+      "team2_id": 2846
+    },
+    {
+      "team1": "Mallorca",
+      "ST": "0 - 1",
+      "team2": "Sevilla",
+      "team1_id": 2826,
+      "team2_id": 2833
+    },
+    {
+      "team1": "Athletic Club",
+      "ST": "0 - 1",
+      "team2": "Atlético Madrid",
+      "team2_id": 2836,
+      "team1_id": 2825
+    }
+  ],
+  "10/14": [
+    {
+      "team1": "Rayo Vallecano",
+      "ST": "0 - 0",
+      "team2": "Getafe",
+      "team1_id": 2818,
+      "team2_id": 2859
+    }
+  ],
+  "10/10": [
+    {
+      "team1": "Elche",
+      "ST": "1 - 1",
+      "team2": "Mallorca",
+      "team2_id": 2826,
+      "team1_id": 2846
+    }
+  ],
+  "10/09": [
+    {
+      "team1": "Real Valladolid",
+      "ST": "0 - 0",
+      "team2": "Real Betis",
+      "team2_id": 2816,
+      "team1_id": 2831
+    },
+    {
+      "team1": "Cádiz",
+      "ST": "2 - 2",
+      "team2": "Espanyol",
+      "team1_id": 4488,
+      "team2_id": 2814
+    },
+    {
+      "team1": "Real Sociedad",
+      "ST": "1 - 0",
+      "team2": "Villarreal",
+      "team2_id": 2819,
+      "team1_id": 2824
+    },
+    {
+      "team1": "Barcelona",
+      "ST": "1 - 0",
+      "team2": "Celta Vigo",
+      "team1_id": 2817,
+      "team2_id": 2821
+    }
+  ],
+  "10/08": [
+    {
+      "team1": "Almería",
+      "ST": "3 - 1",
+      "team2": "Rayo Vallecano",
+      "team2_id": 2818,
+      "team1_id": 2858
+    },
+    {
+      "team1": "Atlético Madrid",
+      "ST": "2 - 1",
+      "team2": "Girona",
+      "team2_id": 24264,
+      "team1_id": 2836
+    },
+    {
+      "team1": "Sevilla",
+      "ST": "1 - 1",
+      "team2": "Athletic Club",
+      "team2_id": 2825,
+      "team1_id": 2833
+    },
+    {
+      "team1": "Getafe",
+      "ST": "0 - 1",
+      "team2": "Real Madrid",
+      "team2_id": 2829,
+      "team1_id": 2859
+    }
+  ],
+  "10/07": [
+    {
+      "team1": "Osasuna",
+      "ST": "1 - 2",
+      "team2": "Levante UD",
+      "team2_id": 2849,
+      "team1_id": 2820
+    }
+  ],
+  "10/03": [
+    {
+      "team1": "Rayo Vallecano",
+      "ST": "2 - 1",
+      "team2": "Elche",
+      "team1_id": 2818,
+      "team2_id": 2846
+    }
+  ],
+  "10/02": [
+    {
+      "team1": "Espanyol",
+      "ST": "2 - 2",
+      "team2": "Levante UD",
+      "team2_id": 2849,
+      "team1_id": 2814
+    },
+    {
+      "team1": "Celta Vigo",
+      "ST": "1 - 0",
+      "team2": "Real Betis",
+      "team2_id": 2816,
+      "team1_id": 2821
+    },
+    {
+      "team1": "Girona",
+      "ST": "3 - 5",
+      "team2": "Real Sociedad",
+      "team1_id": 24264,
+      "team2_id": 2824
+    },
+    {
+      "team1": "Real Madrid",
+      "ST": "1 - 1",
+      "team2": "Osasuna",
+      "team1_id": 2829,
+      "team2_id": 2820
+    }
+  ],
+  "10/01": [
+    {
+      "team1": "Cádiz",
+      "ST": "0 - 0",
+      "team2": "Villarreal",
+      "team1_id": 4488,
+      "team2_id": 2819
+    },
+    {
+      "team1": "Getafe",
+      "ST": "2 - 3",
+      "team2": "Real Valladolid",
+      "team1_id": 2859,
+      "team2_id": 2831
+    },
+    {
+      "team1": "Sevilla",
+      "ST": "0 - 2",
+      "team2": "Atlético Madrid",
+      "team2_id": 2836,
+      "team1_id": 2833
+    },
+    {
+      "team1": "Mallorca",
+      "ST": "0 - 1",
+      "team2": "Barcelona",
+      "team2_id": 2817,
+      "team1_id": 2826
+    }
+  ],
+  "09/30": [
+    {
+      "team1": "Athletic Club",
+      "ST": "4 - 0",
+      "team2": "Almería",
+      "team1_id": 2825,
+      "team2_id": 2858
+    }
+  ],
+  "09/18": [
+    {
+      "team1": "Osasuna",
+      "ST": "0 - 2",
+      "team2": "Getafe",
+      "team1_id": 2820,
+      "team2_id": 2859
+    },
+    {
+      "team1": "Villarreal",
+      "ST": "1 - 1",
+      "team2": "Sevilla",
+      "team1_id": 2819,
+      "team2_id": 2833
+    },
+    {
+      "team1": "Real Betis",
+      "ST": "2 - 1",
+      "team2": "Girona",
+      "team2_id": 24264,
+      "team1_id": 2816
+    },
+    {
+      "team1": "Real Sociedad",
+      "ST": "2 - 1",
+      "team2": "Espanyol",
+      "team1_id": 2824,
+      "team2_id": 2814
+    },
+    {
+      "team1": "Atlético Madrid",
+      "ST": "1 - 2",
+      "team2": "Real Madrid",
+      "team2_id": 2829,
+      "team1_id": 2836
+    }
+  ],
+  "09/17": [
+    {
+      "team1": "Mallorca",
+      "ST": "1 - 0",
+      "team2": "Almería",
+      "team1_id": 2826,
+      "team2_id": 2858
+    },
+    {
+      "team1": "Barcelona",
+      "ST": "3 - 0",
+      "team2": "Elche",
+      "team1_id": 2817,
+      "team2_id": 2846
+    },
+    {
+      "team1": "Levante UD",
+      "ST": "3 - 0",
+      "team2": "Celta Vigo",
+      "team1_id": 2849,
+      "team2_id": 2821
+    },
+    {
+      "team1": "Athletic Club",
+      "ST": "3 - 2",
+      "team2": "Rayo Vallecano",
+      "team2_id": 2818,
+      "team1_id": 2825
+    }
+  ],
+  "09/16": [
+    {
+      "team1": "Real Valladolid",
+      "ST": "0 - 1",
+      "team2": "Cádiz",
+      "team2_id": 4488,
+      "team1_id": 2831
+    }
+  ],
+  "09/12": [
+    {
+      "team1": "Almería",
+      "ST": "0 - 1",
+      "team2": "Osasuna",
+      "team2_id": 2820,
+      "team1_id": 2858
+    }
+  ],
+  "09/11": [
+    {
+      "team1": "Real Madrid",
+      "ST": "4 - 1",
+      "team2": "Mallorca",
+      "team1_id": 2829,
+      "team2_id": 2826
+    },
+    {
+      "team1": "Elche",
+      "ST": "1 - 4",
+      "team2": "Athletic Club",
+      "team2_id": 2825,
+      "team1_id": 2846
+    },
+    {
+      "team1": "Getafe",
+      "ST": "2 - 1",
+      "team2": "Real Sociedad",
+      "team2_id": 2824,
+      "team1_id": 2859
+    },
+    {
+      "team1": "Real Betis",
+      "ST": "1 - 0",
+      "team2": "Villarreal",
+      "team1_id": 2816,
+      "team2_id": 2819
+    }
+  ],
+  "09/10": [
+    {
+      "team1": "Rayo Vallecano",
+      "ST": "2 - 1",
+      "team2": "Levante UD",
+      "team1_id": 2818,
+      "team2_id": 2849
+    },
+    {
+      "team1": "Espanyol",
+      "ST": "2 - 3",
+      "team2": "Sevilla",
+      "team2_id": 2833,
+      "team1_id": 2814
+    },
+    {
+      "team1": "Cádiz",
+      "ST": "0 - 4",
+      "team2": "Barcelona",
+      "team2_id": 2817,
+      "team1_id": 4488
+    },
+    {
+      "team1": "Atlético Madrid",
+      "ST": "4 - 1",
+      "team2": "Celta Vigo",
+      "team1_id": 2836,
+      "team2_id": 2821
+    }
+  ],
+  "09/09": [
+    {
+      "team1": "Girona",
+      "ST": "2 - 1",
+      "team2": "Real Valladolid",
+      "team1_id": 24264,
+      "team2_id": 2831
+    }
+  ],
+  "09/05": [
+    {
+      "team1": "Real Valladolid",
+      "ST": "1 - 0",
+      "team2": "Almería",
+      "team2_id": 2858,
+      "team1_id": 2831
+    }
+  ],
+  "09/04": [
+    {
+      "team1": "Osasuna",
+      "ST": "2 - 1",
+      "team2": "Rayo Vallecano",
+      "team2_id": 2818,
+      "team1_id": 2820
+    },
+    {
+      "team1": "Athletic Club",
+      "ST": "0 - 1",
+      "team2": "Espanyol",
+      "team1_id": 2825,
+      "team2_id": 2814
+    },
+    {
+      "team1": "Villarreal",
+      "ST": "4 - 0",
+      "team2": "Elche",
+      "team1_id": 2819,
+      "team2_id": 2846
+    },
+    {
+      "team1": "Levante UD",
+      "ST": "5 - 1",
+      "team2": "Getafe",
+      "team1_id": 2849,
+      "team2_id": 2859
+    }
+  ],
+  "09/03": [
+    {
+      "team1": "Mallorca",
+      "ST": "1 - 1",
+      "team2": "Girona",
+      "team2_id": 24264,
+      "team1_id": 2826
+    },
+    {
+      "team1": "Real Madrid",
+      "ST": "2 - 1",
+      "team2": "Real Betis",
+      "team1_id": 2829,
+      "team2_id": 2816
+    },
+    {
+      "team1": "Real Sociedad",
+      "ST": "1 - 1",
+      "team2": "Atlético Madrid",
+      "team2_id": 2836,
+      "team1_id": 2824
+    },
+    {
+      "team1": "Sevilla",
+      "ST": "0 - 3",
+      "team2": "Barcelona",
+      "team2_id": 2817,
+      "team1_id": 2833
+    }
+  ],
+  "09/02": [
+    {
+      "team1": "Celta Vigo",
+      "ST": "3 - 0",
+      "team2": "Cádiz",
+      "team2_id": 4488,
+      "team1_id": 2821
+    }
+  ],
+  "08/29": [
+    {
+      "team1": "Cádiz",
+      "ST": "0 - 4",
+      "team2": "Athletic Club",
+      "team1_id": 4488,
+      "team2_id": 2825
+    },
+    {
+      "team1": "Levante UD",
+      "ST": "0 - 1",
+      "team2": "Atlético Madrid",
+      "team1_id": 2849,
+      "team2_id": 2836
+    }
+  ],
+  "08/28": [
+    {
+      "team1": "Getafe",
+      "ST": "0 - 0",
+      "team2": "Villarreal",
+      "team2_id": 2819,
+      "team1_id": 2859
+    },
+    {
+      "team1": "Barcelona",
+      "ST": "4 - 0",
+      "team2": "Real Valladolid",
+      "team1_id": 2817,
+      "team2_id": 2831
+    },
+    {
+      "team1": "Espanyol",
+      "ST": "1 - 3",
+      "team2": "Real Madrid",
+      "team2_id": 2829,
+      "team1_id": 2814
+    }
+  ],
+  "08/27": [
+    {
+      "team1": "Elche",
+      "ST": "0 - 1",
+      "team2": "Real Sociedad",
+      "team2_id": 2824,
+      "team1_id": 2846
+    },
+    {
+      "team1": "Rayo Vallecano",
+      "ST": "0 - 2",
+      "team2": "Mallorca",
+      "team1_id": 2818,
+      "team2_id": 2826
+    },
+    {
+      "team1": "Almería",
+      "ST": "2 - 1",
+      "team2": "Sevilla",
+      "team1_id": 2858,
+      "team2_id": 2833
+    }
+  ],
+  "08/26": [
+    {
+      "team1": "Girona",
+      "ST": "0 - 1",
+      "team2": "Celta Vigo",
+      "team1_id": 24264,
+      "team2_id": 2821
+    },
+    {
+      "team1": "Real Betis",
+      "ST": "1 - 0",
+      "team2": "Osasuna",
+      "team1_id": 2816,
+      "team2_id": 2820
+    }
+  ],
+  "08/22": [
+    {
+      "team1": "Elche",
+      "ST": "1 - 1",
+      "team2": "Almería",
+      "team2_id": 2858,
+      "team1_id": 2846
+    },
+    {
+      "team1": "Girona",
+      "ST": "3 - 1",
+      "team2": "Getafe",
+      "team1_id": 24264,
+      "team2_id": 2859
+    }
+  ],
+  "08/21": [
+    {
+      "team1": "Athletic Club",
+      "ST": "1 - 0",
+      "team2": "Levante UD",
+      "team2_id": 2849,
+      "team1_id": 2825
+    },
+    {
+      "team1": "Atlético Madrid",
+      "ST": "0 - 2",
+      "team2": "Villarreal",
+      "team1_id": 2836,
+      "team2_id": 2819
+    },
+    {
+      "team1": "Real Sociedad",
+      "ST": "1 - 4",
+      "team2": "Barcelona",
+      "team2_id": 2817,
+      "team1_id": 2824
+    }
+  ],
+  "08/20": [
+    {
+      "team1": "Osasuna",
+      "ST": "2 - 0",
+      "team2": "Cádiz",
+      "team2_id": 4488,
+      "team1_id": 2820
+    },
+    {
+      "team1": "Mallorca",
+      "ST": "1 - 2",
+      "team2": "Real Betis",
+      "team2_id": 2816,
+      "team1_id": 2826
+    },
+    {
+      "team1": "Celta Vigo",
+      "ST": "1 - 4",
+      "team2": "Real Madrid",
+      "team2_id": 2829,
+      "team1_id": 2821
+    }
+  ],
+  "08/19": [
+    {
+      "team1": "Espanyol",
+      "ST": "0 - 2",
+      "team2": "Rayo Vallecano",
+      "team2_id": 2818,
+      "team1_id": 2814
+    },
+    {
+      "team1": "Sevilla",
+      "ST": "1 - 1",
+      "team2": "Real Valladolid",
+      "team1_id": 2833,
+      "team2_id": 2831
+    }
+  ],
+  "08/15": [
+    {
+      "team1": "Athletic Club",
+      "ST": "0 - 0",
+      "team2": "Mallorca",
+      "team1_id": 2825,
+      "team2_id": 2826
+    },
+    {
+      "team1": "Getafe",
+      "ST": "0 - 3",
+      "team2": "Atlético Madrid",
+      "team2_id": 2836,
+      "team1_id": 2859
+    },
+    {
+      "team1": "Real Betis",
+      "ST": "3 - 0",
+      "team2": "Elche",
+      "team1_id": 2816,
+      "team2_id": 2846
+    }
+  ],
+  "08/14": [
+    {
+      "team1": "Cádiz",
+      "ST": "0 - 1",
+      "team2": "Real Sociedad",
+      "team1_id": 4488,
+      "team2_id": 2824
+    },
+    {
+      "team1": "Levante UD",
+      "ST": "1 - 0",
+      "team2": "Girona",
+      "team1_id": 2849,
+      "team2_id": 24264
+    },
+    {
+      "team1": "Almería",
+      "ST": "1 - 2",
+      "team2": "Real Madrid",
+      "team2_id": 2829,
+      "team1_id": 2858
+    }
+  ],
+  "08/13": [
+    {
+      "team1": "Celta Vigo",
+      "ST": "2 - 2",
+      "team2": "Espanyol",
+      "team1_id": 2821,
+      "team2_id": 2814
+    },
+    {
+      "team1": "Real Valladolid",
+      "ST": "0 - 3",
+      "team2": "Villarreal",
+      "team2_id": 2819,
+      "team1_id": 2831
+    },
+    {
+      "team1": "Barcelona",
+      "ST": "0 - 0",
+      "team2": "Rayo Vallecano",
+      "team2_id": 2818,
+      "team1_id": 2817
+    }
+  ],
+  "08/12": [
+    {
+      "team1": "Osasuna",
+      "ST": "2 - 1",
+      "team2": "Sevilla",
+      "team1_id": 2820,
+      "team2_id": 2833
+    }
+  ]
+}
