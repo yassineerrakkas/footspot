@@ -2,7 +2,7 @@ from bs4 import BeautifulSoup
 import requests
 import json
 
-def scrap_tables(url,id):
+def scrap_tables(url,id,year):
     reponse = requests.get(url)
     html = reponse.content
 
@@ -34,12 +34,12 @@ def scrap_tables(url,id):
 
     #now we need to convert the list of dicts to a json file
     a = url.split('/')
-    file_name = "../../Json/Standings/"+id+'/'+a[-1]+".json"
+    file_name = "../../Json/Standings/"+id+'/'+str(year)+'-'+str(year+1)+".json"
     with open(file_name,"w") as f:
         json.dump(standingTable, f, indent=4)
 leagues = ['premier-league-table/','la-liga-table/','serie-a-table/','bundesliga-table/','ligue-1-table/']
 for league in leagues:
-    for year in range(2010,2023):
+    for year in range(2010,2024):
         url = "https://www.skysports.com/" + league+str(year)
         id = ['en','es','de','it','fr']
-        scrap_tables(url,id[leagues.index(league)])
+        scrap_tables(url,id[leagues.index(league)],year)

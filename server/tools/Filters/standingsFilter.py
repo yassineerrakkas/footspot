@@ -2,7 +2,7 @@ import json
 import csv
 
 def addid(dir, year):
-    csv_filename ='all_the_names/' + dir + '-teams.csv'
+    csv_filename ='../all_the_names/' + dir + '-teams.csv'
     csv_data = []
     with open(csv_filename, 'r', encoding='utf-8') as csv_file:
         csv_reader = csv.DictReader(csv_file)
@@ -10,7 +10,7 @@ def addid(dir, year):
             csv_data.append(row)
 
     # Read and parse JSON data
-    json_filename = '../Json/' + dir + '/' + year + '.json'
+    json_filename = '../../Json/Standings/' + dir + '/' + str(year) +'-'+str(year+1) + '.json'
     with open(json_filename, 'r', encoding='utf-8') as json_file:
         json_data = json.load(json_file)
 
@@ -29,5 +29,5 @@ def addid(dir, year):
         print(json_filename, 'is updated')
 
 for dir in ['en','es','de','it','fr']:
-    for i in range(2023, 2024):
-        addid(dir, str(i))
+    for  year in range(2023, 2024):
+        addid(dir, year)

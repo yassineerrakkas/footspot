@@ -66,8 +66,8 @@
     {
       "team1": "Southampton",
       "ST": "4 - 4",
-      "team2": "Everton",
-      "team2_id": 48,
+      "team2": "Liverpool",
+      "team2_id": 44,
       "team1_id": 45
     }
   ],
@@ -144,10 +144,10 @@
       "team1_id": 43
     },
     {
-      "team1": "Everton",
+      "team1": "Liverpool",
       "ST": "1 - 1",
       "team2": "Aston Villa",
-      "team1_id": 48,
+      "team1_id": 44,
       "team2_id": 40
     },
     {
@@ -178,8 +178,8 @@
     {
       "team1": "Leicester City",
       "ST": "0 - 3",
-      "team2": "Everton",
-      "team2_id": 48,
+      "team2": "Liverpool",
+      "team2_id": 44,
       "team1_id": 31
     }
   ],
@@ -319,11 +319,11 @@
       "team1_id": 3
     },
     {
-      "team1": "Everton",
+      "team1": "Liverpool",
       "ST": "1 - 0",
       "team2": "Brentford",
       "team2_id": 50,
-      "team1_id": 48
+      "team1_id": 44
     }
   ],
   "05/04": [
@@ -337,10 +337,10 @@
   ],
   "05/03": [
     {
-      "team1": "Everton",
+      "team1": "Liverpool",
       "ST": "1 - 0",
       "team2": "Fulham",
-      "team1_id": 48,
+      "team1_id": 44,
       "team2_id": 43
     },
     {
@@ -399,11 +399,11 @@
       "team2_id": 45
     },
     {
-      "team1": "Everton",
+      "team1": "Liverpool",
       "ST": "4 - 3",
       "team2": "Tottenham Hotspur",
       "team2_id": 33,
-      "team1_id": 48
+      "team1_id": 44
     }
   ],
   "04/29": [
@@ -470,9 +470,9 @@
     {
       "team1": "West Ham United",
       "ST": "1 - 2",
-      "team2": "Everton",
+      "team2": "Liverpool",
       "team1_id": 37,
-      "team2_id": 48
+      "team2_id": 44
     },
     {
       "team1": "Manchester City",
@@ -551,10 +551,10 @@
       "team1_id": 31
     },
     {
-      "team1": "Everton",
+      "team1": "Liverpool",
       "ST": "3 - 2",
       "team2": "Nottingham Forest",
-      "team1_id": 48,
+      "team1_id": 44,
       "team2_id": 14
     }
   ],
@@ -571,8 +571,8 @@
     {
       "team1": "Leeds United",
       "ST": "1 - 6",
-      "team2": "Everton",
-      "team2_id": 48,
+      "team2": "Liverpool",
+      "team2_id": 44,
       "team1_id": 34
     }
   ],
@@ -652,11 +652,11 @@
       "team1_id": 34
     },
     {
-      "team1": "Everton",
+      "team1": "Liverpool",
       "ST": "2 - 2",
       "team2": "Arsenal",
       "team2_id": 42,
-      "team1_id": 48
+      "team1_id": 44
     }
   ],
   "04/08": [
@@ -758,8 +758,8 @@
     {
       "team1": "Chelsea",
       "ST": "0 - 0",
-      "team2": "Everton",
-      "team2_id": 48,
+      "team2": "Liverpool",
+      "team2_id": 44,
       "team1_id": 38
     }
   ],
@@ -792,9 +792,9 @@
     {
       "team1": "Manchester City",
       "ST": "4 - 1",
-      "team2": "Everton",
+      "team2": "Liverpool",
       "team1_id": 17,
-      "team2_id": 48
+      "team2_id": 44
     },
     {
       "team1": "Arsenal",
@@ -944,8 +944,8 @@
     {
       "team1": "AFC Bournemouth",
       "ST": "1 - 0",
-      "team2": "Everton",
-      "team2_id": 48,
+      "team2": "Liverpool",
+      "team2_id": 44,
       "team1_id": 60
     },
     {
@@ -1002,11 +1002,11 @@
       "team2_id": 48
     },
     {
-      "team1": "Everton",
+      "team1": "Liverpool",
       "ST": "7 - 0",
       "team2": "Manchester United",
       "team2_id": 35,
-      "team1_id": 48
+      "team1_id": 44
     }
   ],
   "03/04": [
@@ -1069,10 +1069,10 @@
       "team2_id": 48
     },
     {
-      "team1": "Everton",
+      "team1": "Liverpool",
       "ST": "2 - 0",
       "team2": "Wolverhampton",
-      "team1_id": 48,
+      "team1_id": 44,
       "team2_id": 3
     }
   ],
@@ -1124,8 +1124,8 @@
     {
       "team1": "Crystal Palace",
       "ST": "0 - 0",
-      "team2": "Everton",
-      "team2_id": 48,
+      "team2": "Liverpool",
+      "team2_id": 44,
       "team1_id": 7
     }
   ],
@@ -1207,8 +1207,8 @@
     {
       "team1": "Newcastle United",
       "ST": "0 - 2",
-      "team2": "Everton",
-      "team2_id": 48,
+      "team2": "Liverpool",
+      "team2_id": 44,
       "team1_id": 39
     }
   ],
@@ -1223,10 +1223,10 @@
   ],
   "02/13": [
     {
-      "team1": "Everton",
+      "team1": "Liverpool",
       "ST": "2 - 0",
       "team2": "Everton",
-      "team1_id": 48,
+      "team1_id": 44,
       "team2_id": 48
     }
   ],
@@ -1361,8 +1361,8 @@
     {
       "team1": "Wolverhampton",
       "ST": "3 - 0",
-      "team2": "Everton",
-      "team2_id": 48,
+      "team2": "Liverpool",
+      "team2_id": 44,
       "team1_id": 3
     },
     {
@@ -1416,10 +1416,10 @@
   ],
   "01/21": [
     {
-      "team1": "Everton",
+      "team1": "Liverpool",
       "ST": "0 - 0",
       "team2": "Chelsea",
-      "team1_id": 48,
+      "team1_id": 44,
       "team2_id": 38
     },
     {
@@ -1510,9 +1510,9 @@
     {
       "team1": "Brighton and Hove Albion",
       "ST": "3 - 0",
-      "team2": "Everton",
+      "team2": "Liverpool",
       "team1_id": 30,
-      "team2_id": 48
+      "team2_id": 44
     },
     {
       "team1": "Everton",
@@ -1634,9 +1634,9 @@
     {
       "team1": "Brentford",
       "ST": "3 - 1",
-      "team2": "Everton",
+      "team2": "Liverpool",
       "team1_id": 50,
-      "team2_id": 48
+      "team2_id": 44
     }
   ],
   "01/01": [
@@ -1708,10 +1708,10 @@
       "team2_id": 50
     },
     {
-      "team1": "Everton",
+      "team1": "Liverpool",
       "ST": "2 - 1",
       "team2": "Leicester City",
-      "team1_id": 48,
+      "team1_id": 44,
       "team2_id": 31
     }
   ],
@@ -1779,8 +1779,8 @@
     {
       "team1": "Aston Villa",
       "ST": "1 - 3",
-      "team2": "Everton",
-      "team2_id": 48,
+      "team2": "Liverpool",
+      "team2_id": 44,
       "team1_id": 40
     },
     {
@@ -1823,10 +1823,10 @@
       "team2_id": 48
     },
     {
-      "team1": "Everton",
+      "team1": "Liverpool",
       "ST": "3 - 1",
       "team2": "Southampton",
-      "team1_id": 48,
+      "team1_id": 44,
       "team2_id": 45
     },
     {
@@ -1897,9 +1897,9 @@
     {
       "team1": "Tottenham Hotspur",
       "ST": "1 - 2",
-      "team2": "Everton",
+      "team2": "Liverpool",
       "team1_id": 33,
-      "team2_id": 48
+      "team2_id": 44
     }
   ],
   "11/05": [
@@ -2006,10 +2006,10 @@
       "team2_id": 48
     },
     {
-      "team1": "Everton",
+      "team1": "Liverpool",
       "ST": "1 - 2",
       "team2": "Leeds United",
-      "team1_id": 48,
+      "team1_id": 44,
       "team2_id": 34
     }
   ],
@@ -2063,8 +2063,8 @@
     {
       "team1": "Nottingham Forest",
       "ST": "1 - 0",
-      "team2": "Everton",
-      "team2_id": 48,
+      "team2": "Liverpool",
+      "team2_id": 44,
       "team1_id": 14
     },
     {
@@ -2121,11 +2121,11 @@
       "team2_id": 38
     },
     {
-      "team1": "Everton",
+      "team1": "Liverpool",
       "ST": "1 - 0",
       "team2": "West Ham United",
       "team2_id": 37,
-      "team1_id": 48
+      "team1_id": 44
     },
     {
       "team1": "Newcastle United",
@@ -2188,11 +2188,11 @@
       "team1_id": 45
     },
     {
-      "team1": "Everton",
+      "team1": "Liverpool",
       "ST": "1 - 0",
       "team2": "Manchester City",
       "team2_id": 17,
-      "team1_id": 48
+      "team1_id": 44
     }
   ],
   "10/15": [
@@ -2261,9 +2261,9 @@
     {
       "team1": "Arsenal",
       "ST": "3 - 2",
-      "team2": "Everton",
+      "team2": "Liverpool",
       "team1_id": 42,
-      "team2_id": 48
+      "team2_id": 44
     },
     {
       "team1": "Everton",
@@ -2365,11 +2365,11 @@
       "team2_id": 39
     },
     {
-      "team1": "Everton",
+      "team1": "Liverpool",
       "ST": "3 - 3",
       "team2": "Brighton and Hove Albion",
       "team2_id": 30,
-      "team1_id": 48
+      "team1_id": 44
     },
     {
       "team1": "Southampton",
@@ -2461,8 +2461,8 @@
     {
       "team1": "Everton",
       "ST": "0 - 0",
-      "team2": "Everton",
-      "team2_id": 48,
+      "team2": "Liverpool",
+      "team2_id": 44,
       "team1_id": 48
     },
     {
@@ -2554,10 +2554,10 @@
       "team2_id": 33
     },
     {
-      "team1": "Everton",
+      "team1": "Liverpool",
       "ST": "2 - 1",
       "team2": "Newcastle United",
-      "team1_id": 48,
+      "team1_id": 44,
       "team2_id": 39
     }
   ],
@@ -2644,10 +2644,10 @@
       "team2_id": 31
     },
     {
-      "team1": "Everton",
+      "team1": "Liverpool",
       "ST": "9 - 0",
       "team2": "AFC Bournemouth",
-      "team1_id": 48,
+      "team1_id": 44,
       "team2_id": 60
     },
     {
@@ -2669,9 +2669,9 @@
     {
       "team1": "Manchester United",
       "ST": "2 - 1",
-      "team2": "Everton",
+      "team2": "Liverpool",
       "team1_id": 35,
-      "team2_id": 48
+      "team2_id": 44
     }
   ],
   "08/21": [
@@ -2743,10 +2743,10 @@
   ],
   "08/15": [
     {
-      "team1": "Everton",
+      "team1": "Liverpool",
       "ST": "1 - 1",
       "team2": "Crystal Palace",
-      "team1_id": 48,
+      "team1_id": 44,
       "team2_id": 7
     }
   ],
@@ -2844,8 +2844,8 @@
     {
       "team1": "Fulham",
       "ST": "2 - 2",
-      "team2": "Everton",
-      "team2_id": 48,
+      "team2": "Liverpool",
+      "team2_id": 44,
       "team1_id": 43
     },
     {

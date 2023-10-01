@@ -44,7 +44,7 @@ def get_fixture(today, league, year):
         today_data = data.get(today, [])
         for match in today_data:
             if '-' in match.get('ST', ''):
-                match['state'] = 'Full Time'
+                match['state'] = 'Full-Time'
                 continue
             match_time = datetime.strptime(match.get('ST', ''), '%H:%M').time()
             # Create a datetime object for the match using the provided year, month, and day
